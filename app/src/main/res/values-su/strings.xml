@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Panarjamah Basa</string>
+  <string name="home">Imah</string>
+  <string name="shareVia">Bagikeun via</string>
+  <string name="LanguageTranslator">Panarjamah Basa</string>
+  <string name="Translate">Tarjamahkeun</string>
+  <string name="Conversation">Paguneman</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Kamus</string>
+  <string name="SearchWord">Kecap pilarian</string>
+  <string name="ShareWithFriends">Bagikeun jeung Babaturan</string>
+  <string name="ChangeLanguage">Robah Basa</string>
+  <string name="PrivacyPolicy">Kabijakan privasi</string>
+  <string name="Gallery">Galeri</string>
+  <string name="Camera">Kaméra</string>
+  <string name="DoYouWantToExit">Naha rék kaluar</string>
+  <string name="Cancel">Ngabolaykeun</string>
+  <string name="Exit">Kaluar</string>
+  <string name="SelectAppLanguage">Pilih Basa Aplikasi</string>
+  <string name="Ok">OKÉ</string>
+  <string name="Copy">Nyalin</string>
+  <string name="FullScreen">Layar pinuh</string>
+  <string name="ClearTitle">Jelas</string>
+  <string name="ClearConversationMsg">Naha anjeun yakin hoyong mupus paguneman?</string>
+  <string name="Yes">Sumuhun</string>
+  <string name="No">No</string>
+  <string name="SelectLanguage">Pilih Basa</string>
+  <string name="Downloading">Ngundeur</string>
+  <string name="DownloadDialogMsg">Mangga antosan samentawis model anjeun diundeur</string>
+  <string name="Download">Ngundeur</string>
+  <string name="DownloadModel">Unduh Modél</string>
+  <string name="DownloadModelDialogMsg">Anjeun kedah ngaunduh modél heula sateuacan anjeun milih basa ieu</string>
+  <string name="UseWifiMsg">Anjeun nganggo jaringan sélulér. Punten nganggo Wifi pikeun ngaunduh modél</string>
+  <string name="Searching">Pilarian</string>
+  <string name="NotFound">Henteu kapendak</string>
+  <string name="Image">Gambar :</string>
+  <string name="PleaseConnectToInternet">Mangga nyambung ka internét</string>
+  <string name="NotFoundMsg">Kecap nu ditéang teu kapanggih dina kamus urang</string>
+  <string name="NoTextFoundToShare">Taya téks kapanggih dibagikeun</string>
+  <string name="NoTranslationFoundToShare">Teu aya tarjamahan anu dipendakan pikeun dibagikeun</string>
+  <string name="NoTranslationFoundToCopy">Teu aya tarjamahan anu tiasa ditiron</string>
+  <string name="NoTextFoundToCopy">Henteu aya téks anu kapendak pikeun disalin</string>
+  <string name="NoTextToSpeak">Taya téks nyarita</string>
+  <string name="LanguageDetected">Basa Dideteksi</string>
+  <string name="OCRImage">Gambar OCR</string>
+  <string name="OCRTranslation">Tarjamahan OCR</string>
+  <string name="CopiedToClipboard">Disalin kana clipboard</string>
+  <string name="ChooseLanguageFirst">Pilih Basa heula saencan Anjeun neruskeun deui</string>
+  <string name="EnterTextToTranslate">Tulis téks pikeun ditarjamahkeun</string>
+  <string name="TextFromImage">Téks tina gambar</string>
+  <string name="GettingText">Meunang téks</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Mangga lebetkeun sababaraha kecap pikeun milarian</string>
+  <string name="Translating">Narjamahkeun</string>
+  <string name="PermissionsNotGranted">Idin henteu dipasihkeun</string>
+  <string name="CameraPermissionsMsg">Punten pasihan idin kaméra pikeun moto gambar</string>
+  <string name="StoragePermissionsMsg">Punten pasihan idin panyimpen internal pikeun nyandak gambar tina galeri</string>
+  <string name="GrantPermissionsBtn">Pasihan Idin</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Тіл аудармашысы</string>
+  <string name="home">Үй</string>
+  <string name="shareVia">Арқылы бөлісу</string>
+  <string name="LanguageTranslator">Тіл аудармашысы</string>
+  <string name="Translate">Аудару</string>
+  <string name="Conversation">Әңгіме</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Сөздік</string>
+  <string name="SearchWord">Сөз іздеу</string>
+  <string name="ShareWithFriends">Достарыңызбен бөлісіңіз</string>
+  <string name="ChangeLanguage">Тілді өзгерту</string>
+  <string name="PrivacyPolicy">Құпиялылық саясаты</string>
+  <string name="Gallery">Галерея</string>
+  <string name="Camera">Камера</string>
+  <string name="DoYouWantToExit">Шығыңыз келе ме?</string>
+  <string name="Cancel">Болдырмау</string>
+  <string name="Exit">Шығу</string>
+  <string name="SelectAppLanguage">Қолданба тілін таңдаңыз</string>
+  <string name="Ok">ЖАРАЙДЫ МА</string>
+  <string name="Copy">Көшіру</string>
+  <string name="FullScreen">Толық экран</string>
+  <string name="ClearTitle">Таза</string>
+  <string name="ClearConversationMsg">Сөйлесуді шынымен өшіргіңіз келе ме?</string>
+  <string name="Yes">Иә</string>
+  <string name="No">Жоқ</string>
+  <string name="SelectLanguage">Тіл таңдаңыз</string>
+  <string name="Downloading">Жүктеп алынуда</string>
+  <string name="DownloadDialogMsg">Үлгіңіз жүктеліп жатқанша күтіңіз</string>
+  <string name="Download">Жүктеп алу</string>
+  <string name="DownloadModel">Модельді жүктеп алу</string>
+  <string name="DownloadModelDialogMsg">Бұл тілді таңдамас бұрын алдымен үлгіні жүктеп алуыңыз керек</string>
+  <string name="UseWifiMsg">Сіз ұялы желіні пайдаланып жатырсыз. Үлгіні жүктеп алу үшін Wi-Fi пайдаланыңыз</string>
+  <string name="Searching">Іздеу</string>
+  <string name="NotFound">Табылмады</string>
+  <string name="Image">Сурет:</string>
+  <string name="PleaseConnectToInternet">Интернетке қосылыңыз</string>
+  <string name="NotFoundMsg">Сіз іздеген сөз сөздігімізде жоқ</string>
+  <string name="NoTextFoundToShare">Бөлісетін мәтін табылмады</string>
+  <string name="NoTranslationFoundToShare">Бөлісетін аударма табылмады</string>
+  <string name="NoTranslationFoundToCopy">Көшіретін аударма табылмады</string>
+  <string name="NoTextFoundToCopy">Көшіретін мәтін табылмады</string>
+  <string name="NoTextToSpeak">Сөйлеуге мәтін жоқ</string>
+  <string name="LanguageDetected">Тіл анықталды</string>
+  <string name="OCRImage">OCR кескіні</string>
+  <string name="OCRTranslation">OCR аудармасы</string>
+  <string name="CopiedToClipboard">Буферге көшірілді</string>
+  <string name="ChooseLanguageFirst">Әрі қарай жалғастырмас бұрын алдымен тілді таңдаңыз</string>
+  <string name="EnterTextToTranslate">Аударылатын мәтінді енгізіңіз</string>
+  <string name="TextFromImage">Суреттен мәтін</string>
+  <string name="GettingText">Мәтінді алу</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Іздеу үшін сөзді енгізіңіз</string>
+  <string name="Translating">Аудару</string>
+  <string name="PermissionsNotGranted">Рұқсаттар берілмеді</string>
+  <string name="CameraPermissionsMsg">Суретке түсіру үшін камераға рұқсат беріңіз</string>
+  <string name="StoragePermissionsMsg">Галереядан кескін алу үшін ішкі жад рұқсаттарын беріңіз</string>
+  <string name="GrantPermissionsBtn">Рұқсаттар беру</string>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Dil çevirmeni</string>
+  <string name="app_title">Dil çevirmeni</string>
+  <string name="home">Çevirmek</string>
+  <string name="shareVia">Şununla paylaş:</string>
+  <string name="LanguageTranslator">Dil çevirmeni</string>
+  <string name="Translate">Çevirmek</string>
+  <string name="Conversation">Konuşma</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">İngilizce sözlük</string>
+  <string name="SearchWord">Kelime ara</string>
+  <string name="ShareWithFriends">Arkadaşlarınla ​​paylaş</string>
+  <string name="ChangeLanguage">Dili değiştir</string>
+  <string name="PrivacyPolicy">Gizlilik Politikası</string>
+  <string name="Gallery">Galeri</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Çıkmak istiyor musun</string>
+  <string name="Cancel">İptal etmek</string>
+  <string name="Exit">Çıkış</string>
+  <string name="SelectAppLanguage">Uygulama Dilini Seçin</string>
+  <string name="Ok">TAMAM</string>
+  <string name="Copy">Kopyala</string>
+  <string name="FullScreen">Tam ekran</string>
+  <string name="ClearTitle">Temizlemek</string>
+  <string name="ClearConversationMsg">Görüşmeyi temizlemek istediğinizden emin misiniz?</string>
+  <string name="Yes">Evet</string>
+  <string name="No">HAYIR</string>
+  <string name="SelectLanguage">Dil Seçin</string>
+  <string name="Downloading">Indiriliyor</string>
+  <string name="DownloadDialogMsg">Modeliniz indirilirken lütfen bekleyin</string>
+  <string name="Download">İndirmek</string>
+  <string name="DownloadModel">Modeli İndir</string>
+  <string name="DownloadModelDialogMsg">Bu dili seçmeden önce modeli indirmeniz gerekir.</string>
+  <string name="UseWifiMsg">Hücresel ağ kullanıyorsunuz. Modeli indirmek için lütfen Wifi kullanın</string>
+  <string name="Searching">Aranıyor</string>
+  <string name="NotFound">Bulunamadı</string>
+  <string name="Image">Resim :</string>
+  <string name="PleaseConnectToInternet">Lütfen internete bağlanın</string>
+  <string name="NotFoundMsg">Aradığınız kelime sözlüğümüzde bulunmamaktadır.</string>
+  <string name="NoTextFoundToShare">Paylaşılacak metin bulunamadı</string>
+  <string name="NoTranslationFoundToShare">Paylaşılacak çeviri bulunamadı</string>
+  <string name="NoTranslationFoundToCopy">Kopyalanacak çeviri bulunamadı</string>
+  <string name="NoTextFoundToCopy">Kopyalanacak metin bulunamadı</string>
+  <string name="NoTextToSpeak">Konuşacak metin yok</string>
+  <string name="LanguageDetected">Dil Algılandı</string>
+  <string name="OCRImage">OCR Görüntüsü</string>
+  <string name="OCRTranslation">OCR Çevirisi</string>
+  <string name="CopiedToClipboard">Panoya kopyalandı</string>
+  <string name="ChooseLanguageFirst">Devam etmeden önce Dil\'i seçin</string>
+  <string name="EnterTextToTranslate">Çevrilecek metni girin</string>
+  <string name="TextFromImage">Resimden metin</string>
+  <string name="GettingText">Metin alma</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Lütfen aramak için bir kelime girin</string>
+  <string name="Translating">Çeviri</string>
+  <string name="PermissionsNotGranted">İzinler verilmedi</string>
+  <string name="CameraPermissionsMsg">Lütfen resim çekmek için kamera izinleri verin</string>
+  <string name="StoragePermissionsMsg">Lütfen galeriden resim almak için dahili depolama izinleri verin</string>
+  <string name="GrantPermissionsBtn">İzin Verme</string>
+  <string name="ad_is_loading">İlan Yükleniyor</string>
+  <string name="ooooppss_network_not_available">Ooooppss ağı kullanılamıyor.</string>
+  <string name="internet_warning_message">Hata, İnternet Bağlı Değil. Lütfen sözlük kullanımı için İnternet\'e bağlanın.</string>
+
+</resources>

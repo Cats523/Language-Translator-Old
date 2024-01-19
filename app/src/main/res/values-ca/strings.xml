@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Traductor d\'idiomes</string>
+  <string name="app_title">Traductor d\'idiomes</string>
+  <string name="home">A casa</string>
+  <string name="shareVia">Comparteix via</string>
+  <string name="LanguageTranslator">Traductor d\'idiomes</string>
+  <string name="Translate">Traduir</string>
+  <string name="Conversation">Conversa</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Diccionari</string>
+  <string name="SearchWord">Cerca paraula</string>
+  <string name="ShareWithFriends">Comparteix amb amics</string>
+  <string name="ChangeLanguage">Canviar d\'idioma</string>
+  <string name="PrivacyPolicy">Política de privacitat</string>
+  <string name="Gallery">Galeria</string>
+  <string name="Camera">Càmera</string>
+  <string name="DoYouWantToExit">Vols sortir</string>
+  <string name="Cancel">Cancel · lar</string>
+  <string name="Exit">Sortida</string>
+  <string name="SelectAppLanguage">Seleccioneu l\'idioma de l\'aplicació</string>
+  <string name="Ok">D\'acord</string>
+  <string name="Copy">Còpia</string>
+  <string name="FullScreen">Pantalla completa</string>
+  <string name="ClearTitle">Clar</string>
+  <string name="ClearConversationMsg">Esteu segur que voleu esborrar la conversa?</string>
+  <string name="Yes">Sí</string>
+  <string name="No">No</string>
+  <string name="SelectLanguage">Escolliu l\'idioma</string>
+  <string name="Downloading">Descàrrega</string>
+  <string name="DownloadDialogMsg">Espereu mentre es baixa el vostre model</string>
+  <string name="Download">Descarregar</string>
+  <string name="DownloadModel">Descarrega el model</string>
+  <string name="DownloadModelDialogMsg">Abans de seleccionar aquest idioma, heu de descarregar el model</string>
+  <string name="UseWifiMsg">Esteu utilitzant una xarxa mòbil. Si us plau, utilitzeu Wi-Fi per descarregar el model</string>
+  <string name="Searching">Buscant</string>
+  <string name="NotFound">No trobat</string>
+  <string name="Image">Imatge:</string>
+  <string name="PleaseConnectToInternet">Si us plau, connecteu-vos a Internet</string>
+  <string name="NotFoundMsg">La paraula que busqueu no es troba al nostre diccionari</string>
+  <string name="NoTextFoundToShare">No s\'ha trobat cap text per compartir</string>
+  <string name="NoTranslationFoundToShare">No s\'ha trobat cap traducció per compartir</string>
+  <string name="NoTranslationFoundToCopy">No s\'ha trobat cap traducció per copiar</string>
+  <string name="NoTextFoundToCopy">No s\'ha trobat cap text per copiar</string>
+  <string name="NoTextToSpeak">No hi ha text per parlar</string>
+  <string name="LanguageDetected">Idioma detectat</string>
+  <string name="OCRImage">Imatge OCR</string>
+  <string name="OCRTranslation">Traducció OCR</string>
+  <string name="CopiedToClipboard">S\'ha copiat al porta-retalls</string>
+  <string name="ChooseLanguageFirst">Trieu primer l\'idioma abans de continuar</string>
+  <string name="EnterTextToTranslate">Introduïu el text per traduir</string>
+  <string name="TextFromImage">Text de la imatge</string>
+  <string name="GettingText">Obtenció de text</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Introduïu alguna paraula per cercar</string>
+  <string name="Translating">Traduint</string>
+  <string name="PermissionsNotGranted">Permisos no concedits</string>
+  <string name="CameraPermissionsMsg">Concediu els permisos de la càmera per capturar la imatge</string>
+  <string name="StoragePermissionsMsg">Concediu permisos d\'emmagatzematge intern per obtenir imatges de la galeria</string>
+  <string name="GrantPermissionsBtn">Concedir permisos</string>
+</resources>

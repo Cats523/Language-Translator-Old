@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Umguquleli weeLwimi</string>
+  <string name="home">Ekhaya</string>
+  <string name="shareVia">Yabelana nge</string>
+  <string name="LanguageTranslator">Umguquleli weeLwimi</string>
+  <string name="Translate">Guqulela</string>
+  <string name="Conversation">Incoko</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Isichazi-magama</string>
+  <string name="SearchWord">Phendla igama</string>
+  <string name="ShareWithFriends">Yabelana nabahlobo</string>
+  <string name="ChangeLanguage">Guqula ulwimi</string>
+  <string name="PrivacyPolicy">Umthetho wabucala</string>
+  <string name="Gallery">Igalari</string>
+  <string name="Camera">Ikhamera</string>
+  <string name="DoYouWantToExit">Uyafuna ukuphuma</string>
+  <string name="Cancel">Rhoxisa</string>
+  <string name="Exit">Phuma</string>
+  <string name="SelectAppLanguage">Khetha ulwimi lwe-App</string>
+  <string name="Ok">KULUNGILE</string>
+  <string name="Copy">Khuphela</string>
+  <string name="FullScreen">Isikrini esiphelele</string>
+  <string name="ClearTitle">Cacileyo</string>
+  <string name="ClearConversationMsg">Uqinisekile ufuna ukuyicima incoko?</string>
+  <string name="Yes">Ewe</string>
+  <string name="No">Hayi</string>
+  <string name="SelectLanguage">Khetha ulwimi</string>
+  <string name="Downloading">Iyakhuphela</string>
+  <string name="DownloadDialogMsg">Nceda ulinde ngelixa imodeli yakho ikhuphela</string>
+  <string name="Download">Khuphela</string>
+  <string name="DownloadModel">Khuphela iModeli</string>
+  <string name="DownloadModelDialogMsg">Kufuneka ukhuphele imodeli kuqala phambi kokuba ukhethe olu lwimi</string>
+  <string name="UseWifiMsg">Usebenzisa inethiwekhi yeselula. Nceda usebenzise iWifi ukukhuphela imodeli</string>
+  <string name="Searching">Ukukhangela</string>
+  <string name="NotFound">Ayifunyanwa</string>
+  <string name="Image">Umfanekiso :</string>
+  <string name="PleaseConnectToInternet">Nceda uqhagamshele kwi-intanethi</string>
+  <string name="NotFoundMsg">Igama olikhangelayo alifumaneki kwisichazi-magama sethu</string>
+  <string name="NoTextFoundToShare">Akukho mbhalo ufunyenweyo wokwabelana</string>
+  <string name="NoTranslationFoundToShare">Akukho nguqulelo ifunyenweyo yokwabelana</string>
+  <string name="NoTranslationFoundToCopy">Akukho nguqulelo ifunyenweyo yokukhutshelwa</string>
+  <string name="NoTextFoundToCopy">Akukho mbhalo unokukotshwa</string>
+  <string name="NoTextToSpeak">Akukho mbhalo wokuthetha</string>
+  <string name="LanguageDetected">Ulwimi luchongiwe</string>
+  <string name="OCRImage">Umfanekiso we-OCR</string>
+  <string name="OCRTranslation">Uguqulelo lwe-OCR</string>
+  <string name="CopiedToClipboard">Ikopishwe kwibhodi eqhotyoshwayo</string>
+  <string name="ChooseLanguageFirst">Khetha ulwimi kuqala phambi kokuba uqhubele phambili</string>
+  <string name="EnterTextToTranslate">Faka umbhalo oza kuwuguqulela</string>
+  <string name="TextFromImage">Umbhalo osuka kumfanekiso</string>
+  <string name="GettingText">Ukufumana umbhalo</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Nceda ufake igama oza kuphendla</string>
+  <string name="Translating">Ukuguqulela</string>
+  <string name="PermissionsNotGranted">Iimvume azinikwanga</string>
+  <string name="CameraPermissionsMsg">Nceda unike imvume yekhamera yokufota umfanekiso</string>
+  <string name="StoragePermissionsMsg">Nceda unike imvume yokugcina yangaphakathi ukufumana umfanekiso kwigalari</string>
+  <string name="GrantPermissionsBtn">IiMvume zeSibonelelo</string>
+</resources>

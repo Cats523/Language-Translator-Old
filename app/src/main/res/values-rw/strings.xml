@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Umusemuzi</string>
+  <string name="home">Murugo</string>
+  <string name="shareVia">Sangira ukoresheje</string>
+  <string name="LanguageTranslator">Umusemuzi</string>
+  <string name="Translate">Sobanura</string>
+  <string name="Conversation">Ikiganiro</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Inkoranyamagambo</string>
+  <string name="SearchWord">Shakisha ijambo</string>
+  <string name="ShareWithFriends">Sangira n\'inshuti</string>
+  <string name="ChangeLanguage">Hindura Ururimi</string>
+  <string name="PrivacyPolicy">Politiki Yibanga</string>
+  <string name="Gallery">Ikarita</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Urashaka gusohoka?</string>
+  <string name="Cancel">Kureka</string>
+  <string name="Exit">Sohoka</string>
+  <string name="SelectAppLanguage">Hitamo Ururimi</string>
+  <string name="Ok">Nibyo</string>
+  <string name="Copy">Gukoporora</string>
+  <string name="FullScreen">Mugaragaza Byuzuye</string>
+  <string name="ClearTitle">Biragaragara</string>
+  <string name="ClearConversationMsg">Uzi neza ko ushaka gusiba ikiganiro?</string>
+  <string name="Yes">Yego</string>
+  <string name="No">Oya</string>
+  <string name="SelectLanguage">Hitamo Ururimi</string>
+  <string name="Downloading">Gukuramo</string>
+  <string name="DownloadDialogMsg">Nyamuneka tegereza mugihe icyitegererezo cyawe kirimo gukuramo</string>
+  <string name="Download">Kuramo</string>
+  <string name="DownloadModel">Kuramo Model</string>
+  <string name="DownloadModelDialogMsg">Ugomba kubanza gukuramo icyitegererezo mbere yo guhitamo uru rurimi</string>
+  <string name="UseWifiMsg">Ukoresha umuyoboro wa selire. Nyamuneka koresha Wifi kugirango ukuremo icyitegererezo</string>
+  <string name="Searching">Gushakisha</string>
+  <string name="NotFound">Ntibabonetse</string>
+  <string name="Image">Ishusho:</string>
+  <string name="PleaseConnectToInternet">Nyamuneka uhuze kuri enterineti</string>
+  <string name="NotFoundMsg">Ijambo ushaka ntabwo riboneka mu nkoranyamagambo yacu</string>
+  <string name="NoTextFoundToShare">Nta nyandiko yabonetse gusangira</string>
+  <string name="NoTranslationFoundToShare">Nta busobanuro bwabonetse gusangira</string>
+  <string name="NoTranslationFoundToCopy">Nta busobanuro bwabonetse gukoporora</string>
+  <string name="NoTextFoundToCopy">Nta nyandiko iboneka kwigana</string>
+  <string name="NoTextToSpeak">Nta nyandiko yo kuvuga</string>
+  <string name="LanguageDetected">Ururimi</string>
+  <string name="OCRImage">OCR Ishusho</string>
+  <string name="OCRTranslation">Ubusobanuro bwa OCR</string>
+  <string name="CopiedToClipboard">Yandukuwe kuri clip clip</string>
+  <string name="ChooseLanguageFirst">Hitamo Ururimi mbere yuko ukomeza ikindi</string>
+  <string name="EnterTextToTranslate">Injira inyandiko kugirango uhindure</string>
+  <string name="TextFromImage">Umwandiko uva ku ishusho</string>
+  <string name="GettingText">Kubona inyandiko</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Nyamuneka andika ijambo kugirango ushakishe</string>
+  <string name="Translating">Guhindura</string>
+  <string name="PermissionsNotGranted">Impushya ntizatanzwe</string>
+  <string name="CameraPermissionsMsg">Nyamuneka tanga uruhushya rwo gufata amashusho</string>
+  <string name="StoragePermissionsMsg">Nyamuneka tanga uburenganzira bwo kubika imbere kugirango ubone ishusho kuva mubitabo</string>
+  <string name="GrantPermissionsBtn">Tanga Uruhushya</string>
+</resources>

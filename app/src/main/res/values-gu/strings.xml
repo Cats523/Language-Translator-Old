@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">ભાષા અનુવાદક</string>
+  <string name="home">ઘર</string>
+  <string name="shareVia">દ્વારા શેર કરો</string>
+  <string name="LanguageTranslator">ભાષા અનુવાદક</string>
+  <string name="Translate">અનુવાદ કરો</string>
+  <string name="Conversation">વાતચીત</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">શબ્દકોશ</string>
+  <string name="SearchWord">શબ્દ શોધો</string>
+  <string name="ShareWithFriends">મિત્રો સાથે વહેંચવું</string>
+  <string name="ChangeLanguage">ભાષા બદલો</string>
+  <string name="PrivacyPolicy">ગોપનીયતા નીતિ</string>
+  <string name="Gallery">ગેલેરી</string>
+  <string name="Camera">કેમેરા</string>
+  <string name="DoYouWantToExit">શું તમે બહાર નીકળવા માંગો છો</string>
+  <string name="Cancel">રદ કરો</string>
+  <string name="Exit">બહાર નીકળો</string>
+  <string name="SelectAppLanguage">એપ્લિકેશન ભાષા પસંદ કરો</string>
+  <string name="Ok">બરાબર</string>
+  <string name="Copy">નકલ કરો</string>
+  <string name="FullScreen">પૂર્ણ - પટ, આખો પડદો</string>
+  <string name="ClearTitle">ચોખ્ખુ</string>
+  <string name="ClearConversationMsg">શું તમે ખરેખર વાતચીત સાફ કરવા માંગો છો?</string>
+  <string name="Yes">હા</string>
+  <string name="No">ના</string>
+  <string name="SelectLanguage">ભાષા પસંદ કરો</string>
+  <string name="Downloading">ડાઉનલોડ કરી રહ્યું છે</string>
+  <string name="DownloadDialogMsg">તમારું મોડેલ ડાઉનલોડ થાય ત્યાં સુધી કૃપા કરીને રાહ જુઓ</string>
+  <string name="Download">ડાઉનલોડ કરો</string>
+  <string name="DownloadModel">મોડલ ડાઉનલોડ કરો</string>
+  <string name="DownloadModelDialogMsg">તમે આ ભાષા પસંદ કરો તે પહેલાં તમારે પ્રથમ મોડેલ ડાઉનલોડ કરવાની જરૂર છે</string>
+  <string name="UseWifiMsg">તમે સેલ્યુલર નેટવર્કનો ઉપયોગ કરી રહ્યાં છો. મોડેલ ડાઉનલોડ કરવા માટે કૃપા કરીને Wifi નો ઉપયોગ કરો</string>
+  <string name="Searching">શોધી રહ્યાં છે</string>
+  <string name="NotFound">મળ્યું નથી</string>
+  <string name="Image">છબી:</string>
+  <string name="PleaseConnectToInternet">કૃપા કરીને ઇન્ટરનેટથી કનેક્ટ કરો</string>
+  <string name="NotFoundMsg">તમે જે શબ્દ શોધી રહ્યા છો તે અમારા શબ્દકોશમાં જોવા મળતો નથી</string>
+  <string name="NoTextFoundToShare">શેર કરવા માટે કોઈ ટેક્સ્ટ મળ્યો નથી</string>
+  <string name="NoTranslationFoundToShare">શેર કરવા માટે કોઈ અનુવાદ મળ્યો નથી</string>
+  <string name="NoTranslationFoundToCopy">નકલ કરવા માટે કોઈ અનુવાદ મળ્યો નથી</string>
+  <string name="NoTextFoundToCopy">નકલ કરવા માટે કોઈ ટેક્સ્ટ મળ્યો નથી</string>
+  <string name="NoTextToSpeak">બોલવા માટે કોઈ ટેક્સ્ટ નથી</string>
+  <string name="LanguageDetected">ભાષા શોધાઈ</string>
+  <string name="OCRImage">OCR છબી</string>
+  <string name="OCRTranslation">OCR અનુવાદ</string>
+  <string name="CopiedToClipboard">ક્લિપબોર્ડ પર કૉપિ કરી</string>
+  <string name="ChooseLanguageFirst">તમે આગળ વધો તે પહેલાં ભાષા પસંદ કરો</string>
+  <string name="EnterTextToTranslate">અનુવાદ કરવા માટે ટેક્સ્ટ દાખલ કરો</string>
+  <string name="TextFromImage">છબીમાંથી ટેક્સ્ટ</string>
+  <string name="GettingText">ટેક્સ્ટ મેળવી રહ્યાં છીએ</string>
+  <string name="PleaseEnterWordToSearchInDictionary">કૃપા કરીને શોધવા માટે અમુક શબ્દ દાખલ કરો</string>
+  <string name="Translating">અનુવાદ</string>
+  <string name="PermissionsNotGranted">પરવાનગીઓ આપવામાં આવી નથી</string>
+  <string name="CameraPermissionsMsg">કૃપા કરીને ઇમેજ કેપ્ચર કરવા માટે કૅમેરાની પરવાનગી આપો</string>
+  <string name="StoragePermissionsMsg">કૃપા કરીને ગેલેરીમાંથી છબી મેળવવા માટે આંતરિક સ્ટોરેજ પરવાનગીઓ આપો</string>
+  <string name="GrantPermissionsBtn">પરવાનગીઓ આપો</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Managipatarus iti Lenguahe</string>
+  <string name="home">Balay</string>
+  <string name="shareVia">Ibinglay babaen ti</string>
+  <string name="LanguageTranslator">Managipatarus iti Lenguahe</string>
+  <string name="Translate">Itarus</string>
+  <string name="Conversation">Panagsao</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Diksionario</string>
+  <string name="SearchWord">Sapulen ti sao</string>
+  <string name="ShareWithFriends">Ibinglay kadagiti Gagayyem</string>
+  <string name="ChangeLanguage">Baliwan ti Pagsasao</string>
+  <string name="PrivacyPolicy">Pagannurotan iti Kinapribado</string>
+  <string name="Gallery">Galeria ti</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Kayatmo kadi ti rummuar</string>
+  <string name="Cancel">Ikansela</string>
+  <string name="Exit">Rumuar</string>
+  <string name="SelectAppLanguage">Pilien ti App Language</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopiaen</string>
+  <string name="FullScreen">Buo nga Iskrin</string>
+  <string name="ClearTitle">Nalawag</string>
+  <string name="ClearConversationMsg">Siguradoka kadi a kayatmo a dalusan ti saritaan?</string>
+  <string name="Yes">Wen</string>
+  <string name="No">Saan</string>
+  <string name="SelectLanguage">Pilien ti Lenguahe</string>
+  <string name="Downloading">Panag-download</string>
+  <string name="DownloadDialogMsg">Pangngaasiyo ta aguraykayo bayat nga ag-download ti modeloyo</string>
+  <string name="Download">I-download</string>
+  <string name="DownloadModel">I-download ti Modelo</string>
+  <string name="DownloadModelDialogMsg">Masapul nga i-downloadmo nga umuna ti modelo sakbay a piliem daytoy a pagsasao</string>
+  <string name="UseWifiMsg">Agus-usarkayo iti cellular network. Pangngaasiyo ta usarenyo ti Wifi tapno mai-download ti modelo</string>
+  <string name="Searching">Agsapsapul</string>
+  <string name="NotFound">Saan a Nasarakan</string>
+  <string name="Image">Ladawan :</string>
+  <string name="PleaseConnectToInternet">Pangngaasiyo ta agkonektakayo iti internet</string>
+  <string name="NotFoundMsg">Ti sao a sapsapulem ket saan a masarakan iti diksionariotayo</string>
+  <string name="NoTextFoundToShare">Awan ti nasarakan a teksto a maibinglay</string>
+  <string name="NoTranslationFoundToShare">Awan ti nasarakan a patarus a mangibinglay</string>
+  <string name="NoTranslationFoundToCopy">Awan ti nasarakan a patarus a kopiaen</string>
+  <string name="NoTextFoundToCopy">Awan ti nasarakan a teksto a kopiaen</string>
+  <string name="NoTextToSpeak">Awan ti teksto a pagsao</string>
+  <string name="LanguageDetected">Naduktalan ti Pagsasao</string>
+  <string name="OCRImage">Ladawan ti OCR</string>
+  <string name="OCRTranslation">OCR Panagpatarus</string>
+  <string name="CopiedToClipboard">Nakopia iti clipboard</string>
+  <string name="ChooseLanguageFirst">Piliem nga umuna ti Lenguahe sakbay nga agtultuloyka pay</string>
+  <string name="EnterTextToTranslate">Isurat ti teksto tapno maipatarus</string>
+  <string name="TextFromImage">Teksto manipud iti ladawan</string>
+  <string name="GettingText">Panangala iti teksto</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Pangngaasiyo ta iserrekyo ti sumagmamano a sao a sapulen</string>
+  <string name="Translating">Panagpatarus</string>
+  <string name="PermissionsNotGranted">Saan a naited dagiti pammalubos</string>
+  <string name="CameraPermissionsMsg">Pangngaasiyo ta ikkan dagiti pammalubos ti kamera tapno makaala iti ladawan</string>
+  <string name="StoragePermissionsMsg">Pangngaasi nga ikkan dagiti pammalubos ti akin-uneg a panagidulin tapno makaala ti ladawan manipud iti galeria</string>
+  <string name="GrantPermissionsBtn">Mangted kadagiti Pammalubos</string>
+</resources>

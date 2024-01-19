@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">ဘာသာစကား ဘာသာပြန်သူ</string>
+  <string name="home">အိမ်</string>
+  <string name="shareVia">တဆင့်မျှဝေပါ။</string>
+  <string name="LanguageTranslator">ဘာသာစကား ဘာသာပြန်သူ</string>
+  <string name="Translate">ဘာသာပြန်ပါ။</string>
+  <string name="Conversation">စကားဝိုင်း</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">အဘိဓာန်</string>
+  <string name="SearchWord">စကားလုံးရှာပါ။</string>
+  <string name="ShareWithFriends">သူငယ်ချင်းများနှင့်မျှဝေပါ။</string>
+  <string name="ChangeLanguage">ဘာသာစကားပြောင်းပါ။</string>
+  <string name="PrivacyPolicy">ကိုယ်ရေးအချက်အလက်မူဝါဒ</string>
+  <string name="Gallery">ပြခန်း</string>
+  <string name="Camera">ကင်မရာ</string>
+  <string name="DoYouWantToExit">ထွက်ချင်လား။</string>
+  <string name="Cancel">မလုပ်တော့</string>
+  <string name="Exit">ထွက်ပေါက်</string>
+  <string name="SelectAppLanguage">အက်ပ်ဘာသာစကားကို ရွေးပါ။</string>
+  <string name="Ok">အိုကေ</string>
+  <string name="Copy">ကော်ပီ</string>
+  <string name="FullScreen">မျက်နှာပြင်အပြည့်</string>
+  <string name="ClearTitle">ရှင်းလင်းသော</string>
+  <string name="ClearConversationMsg">စကားဝိုင်းကို ရှင်းလင်းလိုသည်မှာ သေချာပါသလား။</string>
+  <string name="Yes">ဟုတ်ကဲ့</string>
+  <string name="No">မရှိ</string>
+  <string name="SelectLanguage">ဘာသာစကားကို ရွေးပါ။</string>
+  <string name="Downloading">ဒေါင်းလုဒ်လုပ်နေသည်။</string>
+  <string name="DownloadDialogMsg">သင့်မော်ဒယ်ကို ဒေါင်းလုဒ်လုပ်နေချိန်မှာ စောင့်ပါ။</string>
+  <string name="Download">ဒေါင်းလုဒ်လုပ်ပါ။</string>
+  <string name="DownloadModel">မော်ဒယ်ကို ဒေါင်းလုဒ်လုပ်ပါ။</string>
+  <string name="DownloadModelDialogMsg">ဤဘာသာစကားကို သင်မရွေးချယ်မီ မော်ဒယ်ကို ဦးစွာဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။</string>
+  <string name="UseWifiMsg">သင်သည် ဆယ်လူလာကွန်ရက်ကို အသုံးပြုနေပါသည်။ မော်ဒယ်ကိုဒေါင်းလုဒ်လုပ်ရန် Wifi ကိုသုံးပါ။</string>
+  <string name="Searching">ရှာဖွေနေပါသည်။</string>
+  <string name="NotFound">မတွေ့ပါ</string>
+  <string name="Image">ပုံ :</string>
+  <string name="PleaseConnectToInternet">ကျေးဇူးပြု၍ အင်တာနက်ချိတ်ဆက်ပါ။</string>
+  <string name="NotFoundMsg">သင်ရှာဖွေနေသောစကားလုံးကို ကျွန်ုပ်တို့၏အဘိဓာန်တွင်မတွေ့ပါ။</string>
+  <string name="NoTextFoundToShare">မျှဝေရန်စာသားမတွေ့ပါ။</string>
+  <string name="NoTranslationFoundToShare">မျှဝေရန် ဘာသာပြန်မတွေ့ပါ။</string>
+  <string name="NoTranslationFoundToCopy">ကူးယူရန် ဘာသာပြန်ထားခြင်း မတွေ့ပါ။</string>
+  <string name="NoTextFoundToCopy">ကူးယူရန် စာသားမတွေ့ပါ။</string>
+  <string name="NoTextToSpeak">ပြောစရာစာသားမရှိ။</string>
+  <string name="LanguageDetected">ဘာသာစကား ရှာတွေ့သည်။</string>
+  <string name="OCRImage">OCR ပုံ</string>
+  <string name="OCRTranslation">OCR ဘာသာပြန်ခြင်း။</string>
+  <string name="CopiedToClipboard">ကလစ်ဘုတ်သို့ ကူးယူထားသည်။</string>
+  <string name="ChooseLanguageFirst">သင်ဆက်လက်မလုပ်ဆောင်မီ ဘာသာစကားကို ဦးစွာရွေးချယ်ပါ။</string>
+  <string name="EnterTextToTranslate">ဘာသာပြန်ရန် စာသားထည့်ပါ။</string>
+  <string name="TextFromImage">ပုံမှစာသား</string>
+  <string name="GettingText">စာသားရယူခြင်း။</string>
+  <string name="PleaseEnterWordToSearchInDictionary">ရှာဖွေရန် စကားလုံးအချို့ကို ထည့်သွင်းပါ။</string>
+  <string name="Translating">ဘာသာပြန်ဆိုခြင်း။</string>
+  <string name="PermissionsNotGranted">ခွင့်မပြုပါ။</string>
+  <string name="CameraPermissionsMsg">ကျေးဇူးပြု၍ ဓါတ်ပုံရိုက်ကူးရန် ကင်မရာအား ခွင့်ပြုချက်ပေးပါ။</string>
+  <string name="StoragePermissionsMsg">ကျေးဇူးပြု၍ ပြခန်းမှပုံရယူရန် စက်တွင်းသိုလှောင်မှုခွင့်ပြုချက်များ ပေးပါ။</string>
+  <string name="GrantPermissionsBtn">ခွင့်ပြုချက်ပေးသည်။</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">भाषा के अनुवादक के रूप में काम कइले बानी</string>
+  <string name="home">घर</string>
+  <string name="shareVia">के माध्यम से शेयर करीं</string>
+  <string name="LanguageTranslator">भाषा के अनुवादक के रूप में काम कइले बानी</string>
+  <string name="Translate">अनुवाद</string>
+  <string name="Conversation">बतकही</string>
+  <string name="OCR">ओसीआर के बा</string>
+  <string name="Dictionary">शब्दकोश</string>
+  <string name="SearchWord">खोज शब्द के बा</string>
+  <string name="ShareWithFriends">दोस्तन के साथे शेयर करीं</string>
+  <string name="ChangeLanguage">भाषा बदले के बा</string>
+  <string name="PrivacyPolicy">गोपनीयता नीति के बारे में बतावल गइल बा</string>
+  <string name="Gallery">गैलरी में बा</string>
+  <string name="Camera">कैमरा के बा</string>
+  <string name="DoYouWantToExit">का रउरा बाहर निकलल चाहत बानी</string>
+  <string name="Cancel">मना कइ दीं</string>
+  <string name="Exit">निकास</string>
+  <string name="SelectAppLanguage">ऐप भाषा के चयन करीं</string>
+  <string name="Ok">ठीक बा</string>
+  <string name="Copy">कॉपी कइल जा सकेला</string>
+  <string name="FullScreen">फुल स्क्रीन पर बा</string>
+  <string name="ClearTitle">साफ</string>
+  <string name="ClearConversationMsg">का रउरा पक्का विश्वास बा कि रउरा बातचीत के साफ कइल चाहत बानी?</string>
+  <string name="Yes">हॅंं</string>
+  <string name="No">ना</string>
+  <string name="SelectLanguage">भाषा के चयन करीं</string>
+  <string name="Downloading">डाउनलोड हो रहल बा</string>
+  <string name="DownloadDialogMsg">जबले राउर मॉडल डाउनलोड होखे तबले इंतजार करीं</string>
+  <string name="Download">डाउनलोड करीं</string>
+  <string name="DownloadModel">मॉडल डाउनलोड करीं</string>
+  <string name="DownloadModelDialogMsg">एह भाषा के चुने से पहिले पहिले मॉडल डाउनलोड करे के पड़ी</string>
+  <string name="UseWifiMsg">रउआ सेलुलर नेटवर्क के इस्तेमाल कर रहल बानी। मॉडल डाउनलोड करे खातिर वाईफाई के इस्तेमाल करीं</string>
+  <string name="Searching">खोजत बानी</string>
+  <string name="NotFound">ना मिलल बा</string>
+  <string name="Image">छवि :</string>
+  <string name="PleaseConnectToInternet">कृपया इंटरनेट से जुड़ीं</string>
+  <string name="NotFoundMsg">जवन शब्द रउरा खोजत बानी ऊ हमनी के शब्दकोश में नइखे मिलल</string>
+  <string name="NoTextFoundToShare">साझा करे खातिर कवनो पाठ ना मिलल</string>
+  <string name="NoTranslationFoundToShare">साझा करे खातिर कवनो अनुवाद ना मिलल</string>
+  <string name="NoTranslationFoundToCopy">नकल करे खातिर कवनो अनुवाद ना मिलल</string>
+  <string name="NoTextFoundToCopy">नकल करे खातिर कवनो पाठ ना मिलल</string>
+  <string name="NoTextToSpeak">बोले खातिर कवनो पाठ ना</string>
+  <string name="LanguageDetected">भाषा के पता चलल बा</string>
+  <string name="OCRImage">ओसीआर छवि के बा</string>
+  <string name="OCRTranslation">ओसीआर अनुवाद के बा</string>
+  <string name="CopiedToClipboard">क्लिपबोर्ड पर कॉपी कइल गइल बा</string>
+  <string name="ChooseLanguageFirst">आगे बढ़े से पहिले पहिले भाषा चुनीं</string>
+  <string name="EnterTextToTranslate">अनुवाद करे खातिर पाठ दर्ज करीं</string>
+  <string name="TextFromImage">छवि से पाठ बा</string>
+  <string name="GettingText">पाठ मिल रहल बा</string>
+  <string name="PleaseEnterWordToSearchInDictionary">खोज करे खातिर कुछ शब्द जरूर डालीं</string>
+  <string name="Translating">अनुवाद करत बानी</string>
+  <string name="PermissionsNotGranted">अनुमति ना दिहल गइल</string>
+  <string name="CameraPermissionsMsg">कृपया छवि कैप्चर करे खातिर कैमरा के अनुमति दीं</string>
+  <string name="StoragePermissionsMsg">गैलरी से छवि पावे खातिर कृपया आंतरिक भंडारण के अनुमति दीं</string>
+  <string name="GrantPermissionsBtn">अनुमति दिहल जाला</string>
+</resources>

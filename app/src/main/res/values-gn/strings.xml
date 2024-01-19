@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Ñe’ẽ Ñembohasaha</string>
+  <string name="home">Óga</string>
+  <string name="shareVia">Compartir vía</string>
+  <string name="LanguageTranslator">Ñe’ẽ Ñembohasaha</string>
+  <string name="Translate">Ñe\'ẽmbohasa</string>
+  <string name="Conversation">Ñomongeta</string>
+  <string name="OCR">OCR rehegua</string>
+  <string name="Dictionary">Ñe\'ẽryru</string>
+  <string name="SearchWord">Ñe’ẽ jeheka</string>
+  <string name="ShareWithFriends">Ekomparti Angirûnguéra ndive</string>
+  <string name="ChangeLanguage">Emoambue Ñe’ẽ</string>
+  <string name="PrivacyPolicy">Polítika Privasida rehegua</string>
+  <string name="Gallery">Galería rehegua</string>
+  <string name="Camera">Cámara rehegua</string>
+  <string name="DoYouWantToExit">Resẽse piko</string>
+  <string name="Cancel">Heja</string>
+  <string name="Exit">Ñesẽha</string>
+  <string name="SelectAppLanguage">Eiporavo App Ñe’ẽ</string>
+  <string name="Ok">OĨMA</string>
+  <string name="Copy">Kopia rehegua</string>
+  <string name="FullScreen">Pantalla Completa rehegua</string>
+  <string name="ClearTitle">Hesakã</string>
+  <string name="ClearConversationMsg">¿Reime piko segúro remopotĩseha pe ñemongeta?</string>
+  <string name="Yes">Heẽ</string>
+  <string name="No">Nahániri</string>
+  <string name="SelectLanguage">Eiporavo Ñe’ẽ</string>
+  <string name="Downloading">Ojegueru haguã</string>
+  <string name="DownloadDialogMsg">Eha’arõmi nde modelo oñemboguejy aja</string>
+  <string name="Download">Mboguejy</string>
+  <string name="DownloadModel">Emboguejy Modelo</string>
+  <string name="DownloadModelDialogMsg">Tekotevẽ remboguejy raẽ pe modelo reiporavo mboyve ko idióma</string>
+  <string name="UseWifiMsg">Reipuru hína red celular. Eipuru Wifi emboguejy hag̃ua pe modelo</string>
+  <string name="Searching">Ojehekávo</string>
+  <string name="NotFound">Ndojejuhúi</string>
+  <string name="Image">Ta\'ãnga :</string>
+  <string name="PleaseConnectToInternet">Eñembojoaju internet-pe</string>
+  <string name="NotFoundMsg">Pe ñe’ẽ rehekáva ndojejuhúi ore ñe’ẽryrúpe</string>
+  <string name="NoTextFoundToShare">Ndojejuhúi texto oñekomparti haguã</string>
+  <string name="NoTranslationFoundToShare">Ndojejuhúi traducción oñekomparti haguã</string>
+  <string name="NoTranslationFoundToCopy">Ndojejuhúi traduksión ojekopia hag̃ua</string>
+  <string name="NoTextFoundToCopy">Ndojejuhúi texto ojekopia haguã</string>
+  <string name="NoTextToSpeak">Ndaipóri texto oñeñe\'ê haguã</string>
+  <string name="LanguageDetected">Ñe’ẽ Ojejuhúva</string>
+  <string name="OCRImage">OCR Ta’anga</string>
+  <string name="OCRTranslation">OCR Ñe’ẽasa</string>
+  <string name="CopiedToClipboard">Ojekopia portapapeles-pe</string>
+  <string name="ChooseLanguageFirst">Eiporavo raẽ Ñe’ẽ reho mboyve mombyryve</string>
+  <string name="EnterTextToTranslate">Emoinge jehaipyre rembohasa hag̃ua</string>
+  <string name="TextFromImage">Texto ta’ãngamýigui</string>
+  <string name="GettingText">Ojehupyty haguã jehaipyre</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Emoinge peteĩ ñe’ẽ reheka hag̃ua</string>
+  <string name="Translating">Ombohasávo</string>
+  <string name="PermissionsNotGranted">Umi permiso noñeme’ẽiva</string>
+  <string name="CameraPermissionsMsg">Eme’ẽ cámara permiso ejagarra hag̃ua ta’ãngamýi</string>
+  <string name="StoragePermissionsMsg">Eme’ẽ permiso almacenamiento interno rehegua rehupyty hag̃ua ta’ãnga galería-gui</string>
+  <string name="GrantPermissionsBtn">Oñeme’ẽ Permiso-kuéra</string>
+</resources>

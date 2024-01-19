@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Gbegɔmeɖela</string>
+  <string name="home">Aƒeme</string>
+  <string name="shareVia">Mamã to</string>
+  <string name="LanguageTranslator">Gbegɔmeɖela</string>
+  <string name="Translate">Ɖe gbe gɔme</string>
+  <string name="Conversation">Dzeɖoɖo</string>
+  <string name="OCR">OCR ƒe agbalẽ</string>
+  <string name="Dictionary">Nyadigbalẽ</string>
+  <string name="SearchWord">Di nya</string>
+  <string name="ShareWithFriends">Mae kple Xɔlɔ̃wo</string>
+  <string name="ChangeLanguage">Trɔ Gbegbɔgblɔ</string>
+  <string name="PrivacyPolicy">Ameŋunyatakakawo Ŋuti Ðoɖo</string>
+  <string name="Gallery">Nukpɔƒe</string>
+  <string name="Camera">Fotoɖemɔ̃</string>
+  <string name="DoYouWantToExit">Ðe nèdi be yeado le emea</string>
+  <string name="Cancel">Te fli ɖe eme</string>
+  <string name="Exit">Do</string>
+  <string name="SelectAppLanguage">Tia App Language ƒe Gbegbɔgblɔ</string>
+  <string name="Ok">ENYO</string>
+  <string name="Copy">Kpɔ eƒe kɔpi</string>
+  <string name="FullScreen">Screen Bliboe</string>
+  <string name="ClearTitle">Me kᴐ</string>
+  <string name="ClearConversationMsg">Èka ɖe edzi be yedi be yeakɔ dzeɖoɖoa mea?</string>
+  <string name="Yes">Ɛ̃</string>
+  <string name="No">Ao</string>
+  <string name="SelectLanguage">Tia Gbegbɔgblɔ</string>
+  <string name="Downloading">Eƒe kɔpiwɔwɔ</string>
+  <string name="DownloadDialogMsg">Taflatse lala esime wò model la le kɔpi wɔm</string>
+  <string name="Download">Hee ɖa anyi</string>
+  <string name="DownloadModel">Download Model ƒe kɔpi</string>
+  <string name="DownloadModelDialogMsg">Ele be nàwɔ model la ƒe kɔpi gbã hafi atia gbe sia</string>
+  <string name="UseWifiMsg">Èle asitelefon dzi kadodo zãm. Taflatse zã Wifi nàtsɔ awɔ model la ƒe kɔpi</string>
+  <string name="Searching">Didi</string>
+  <string name="NotFound">Womeke ɖe eŋu o</string>
+  <string name="Image">Nɔnɔmetata :</string>
+  <string name="PleaseConnectToInternet">Taflatse do ka kple internet</string>
+  <string name="NotFoundMsg">Nya si dim nèle la mele míaƒe nyagɔmeɖegbalẽ me o</string>
+  <string name="NoTextFoundToShare">Womekpɔ nuŋɔŋlɔ aɖeke be woama o</string>
+  <string name="NoTranslationFoundToShare">Womekpɔ gɔmeɖeɖe aɖeke si woatsɔ agblɔe o</string>
+  <string name="NoTranslationFoundToCopy">Womekpɔ gɔmeɖeɖe aɖeke be woawɔ kɔpi o</string>
+  <string name="NoTextFoundToCopy">Womekpɔ nuŋɔŋlɔ aɖeke be woawɔ kɔpi o</string>
+  <string name="NoTextToSpeak">Nuŋɔŋlɔ aɖeke meli woaƒo nu o</string>
+  <string name="LanguageDetected">Gbegbɔgblɔ si Wokpɔ</string>
+  <string name="OCRImage">OCR ƒe Nɔnɔmetata</string>
+  <string name="OCRTranslation">OCR Gbegɔmeɖeɖe</string>
+  <string name="CopiedToClipboard">Wogbugbɔe kɔpi ɖe clipboard dzi</string>
+  <string name="ChooseLanguageFirst">Tia Gbegbɔgblɔ gbã hafi nàyi ŋgɔ</string>
+  <string name="EnterTextToTranslate">Ŋlɔ nuŋɔŋlɔ be nàɖe egɔme</string>
+  <string name="TextFromImage">Nuŋɔŋlɔ tso nɔnɔmetata me</string>
+  <string name="GettingText">Text xɔxɔ</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Taflatse ŋlɔ nya aɖe be nàdi</string>
+  <string name="Translating">Gbegɔmeɖeɖe</string>
+  <string name="PermissionsNotGranted">Womena mɔɖeɖewo o</string>
+  <string name="CameraPermissionsMsg">Taflatse na mɔɖeɖe fotoɖemɔ̃ be wòaɖe nɔnɔmetata</string>
+  <string name="StoragePermissionsMsg">Taflatse na mɔɖeɖe ɖe nudzraɖoƒe ememetɔ ŋu be nàxɔ nɔnɔmetata tso gallery me</string>
+  <string name="GrantPermissionsBtn">Na Mɔɖeɖewo</string>
+</resources>

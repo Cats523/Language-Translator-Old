@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Aru Jaqukipiri</string>
+  <string name="home">Uta</string>
+  <string name="shareVia">Compartir via</string>
+  <string name="LanguageTranslator">Aru Jaqukipiri</string>
+  <string name="Translate">Jaqukipaña</string>
+  <string name="Conversation">Aruskipawi</string>
+  <string name="OCR">OCR ukax mä juk’a pachanakanwa</string>
+  <string name="Dictionary">Aru pirwa</string>
+  <string name="SearchWord">Uka aru thaqhaña</string>
+  <string name="ShareWithFriends">Amigunakamar yatiyañamawa</string>
+  <string name="ChangeLanguage">Aru mayjt’ayaña</string>
+  <string name="PrivacyPolicy">Privacidad tuqit kamachi</string>
+  <string name="Gallery">Galería ukan uñacht’ayata</string>
+  <string name="Camera">Camara ukax mä juk’a pachanakanwa</string>
+  <string name="DoYouWantToExit">Jumax mistuñ muntati</string>
+  <string name="Cancel">Kansilaña</string>
+  <string name="Exit">Mistuña</string>
+  <string name="SelectAppLanguage">App Language uk ajlliñamawa</string>
+  <string name="Ok">WALIKI</string>
+  <string name="Copy">Copia luraña</string>
+  <string name="FullScreen">Phuqata Pantalla</string>
+  <string name="ClearTitle">Qhana</string>
+  <string name="ClearConversationMsg">¿Chiqapunit parltʼasiñ qʼumachañ munta?</string>
+  <string name="Yes">Jïsa</string>
+  <string name="No">Janiwa</string>
+  <string name="SelectLanguage">Aru ajlliñani</string>
+  <string name="Downloading">Ukax mä juk’a pachanakanwa</string>
+  <string name="DownloadDialogMsg">Ukhamaraki, modelo ukax apkatañkamaw suyt’añama</string>
+  <string name="Download">Apaqaña</string>
+  <string name="DownloadModel">Modelo ukar apsuña</string>
+  <string name="DownloadModelDialogMsg">Nayraqatax modelo ukar apkatañamawa janïr aka aru ajllkasaxa</string>
+  <string name="UseWifiMsg">Ukax red celular ukan apnaqatawa. Wifi ukampiw modelo ukar apkatañax wakisi</string>
+  <string name="Searching">Thaqhaña</string>
+  <string name="NotFound">Janiw jikxataskiti</string>
+  <string name="Image">Jamuqa :</string>
+  <string name="PleaseConnectToInternet">Ukhamatwa internet tuqir mantasma</string>
+  <string name="NotFoundMsg">Uka arux thaqhapkta ukax janiw jiwasan diccionariosan jikxataskiti</string>
+  <string name="NoTextFoundToShare">Janiw mä qillqat jikxataskänti uñt’ayañataki</string>
+  <string name="NoTranslationFoundToShare">Janiw mä jaqukipäwix jikxataskiti uñt’ayañataki</string>
+  <string name="NoTranslationFoundToCopy">Janiw mä jaqukipäwix copiañatak jikxataskänti</string>
+  <string name="NoTextFoundToCopy">Janiw kuna qillqatas copiañatak jikxataskänti</string>
+  <string name="NoTextToSpeak">Janiw kuna qillqatas parlañatakix utjkiti</string>
+  <string name="LanguageDetected">Aru Uñt’ayata</string>
+  <string name="OCRImage">OCR Uñacht’äwi</string>
+  <string name="OCRTranslation">OCR Jaqukipaña</string>
+  <string name="CopiedToClipboard">Ukax mä portapapeles ukar copiatawa</string>
+  <string name="ChooseLanguageFirst">Janïr juk’amp nayrar sartkasax nayraqat Aru ajlliñamawa</string>
+  <string name="EnterTextToTranslate">Jaqukipañatakixa qillqata qillqt’aña</string>
+  <string name="TextFromImage">Uñacht’äwit qillqata</string>
+  <string name="GettingText">Texto katuqaña</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Mä juk’a aru thaqhañataki qillqt’aña</string>
+  <string name="Translating">Jaqukipaña</string>
+  <string name="PermissionsNotGranted">Permisonakax janiw churatäkiti</string>
+  <string name="CameraPermissionsMsg">Ukhamaraki, cámara ukan permisonakapax uñacht’ayañatakiw churasi</string>
+  <string name="StoragePermissionsMsg">Galería ukan uñacht’äwinak apsuñatakix manqhan imañ permisonak churañamawa</string>
+  <string name="GrantPermissionsBtn">Permisonaka churaña</string>
+</resources>

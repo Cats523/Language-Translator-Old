@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Gagana Faaliliu</string>
+  <string name="home">Aiga</string>
+  <string name="shareVia">Fa\'asoa e ala i</string>
+  <string name="LanguageTranslator">Gagana Faaliliu</string>
+  <string name="Translate">Fa\'aliliu</string>
+  <string name="Conversation">Talanoaga</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Lomifefiloi</string>
+  <string name="SearchWord">Su\'e upu</string>
+  <string name="ShareWithFriends">Faasoa atu i Uo</string>
+  <string name="ChangeLanguage">Suia Gagana</string>
+  <string name="PrivacyPolicy">Faiga Fa\'alilolilo</string>
+  <string name="Gallery">Faletusi</string>
+  <string name="Camera">Meapueata</string>
+  <string name="DoYouWantToExit">E te mana\'o e alu ese</string>
+  <string name="Cancel">Fa\'aleaogaina</string>
+  <string name="Exit">Alu</string>
+  <string name="SelectAppLanguage">Filifili App Language</string>
+  <string name="Ok">Ua lelei</string>
+  <string name="Copy">Kopi</string>
+  <string name="FullScreen">Ata atoa</string>
+  <string name="ClearTitle">Manino</string>
+  <string name="ClearConversationMsg">E te mautinoa e te mana\'o e tape le talanoaga?</string>
+  <string name="Yes">Ioe</string>
+  <string name="No">Leai</string>
+  <string name="SelectLanguage">Filifili Gagana</string>
+  <string name="Downloading">La\'uina i lalo</string>
+  <string name="DownloadDialogMsg">Fa\'amolemole fa\'atali a\'o la\'uina lau fa\'ata\'ita\'iga</string>
+  <string name="Download">La\'u mai</string>
+  <string name="DownloadModel">La\'u Fa\'ata\'ita\'iga</string>
+  <string name="DownloadModelDialogMsg">E mana\'omia le la\'uina muamua o le fa\'ata\'ita\'iga ae e te le\'i filifilia le gagana lea</string>
+  <string name="UseWifiMsg">O lo\'o e fa\'aogaina feso\'otaiga feavea\'i. Fa\'amolemole fa\'aaoga le Wifi e la\'u mai ai le fa\'ata\'ita\'iga</string>
+  <string name="Searching">Su\'esu\'e</string>
+  <string name="NotFound">E lei maua</string>
+  <string name="Image">Ata :</string>
+  <string name="PleaseConnectToInternet">Fa\'amolemole feso\'ota\'i ile initaneti</string>
+  <string name="NotFoundMsg">O le upu o lo\'o e su\'eina e le o maua i le matou lomifefiloi</string>
+  <string name="NoTextFoundToShare">Leai se tusitusiga na maua e fa\'asoa</string>
+  <string name="NoTranslationFoundToShare">Leai se faaliliuga na maua e faasoa</string>
+  <string name="NoTranslationFoundToCopy">Leai se faaliliuga na maua e kopi</string>
+  <string name="NoTextFoundToCopy">Leai se tusitusiga na maua e kopi</string>
+  <string name="NoTextToSpeak">Leai se tusitusiga e tautala ai</string>
+  <string name="LanguageDetected">Ua Maua le Gagana</string>
+  <string name="OCRImage">Ata OCR</string>
+  <string name="OCRTranslation">Fa\'aliliuga OCR</string>
+  <string name="CopiedToClipboard">Kopi i le laupapa kilipa</string>
+  <string name="ChooseLanguageFirst">Filifili muamua le Gagana ae e te le\'i fa\'aauau</string>
+  <string name="EnterTextToTranslate">Tu\'u tusitusiga e fa\'aliliu</string>
+  <string name="TextFromImage">Tusi mai ata</string>
+  <string name="GettingText">Mauaina o tusitusiga</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Fa\'amolemole tu\'u se upu e su\'e</string>
+  <string name="Translating">Fa\'aliliuga</string>
+  <string name="PermissionsNotGranted">E le\'i tu\'uina atu fa\'atagaga</string>
+  <string name="CameraPermissionsMsg">Fa\'amolemole tu\'u mai fa\'atagaga mai mea pu\'e ata</string>
+  <string name="StoragePermissionsMsg">Fa\'amolemole tu\'u mai fa\'atagaga e teu ai totonu e maua mai ai ata mai le fa\'ailoga</string>
+  <string name="GrantPermissionsBtn">Tuuina atu Faatagaga</string>
+</resources>

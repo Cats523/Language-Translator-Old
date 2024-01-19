@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">ენის მთარგმნელი</string>
+  <string name="home">მთავარი</string>
+  <string name="shareVia">გაზიარება მეშვეობით</string>
+  <string name="LanguageTranslator">ენის მთარგმნელი</string>
+  <string name="Translate">თარგმნეთ</string>
+  <string name="Conversation">Საუბარი</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">ლექსიკონი</string>
+  <string name="SearchWord">საძიებო სიტყვა</string>
+  <string name="ShareWithFriends">Მეგობრებთან გაზიარება</string>
+  <string name="ChangeLanguage">Ენის შეცვლა</string>
+  <string name="PrivacyPolicy">Კონფიდენციალურობის პოლიტიკა</string>
+  <string name="Gallery">გალერეა</string>
+  <string name="Camera">კამერა</string>
+  <string name="DoYouWantToExit">გინდა გასვლა</string>
+  <string name="Cancel">გაუქმება</string>
+  <string name="Exit">გასვლა</string>
+  <string name="SelectAppLanguage">აირჩიეთ აპის ენა</string>
+  <string name="Ok">კარგი</string>
+  <string name="Copy">კოპირება</string>
+  <string name="FullScreen">Მთლიანი ეკრანი</string>
+  <string name="ClearTitle">წმინდა</string>
+  <string name="ClearConversationMsg">დარწმუნებული ხართ, რომ გსურთ საუბრის გასუფთავება?</string>
+  <string name="Yes">დიახ</string>
+  <string name="No">არა</string>
+  <string name="SelectLanguage">Აირჩიეთ ენა</string>
+  <string name="Downloading">ჩამოტვირთვა</string>
+  <string name="DownloadDialogMsg">გთხოვთ, დაელოდოთ სანამ თქვენი მოდელი ჩამოიტვირთება</string>
+  <string name="Download">ჩამოტვირთვა</string>
+  <string name="DownloadModel">ჩამოტვირთეთ მოდელი</string>
+  <string name="DownloadModelDialogMsg">ამ ენის არჩევამდე ჯერ უნდა ჩამოტვირთოთ მოდელი</string>
+  <string name="UseWifiMsg">თქვენ იყენებთ ფიჭურ ქსელს. გთხოვთ, გამოიყენოთ Wifi მოდელის ჩამოსატვირთად</string>
+  <string name="Searching">ეძებს</string>
+  <string name="NotFound">არ მოიძებნა</string>
+  <string name="Image">გამოსახულება:</string>
+  <string name="PleaseConnectToInternet">გთხოვთ დაუკავშირდეთ ინტერნეტს</string>
+  <string name="NotFoundMsg">სიტყვა, რომელსაც ეძებთ, ჩვენს ლექსიკონში არ მოიძებნება</string>
+  <string name="NoTextFoundToShare">ტექსტი ვერ მოიძებნა გასაზიარებლად</string>
+  <string name="NoTranslationFoundToShare">თარგმანი ვერ მოიძებნა გასაზიარებლად</string>
+  <string name="NoTranslationFoundToCopy">ასლი თარგმანი ვერ მოიძებნა</string>
+  <string name="NoTextFoundToCopy">კოპირების ტექსტი ვერ მოიძებნა</string>
+  <string name="NoTextToSpeak">სალაპარაკო ტექსტი არ არის</string>
+  <string name="LanguageDetected">ენა აღმოჩენილია</string>
+  <string name="OCRImage">OCR გამოსახულება</string>
+  <string name="OCRTranslation">OCR თარგმანი</string>
+  <string name="CopiedToClipboard">კოპირებულია ბუფერში</string>
+  <string name="ChooseLanguageFirst">ჯერ აირჩიეთ ენა, სანამ შემდგომ გააგრძელებთ</string>
+  <string name="EnterTextToTranslate">შეიყვანეთ ტექსტი სათარგმნად</string>
+  <string name="TextFromImage">ტექსტი სურათიდან</string>
+  <string name="GettingText">ტექსტის მიღება</string>
+  <string name="PleaseEnterWordToSearchInDictionary">გთხოვთ, შეიყვანოთ რაიმე სიტყვა საძიებლად</string>
+  <string name="Translating">თარგმნის</string>
+  <string name="PermissionsNotGranted">ნებართვები არ არის მინიჭებული</string>
+  <string name="CameraPermissionsMsg">გთხოვთ, მიანიჭოთ კამერას სურათის გადაღების ნებართვა</string>
+  <string name="StoragePermissionsMsg">გთხოვთ, მიანიჭოთ შიდა მეხსიერების ნებართვები გალერეიდან სურათის მისაღებად</string>
+  <string name="GrantPermissionsBtn">ნებართვების გაცემა</string>
+</resources>

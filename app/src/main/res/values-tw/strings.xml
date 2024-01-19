@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Kasa Nkyerɛasefo</string>
+  <string name="home">Fie</string>
+  <string name="shareVia">Kyɛ via</string>
+  <string name="LanguageTranslator">Kasa Nkyerɛasefo</string>
+  <string name="Translate">Kyerɛ aseɛ</string>
+  <string name="Conversation">Nkɔmmɔdie</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Dihyinari</string>
+  <string name="SearchWord">Hwehwɛ asɛmfua</string>
+  <string name="ShareWithFriends">Kyɛ ma Nnamfo</string>
+  <string name="ChangeLanguage">Sesa Kasa</string>
+  <string name="PrivacyPolicy">Kokoam Nsɛm Ho Nhyehyɛe</string>
+  <string name="Gallery">Nneɛma a wɔde kyerɛ</string>
+  <string name="Camera">Mfoninitwa afiri</string>
+  <string name="DoYouWantToExit">So wopɛ sɛ wufi mu</string>
+  <string name="Cancel">Twam</string>
+  <string name="Exit">Firi</string>
+  <string name="SelectAppLanguage">Paw App Kasa a Wɔde Di Dwuma</string>
+  <string name="Ok">YOO</string>
+  <string name="Copy">Kɔpi</string>
+  <string name="FullScreen">Screen a Ɛyɛ Nyinaa</string>
+  <string name="ClearTitle">Wann</string>
+  <string name="ClearConversationMsg">So wugye di sɛ wopɛ sɛ wotew nkɔmmɔbɔ no mu?</string>
+  <string name="Yes">Aane</string>
+  <string name="No">Daabi</string>
+  <string name="SelectLanguage">Paw Kasa</string>
+  <string name="Downloading">Wɔretwe afi kɔmputa so</string>
+  <string name="DownloadDialogMsg">Yɛsrɛ sɛ twɛn bere a wo model no retwe no</string>
+  <string name="Download">Twe</string>
+  <string name="DownloadModel">Twe Model no so</string>
+  <string name="DownloadModelDialogMsg">Ɛsɛ sɛ wudi kan twe model no ansa na woapaw kasa yi</string>
+  <string name="UseWifiMsg">Wode cellular network redi dwuma. Yɛsrɛ sɛ fa Wifi di dwuma na twe model no</string>
+  <string name="Searching">Hwehwɛ a wɔhwehwɛ</string>
+  <string name="NotFound">Wonhu</string>
+  <string name="Image">Mfoni :</string>
+  <string name="PleaseConnectToInternet">Yɛsrɛ sɛ fa wo ho hyɛ intanɛt so</string>
+  <string name="NotFoundMsg">Asɛmfua a worehwehwɛ no nni yɛn nsɛm asekyerɛ nhoma mu</string>
+  <string name="NoTextFoundToShare">Wɔanhu nsɛm biara a wɔde bɛkyɛ</string>
+  <string name="NoTranslationFoundToShare">Wɔanhu nkyerɛase biara a ɛbɛkyɛ</string>
+  <string name="NoTranslationFoundToCopy">Wɔanhu nkyerɛase biara a wɔde bɛsuasua</string>
+  <string name="NoTextFoundToCopy">Wɔanhu nkyerɛwee biara a wɔde bɛsuasua</string>
+  <string name="NoTextToSpeak">Nkyerɛwee biara nni hɔ a wɔbɛka</string>
+  <string name="LanguageDetected">Kasa a Wɔahu</string>
+  <string name="OCRImage">OCR Mfonini no</string>
+  <string name="OCRTranslation">OCR Nkyerɛaseɛ</string>
+  <string name="CopiedToClipboard">Wɔayɛ no kɔpi wɔ clipboard so</string>
+  <string name="ChooseLanguageFirst">Di kan paw Kasa ansa na woakɔ so akɔ akyiri</string>
+  <string name="EnterTextToTranslate">Hyehyɛ nsɛm a wobɛkyerɛ ase</string>
+  <string name="TextFromImage">Nsɛm a efi mfonini mu</string>
+  <string name="GettingText">Text a wobenya</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Yɛsrɛ sɛ kyerɛw asɛmfua bi na fa hwehwɛ</string>
+  <string name="Translating">Nkyerɛase a wɔkyerɛ ase</string>
+  <string name="PermissionsNotGranted">Wɔamma ho kwan</string>
+  <string name="CameraPermissionsMsg">Yɛsrɛ sɛ ma mfoninitwa mfiri kwan ma wɔmfa ntwa mfonini</string>
+  <string name="StoragePermissionsMsg">Yɛsrɛ wo ma kwan a wode bɛkora nneɛma so wɔ mu na woanya mfonini afi gallery mu</string>
+  <string name="GrantPermissionsBtn">Ma Hokwan a Wɔde Ma</string>
+</resources>

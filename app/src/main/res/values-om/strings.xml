@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Hiiktuu Afaanii</string>
+  <string name="home">Mana</string>
+  <string name="shareVia">Share via</string>
+  <string name="LanguageTranslator">Hiiktuu Afaanii</string>
+  <string name="Translate">Hiikuu</string>
+  <string name="Conversation">Haasaa</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Galmee jechootaa</string>
+  <string name="SearchWord">Jecha barbaadi</string>
+  <string name="ShareWithFriends">Hiriyyoota keessaniif qooda</string>
+  <string name="ChangeLanguage">Afaan Jijjiirraa</string>
+  <string name="PrivacyPolicy">Imaammata Dhuunfaa</string>
+  <string name="Gallery">Galmee</string>
+  <string name="Camera">Kaameeraa</string>
+  <string name="DoYouWantToExit">Bahuu barbaaddaa</string>
+  <string name="Cancel">Haquu</string>
+  <string name="Exit">Ba\'uu</string>
+  <string name="SelectAppLanguage">App Language filadhu</string>
+  <string name="Ok">TOLE</string>
+  <string name="Copy">Koppii godhaa</string>
+  <string name="FullScreen">Iskiriinii Guutuu</string>
+  <string name="ClearTitle">Ifaa</string>
+  <string name="ClearConversationMsg">Haasaa sana qulqulleessuu akka barbaaddu mirkaneeffatteettaa?</string>
+  <string name="Yes">Eeyyee</string>
+  <string name="No">Lakki</string>
+  <string name="SelectLanguage">Afaan Filadhu</string>
+  <string name="Downloading">Buufachuuf</string>
+  <string name="DownloadDialogMsg">Mee osoo moodeelli keessan buufatu eegaa</string>
+  <string name="Download">Buusuu</string>
+  <string name="DownloadModel">Download Moodeela</string>
+  <string name="DownloadModelDialogMsg">Afaan kana filachuu kee dura dursitee moodeela buufachuu qabda</string>
+  <string name="UseWifiMsg">Neetwork seelotaa fayyadamaa jirtu. Mee Wifi fayyadamaa moodeela kana buufachuuf</string>
+  <string name="Searching">Barbaacha</string>
+  <string name="NotFound">Hin Argamne</string>
+  <string name="Image">Bifa :</string>
+  <string name="PleaseConnectToInternet">Mee interneetii waliin wal qunnamaa</string>
+  <string name="NotFoundMsg">Jechi ati barbaaddu galmee jechoota keenya keessatti hin argamu</string>
+  <string name="NoTextFoundToShare">Barreeffamni qooduuf hin argamne</string>
+  <string name="NoTranslationFoundToShare">Hiikkaan qooduuf hin argamne</string>
+  <string name="NoTranslationFoundToCopy">Hiikkaan waraabuuf hin argamne</string>
+  <string name="NoTextFoundToCopy">Barreeffamni waraabuuf hin argamne</string>
+  <string name="NoTextToSpeak">Barreeffama dubbachuuf hin jiru</string>
+  <string name="LanguageDetected">Afaan Argame</string>
+  <string name="OCRImage">Fakkii OCR</string>
+  <string name="OCRTranslation">Hiikkaa OCR</string>
+  <string name="CopiedToClipboard">Gara clipboard tti waraabame</string>
+  <string name="ChooseLanguageFirst">Osoo gara fuulduraatti hin deemin dura dursa Afaan filadhu</string>
+  <string name="EnterTextToTranslate">Hiikuuf barruu galchi</string>
+  <string name="TextFromImage">Barreeffama fakkii irraa</string>
+  <string name="GettingText">Barreeffama argachuu</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Mee jecha tokko tokko galchuudhaan barbaacha</string>
+  <string name="Translating">Hiikuu</string>
+  <string name="PermissionsNotGranted">Hayyamni hin kennamne</string>
+  <string name="CameraPermissionsMsg">Mee suuraa kaasuuf hayyama kaameraa kenni</string>
+  <string name="StoragePermissionsMsg">Maaloo suuraa galmee irraa argachuuf hayyama kuusaa keessoo kenni</string>
+  <string name="GrantPermissionsBtn">Hayyama Kennuu</string>
+</resources>

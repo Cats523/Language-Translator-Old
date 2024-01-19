@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Tagasalin ng Wika</string>
+  <string name="home">Bahay</string>
+  <string name="shareVia">Ibahagi sa pamamagitan ng</string>
+  <string name="LanguageTranslator">Tagasalin ng Wika</string>
+  <string name="Translate">Isalin</string>
+  <string name="Conversation">Pag-uusap</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Diksyunaryo</string>
+  <string name="SearchWord">Maghanap ng salita</string>
+  <string name="ShareWithFriends">Ibahagi sa Mga Kaibigan</string>
+  <string name="ChangeLanguage">Baguhin ang Wika</string>
+  <string name="PrivacyPolicy">Patakaran sa Privacy</string>
+  <string name="Gallery">Gallery</string>
+  <string name="Camera">Camera</string>
+  <string name="DoYouWantToExit">Gusto mo bang lumabas</string>
+  <string name="Cancel">Kanselahin</string>
+  <string name="Exit">Lumabas</string>
+  <string name="SelectAppLanguage">Piliin ang Wika ng App</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopya</string>
+  <string name="FullScreen">Buong Screen</string>
+  <string name="ClearTitle">Maaliwalas</string>
+  <string name="ClearConversationMsg">Sigurado ka bang gusto mong i-clear ang pag-uusap?</string>
+  <string name="Yes">Oo</string>
+  <string name="No">Hindi</string>
+  <string name="SelectLanguage">Piliin ang Wika</string>
+  <string name="Downloading">Nagda-download</string>
+  <string name="DownloadDialogMsg">Mangyaring maghintay habang nagda-download ang iyong modelo</string>
+  <string name="Download">I-download</string>
+  <string name="DownloadModel">I-download ang Modelo</string>
+  <string name="DownloadModelDialogMsg">Kailangan mong i-download muna ang modelo bago mo piliin ang wikang ito</string>
+  <string name="UseWifiMsg">Gumagamit ka ng cellular network. Mangyaring gumamit ng Wifi para i-download ang modelo</string>
+  <string name="Searching">Naghahanap</string>
+  <string name="NotFound">Hindi mahanap</string>
+  <string name="Image">Larawan :</string>
+  <string name="PleaseConnectToInternet">Mangyaring kumonekta sa internet</string>
+  <string name="NotFoundMsg">Ang salita na iyong hinahanap ay hindi matatagpuan sa aming diksyunaryo</string>
+  <string name="NoTextFoundToShare">Walang nakitang text na ibabahagi</string>
+  <string name="NoTranslationFoundToShare">Walang nakitang pagsasalin na ibabahagi</string>
+  <string name="NoTranslationFoundToCopy">Walang nakitang pagsasalin upang kopyahin</string>
+  <string name="NoTextFoundToCopy">Walang nahanap na teksto upang kopyahin</string>
+  <string name="NoTextToSpeak">Walang text para magsalita</string>
+  <string name="LanguageDetected">Natukoy ang Wika</string>
+  <string name="OCRImage">Larawan ng OCR</string>
+  <string name="OCRTranslation">Pagsasalin ng OCR</string>
+  <string name="CopiedToClipboard">Kinopya sa clipboard</string>
+  <string name="ChooseLanguageFirst">Piliin muna ang Wika bago ka magpatuloy</string>
+  <string name="EnterTextToTranslate">Maglagay ng text na isasalin</string>
+  <string name="TextFromImage">Teksto mula sa larawan</string>
+  <string name="GettingText">Pagkuha ng text</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Mangyaring magpasok ng ilang salita upang hanapin</string>
+  <string name="Translating">Pagsasalin</string>
+  <string name="PermissionsNotGranted">Hindi ibinigay ang mga pahintulot</string>
+  <string name="CameraPermissionsMsg">Mangyaring magbigay ng mga pahintulot sa camera na kumuha ng larawan</string>
+  <string name="StoragePermissionsMsg">Mangyaring magbigay ng mga pahintulot sa panloob na storage upang makakuha ng larawan mula sa gallery</string>
+  <string name="GrantPermissionsBtn">Magbigay ng Mga Pahintulot</string>
+</resources>

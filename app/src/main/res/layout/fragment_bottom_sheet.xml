@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:elevation="10dp"
+
+    tools:context=".utils.network.BottomSheetFragment">
+
+    <TextView
+        android:textAlignment="center"
+        android:id="@+id/networkStatusMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="No internet connection"
+        android:textColor="#A83E3E"
+        android:textSize="16sp" />
+
+</androidx.cardview.widget.CardView>

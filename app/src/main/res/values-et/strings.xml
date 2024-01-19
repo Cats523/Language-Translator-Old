@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Keeletõlkija</string>
+  <string name="home">Kodu</string>
+  <string name="shareVia">Jaga kaudu</string>
+  <string name="LanguageTranslator">Keeletõlkija</string>
+  <string name="Translate">Tõlgi</string>
+  <string name="Conversation">Vestlus</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Sõnastik</string>
+  <string name="SearchWord">Otsisõna</string>
+  <string name="ShareWithFriends">Jaga sõpradega</string>
+  <string name="ChangeLanguage">Muuda keelt</string>
+  <string name="PrivacyPolicy">Privaatsuspoliitika</string>
+  <string name="Gallery">Galerii</string>
+  <string name="Camera">Kaamera</string>
+  <string name="DoYouWantToExit">Kas soovite väljuda?</string>
+  <string name="Cancel">Tühista</string>
+  <string name="Exit">Välju</string>
+  <string name="SelectAppLanguage">Valige Rakenduse keel</string>
+  <string name="Ok">Okei</string>
+  <string name="Copy">Kopeeri</string>
+  <string name="FullScreen">Täisekraan</string>
+  <string name="ClearTitle">Selge</string>
+  <string name="ClearConversationMsg">Kas soovite kindlasti vestluse tühjendada?</string>
+  <string name="Yes">Jah</string>
+  <string name="No">Ei</string>
+  <string name="SelectLanguage">Vali keel</string>
+  <string name="Downloading">Allalaadimine</string>
+  <string name="DownloadDialogMsg">Palun oodake, kuni teie mudel laaditakse alla</string>
+  <string name="Download">Lae alla</string>
+  <string name="DownloadModel">Laadige alla mudel</string>
+  <string name="DownloadModelDialogMsg">Enne selle keele valimist peate mudeli alla laadima</string>
+  <string name="UseWifiMsg">Kasutate mobiilsidevõrku. Kasutage mudeli allalaadimiseks WiFi-ühendust</string>
+  <string name="Searching">Otsimine</string>
+  <string name="NotFound">Ei leitud</string>
+  <string name="Image">Pilt :</string>
+  <string name="PleaseConnectToInternet">Ühendage Internetiga</string>
+  <string name="NotFoundMsg">Sõna, mida otsite, ei leidu meie sõnastikust</string>
+  <string name="NoTextFoundToShare">Jagamiseks ei leitud teksti</string>
+  <string name="NoTranslationFoundToShare">Jagamiseks ei leitud tõlget</string>
+  <string name="NoTranslationFoundToCopy">Kopeerimiseks ei leitud tõlget</string>
+  <string name="NoTextFoundToCopy">Kopeeritavat teksti ei leitud</string>
+  <string name="NoTextToSpeak">Pole teksti, mida rääkida</string>
+  <string name="LanguageDetected">Keel tuvastatud</string>
+  <string name="OCRImage">OCR-pilt</string>
+  <string name="OCRTranslation">OCR-tõlge</string>
+  <string name="CopiedToClipboard">Kopeeriti lõikelauale</string>
+  <string name="ChooseLanguageFirst">Valige keel, enne kui jätkate</string>
+  <string name="EnterTextToTranslate">Sisestage tõlkimiseks tekst</string>
+  <string name="TextFromImage">Tekst pildilt</string>
+  <string name="GettingText">Teksti hankimine</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Sisestage otsimiseks mõni sõna</string>
+  <string name="Translating">Tõlkimine</string>
+  <string name="PermissionsNotGranted">Lube ei antud</string>
+  <string name="CameraPermissionsMsg">Andke kaamerale pildi jäädvustamiseks load</string>
+  <string name="StoragePermissionsMsg">Galeriist kujutise hankimiseks andke sisemälu load</string>
+  <string name="GrantPermissionsBtn">Lubade andmine</string>
+</resources>

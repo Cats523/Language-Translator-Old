@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">ቋንቋ ተርጓሚ</string>
+  <string name="home">ቤት</string>
+  <string name="shareVia">በ በኩል አጋራ</string>
+  <string name="LanguageTranslator">ቋንቋ ተርጓሚ</string>
+  <string name="Translate">ተርጉም።</string>
+  <string name="Conversation">ውይይት</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">መዝገበ ቃላት</string>
+  <string name="SearchWord">ቃል ፈልግ</string>
+  <string name="ShareWithFriends">ከጓደኞች ጋር አጋራ</string>
+  <string name="ChangeLanguage">ቋንቋ ቀይር</string>
+  <string name="PrivacyPolicy">የ ግል የሆነ</string>
+  <string name="Gallery">ማዕከለ-ስዕላት</string>
+  <string name="Camera">ካሜራ</string>
+  <string name="DoYouWantToExit">መውጣት ትፈልጋለህ?</string>
+  <string name="Cancel">ሰርዝ</string>
+  <string name="Exit">ውጣ</string>
+  <string name="SelectAppLanguage">የመተግበሪያ ቋንቋን ይምረጡ</string>
+  <string name="Ok">እሺ</string>
+  <string name="Copy">ቅዳ</string>
+  <string name="FullScreen">ሙሉ ማያ</string>
+  <string name="ClearTitle">ግልጽ</string>
+  <string name="ClearConversationMsg">እርግጠኛ ነዎት ውይይቱን ማጽዳት ይፈልጋሉ?</string>
+  <string name="Yes">አዎ</string>
+  <string name="No">አይ</string>
+  <string name="SelectLanguage">ቋንቋ ይምረጡ</string>
+  <string name="Downloading">በማውረድ ላይ</string>
+  <string name="DownloadDialogMsg">እባክዎ ሞዴልዎ እየወረደ ሳለ ይጠብቁ</string>
+  <string name="Download">አውርድ</string>
+  <string name="DownloadModel">ሞዴል አውርድ</string>
+  <string name="DownloadModelDialogMsg">ይህን ቋንቋ ከመምረጥዎ በፊት መጀመሪያ ሞዴሉን ማውረድ ያስፈልግዎታል</string>
+  <string name="UseWifiMsg">የተንቀሳቃሽ ስልክ አውታረ መረብ እየተጠቀሙ ነው። ሞዴሉን ለማውረድ እባክዎ ዋይፋይ ይጠቀሙ</string>
+  <string name="Searching">መፈለግ</string>
+  <string name="NotFound">አልተገኘም</string>
+  <string name="Image">ምስል፡</string>
+  <string name="PleaseConnectToInternet">እባክዎ ከበይነመረብ ጋር ይገናኙ</string>
+  <string name="NotFoundMsg">የሚፈልጉት ቃል በእኛ መዝገበ ቃላት ውስጥ አይገኝም</string>
+  <string name="NoTextFoundToShare">ለማጋራት ምንም ጽሑፍ አልተገኘም።</string>
+  <string name="NoTranslationFoundToShare">ለማጋራት ምንም ትርጉም አልተገኘም።</string>
+  <string name="NoTranslationFoundToCopy">ለመቅዳት ምንም ትርጉም አልተገኘም።</string>
+  <string name="NoTextFoundToCopy">ለመቅዳት ምንም ጽሑፍ አልተገኘም።</string>
+  <string name="NoTextToSpeak">የሚነገር ጽሑፍ የለም።</string>
+  <string name="LanguageDetected">ቋንቋ ተገኝቷል</string>
+  <string name="OCRImage">OCR ምስል</string>
+  <string name="OCRTranslation">OCR ትርጉም</string>
+  <string name="CopiedToClipboard">ወደ ቅንጥብ ሰሌዳ ተቀድቷል።</string>
+  <string name="ChooseLanguageFirst">ወደ ፊት ከመቀጠልዎ በፊት መጀመሪያ ቋንቋ ይምረጡ</string>
+  <string name="EnterTextToTranslate">ለመተርጎም ጽሑፍ ያስገቡ</string>
+  <string name="TextFromImage">ጽሑፍ ከምስል</string>
+  <string name="GettingText">ጽሑፍ በማግኘት ላይ</string>
+  <string name="PleaseEnterWordToSearchInDictionary">እባክዎ ለመፈለግ ጥቂት ቃል ያስገቡ</string>
+  <string name="Translating">መተርጎም</string>
+  <string name="PermissionsNotGranted">ፈቃዶች አልተሰጡም።</string>
+  <string name="CameraPermissionsMsg">እባክዎ ምስልን ለመቅረጽ የካሜራ ፈቃዶችን ይስጡ</string>
+  <string name="StoragePermissionsMsg">ከማዕከለ-ስዕላት ምስል ለማግኘት እባክዎ የውስጥ ማከማቻ ፈቃዶችን ይስጡ</string>
+  <string name="GrantPermissionsBtn">ፈቃዶችን ይስጡ</string>
+</resources>

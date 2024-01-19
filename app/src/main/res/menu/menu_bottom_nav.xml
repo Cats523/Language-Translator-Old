@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+
+        android:icon="@drawable/translate_white"
+        android:title="@string/home" />
+    <item
+        android:enabled="true"
+        android:id="@+id/conversionFragment"
+        android:icon="@drawable/mike_purple"
+        android:title="@string/Conversation" />
+    <item
+        android:id="@+id/OCRFragment"
+        android:icon="@drawable/ocr_purple"
+        android:title="@string/OCR" />
+    <item
+        android:id="@+id/dictionaryFragment"
+        android:icon="@drawable/dictionary_purple"
+        android:title="@string/Dictionary" />
+
+</menu>

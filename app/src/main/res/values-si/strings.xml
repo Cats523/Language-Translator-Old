@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">භාෂා පරිවර්තකය</string>
+  <string name="home">ගෙදර</string>
+  <string name="shareVia">හරහා බෙදාගන්න</string>
+  <string name="LanguageTranslator">භාෂා පරිවර්තකය</string>
+  <string name="Translate">පරිවර්තනය කරන්න</string>
+  <string name="Conversation">සාකච්ඡාව</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">ශබ්දකෝෂය</string>
+  <string name="SearchWord">වචනය සොයන්න</string>
+  <string name="ShareWithFriends">යහළුවන් සමග බෙදාගන්න</string>
+  <string name="ChangeLanguage">භාෂාව වෙනස් කරන්න</string>
+  <string name="PrivacyPolicy">රහස්යතා ප්රතිපත්තිය</string>
+  <string name="Gallery">ගැලරිය</string>
+  <string name="Camera">කැමරා</string>
+  <string name="DoYouWantToExit">ඔබට පිටවීමට අවශ්‍යද</string>
+  <string name="Cancel">අවලංගු කරන්න</string>
+  <string name="Exit">පිටවීම</string>
+  <string name="SelectAppLanguage">යෙදුම් භාෂාව තෝරන්න</string>
+  <string name="Ok">හරි</string>
+  <string name="Copy">පිටපත් කරන්න</string>
+  <string name="FullScreen">පුන් තිරය</string>
+  <string name="ClearTitle">පැහැදිලිව</string>
+  <string name="ClearConversationMsg">ඔබට සංවාදය හිස් කිරීමට අවශ්‍ය බව විශ්වාසද?</string>
+  <string name="Yes">ඔව්</string>
+  <string name="No">නැත</string>
+  <string name="SelectLanguage">භාෂාව තෝරන්න</string>
+  <string name="Downloading">බාගත කිරීම</string>
+  <string name="DownloadDialogMsg">කරුණාකර ඔබගේ ආකෘතිය බාගත වන තෙක් රැඳී සිටින්න</string>
+  <string name="Download">බාගත</string>
+  <string name="DownloadModel">ආකෘතිය බාගත කරන්න</string>
+  <string name="DownloadModelDialogMsg">ඔබ මෙම භාෂාව තේරීමට පෙර ඔබ මුලින්ම ආකෘතිය බාගත කළ යුතුය</string>
+  <string name="UseWifiMsg">ඔබ සෙලියුලර් ජාලය භාවිතා කරයි. ආකෘතිය බාගැනීමට කරුණාකර Wifi භාවිතා කරන්න</string>
+  <string name="Searching">සොයමින්</string>
+  <string name="NotFound">හමු වුණේ නැහැ</string>
+  <string name="Image">රූප :</string>
+  <string name="PleaseConnectToInternet">කරුණාකර අන්තර්ජාලයට සම්බන්ධ වන්න</string>
+  <string name="NotFoundMsg">ඔබ සොයන වචනය අපගේ ශබ්දකෝෂයේ නොමැත</string>
+  <string name="NoTextFoundToShare">බෙදා ගැනීමට පෙළක් හමු නොවීය</string>
+  <string name="NoTranslationFoundToShare">බෙදා ගැනීමට පරිවර්තනයක් හමු නොවීය</string>
+  <string name="NoTranslationFoundToCopy">පිටපත් කිරීමට පරිවර්තනයක් හමු නොවීය</string>
+  <string name="NoTextFoundToCopy">පිටපත් කිරීමට පෙළක් හමු නොවීය</string>
+  <string name="NoTextToSpeak">කතා කිරීමට පෙළ නැත</string>
+  <string name="LanguageDetected">භාෂාව අනාවරණය විය</string>
+  <string name="OCRImage">OCR රූපය</string>
+  <string name="OCRTranslation">OCR පරිවර්තනය</string>
+  <string name="CopiedToClipboard">පසුරු පුවරුවට පිටපත් කර ඇත</string>
+  <string name="ChooseLanguageFirst">ඔබ තවදුරටත් ඉදිරියට යාමට පෙර පළමුව භාෂාව තෝරන්න</string>
+  <string name="EnterTextToTranslate">පරිවර්තනය කිරීමට පෙළ ඇතුළත් කරන්න</string>
+  <string name="TextFromImage">රූපයෙන් පෙළ</string>
+  <string name="GettingText">පෙළ ලබා ගැනීම</string>
+  <string name="PleaseEnterWordToSearchInDictionary">කරුණාකර සෙවීමට වචනයක් ඇතුළු කරන්න</string>
+  <string name="Translating">පරිවර්තනය කරනවා</string>
+  <string name="PermissionsNotGranted">අවසර ලබා දී නැත</string>
+  <string name="CameraPermissionsMsg">කරුණාකර රූපය ලබා ගැනීමට කැමරා අවසර ලබා දෙන්න</string>
+  <string name="StoragePermissionsMsg">ගැලරියෙන් රූපය ලබා ගැනීමට කරුණාකර අභ්‍යන්තර ගබඩා අවසර ලබා දෙන්න</string>
+  <string name="GrantPermissionsBtn">අවසර ලබා දෙන්න</string>
+</resources>

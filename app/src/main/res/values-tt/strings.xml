@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Тел тәрҗемәчесе</string>
+  <string name="home">Өй</string>
+  <string name="shareVia">Бүлешегез</string>
+  <string name="LanguageTranslator">Тел тәрҗемәчесе</string>
+  <string name="Translate">Тәрҗемә итү</string>
+  <string name="Conversation">Сөйләшү</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Сүзлек</string>
+  <string name="SearchWord">Эзләү сүзе</string>
+  <string name="ShareWithFriends">Дуслар белән бүлеш</string>
+  <string name="ChangeLanguage">Телне үзгәртү</string>
+  <string name="PrivacyPolicy">Шәхсилек сәясәте</string>
+  <string name="Gallery">Галерея</string>
+  <string name="Camera">Камера</string>
+  <string name="DoYouWantToExit">Сез чыгасызмы?</string>
+  <string name="Cancel">Баш тарту</string>
+  <string name="Exit">Чыгу</string>
+  <string name="SelectAppLanguage">Кушымта телен сайлагыз</string>
+  <string name="Ok">ЯРАРМЫ</string>
+  <string name="Copy">Күчермә</string>
+  <string name="FullScreen">Тулы экран</string>
+  <string name="ClearTitle">Чиста</string>
+  <string name="ClearConversationMsg">Сез сөйләшүне чистартырга телисезме?</string>
+  <string name="Yes">Әйе</string>
+  <string name="No">.К</string>
+  <string name="SelectLanguage">Телне сайлагыз</string>
+  <string name="Downloading">Йөкләү</string>
+  <string name="DownloadDialogMsg">Зинһар, сезнең модель йөкләгән вакытта көтегез</string>
+  <string name="Download">Йөкләү</string>
+  <string name="DownloadModel">Модельне йөкләү</string>
+  <string name="DownloadModelDialogMsg">Бу телне сайлаганчы башта модельне йөкләргә кирәк</string>
+  <string name="UseWifiMsg">Сез кәрәзле челтәр кулланасыз. Зинһар, модельне йөкләү өчен Wifi кулланыгыз</string>
+  <string name="Searching">Эзләү</string>
+  <string name="NotFound">Табылмады</string>
+  <string name="Image">Рәсем:</string>
+  <string name="PleaseConnectToInternet">Зинһар, интернетка тоташыгыз</string>
+  <string name="NotFoundMsg">Сез эзләгән сүз безнең сүзлектә юк</string>
+  <string name="NoTextFoundToShare">Бүлешергә текст табылмады</string>
+  <string name="NoTranslationFoundToShare">Бүлешү өчен тәрҗемә табылмады</string>
+  <string name="NoTranslationFoundToCopy">Күчереп алу өчен тәрҗемә табылмады</string>
+  <string name="NoTextFoundToCopy">Күчереп алу өчен текст табылмады</string>
+  <string name="NoTextToSpeak">Сөйләргә текст юк</string>
+  <string name="LanguageDetected">Тел ачыкланды</string>
+  <string name="OCRImage">OCR Рәсем</string>
+  <string name="OCRTranslation">OCR тәрҗемәсе</string>
+  <string name="CopiedToClipboard">Буфер тактасына күчерелгән</string>
+  <string name="ChooseLanguageFirst">Алга таба телне сайлагыз</string>
+  <string name="EnterTextToTranslate">Тәрҗемә итү өчен текст кертегез</string>
+  <string name="TextFromImage">Рәсемнән текст</string>
+  <string name="GettingText">Текст алу</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Зинһар, эзләү өчен берәр сүз кертегез</string>
+  <string name="Translating">Тәрҗемә итү</string>
+  <string name="PermissionsNotGranted">Рөхсәт бирелмәгән</string>
+  <string name="CameraPermissionsMsg">Зинһар, рәсем төшерү өчен камера рөхсәтен бирегез</string>
+  <string name="StoragePermissionsMsg">Зинһар, галереядан рәсем алу өчен эчке саклау рөхсәтен бирегез</string>
+  <string name="GrantPermissionsBtn">Грант рөхсәте</string>
+</resources>

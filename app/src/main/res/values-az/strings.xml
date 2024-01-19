@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Dil Tərcüməçisi</string>
+  <string name="home">Ev</string>
+  <string name="shareVia">Vasitəsilə paylaş</string>
+  <string name="LanguageTranslator">Dil Tərcüməçisi</string>
+  <string name="Translate">Tərcümə etmək</string>
+  <string name="Conversation">Söhbət</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Lüğət</string>
+  <string name="SearchWord">Axtarış sözü</string>
+  <string name="ShareWithFriends">Dostlarınla ​​paylaş</string>
+  <string name="ChangeLanguage">Dili Dəyişdirin</string>
+  <string name="PrivacyPolicy">Gizlilik Siyasəti</string>
+  <string name="Gallery">Qalereya</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Çıxmaq istəyirsən</string>
+  <string name="Cancel">Ləğv et</string>
+  <string name="Exit">Çıx</string>
+  <string name="SelectAppLanguage">Proqram dilini seçin</string>
+  <string name="Ok">Tamam</string>
+  <string name="Copy">Kopyalayın</string>
+  <string name="FullScreen">Tam Ekran</string>
+  <string name="ClearTitle">Təmiz</string>
+  <string name="ClearConversationMsg">Söhbəti silmək istədiyinizə əminsiniz?</string>
+  <string name="Yes">Bəli</string>
+  <string name="No">Yox</string>
+  <string name="SelectLanguage">Dil seçin</string>
+  <string name="Downloading">Endirilir</string>
+  <string name="DownloadDialogMsg">Modeliniz endirilənə qədər gözləyin</string>
+  <string name="Download">Yüklə</string>
+  <string name="DownloadModel">Modeli yükləyin</string>
+  <string name="DownloadModelDialogMsg">Bu dili seçməzdən əvvəl modeli yükləməlisiniz</string>
+  <string name="UseWifiMsg">Siz mobil şəbəkədən istifadə edirsiniz. Modeli yükləmək üçün Wifi istifadə edin</string>
+  <string name="Searching">Axtarılır</string>
+  <string name="NotFound">Tapılmadı</string>
+  <string name="Image">Şəkil:</string>
+  <string name="PleaseConnectToInternet">Zəhmət olmasa internetə qoşulun</string>
+  <string name="NotFoundMsg">Axtardığınız söz lüğətimizdə yoxdur</string>
+  <string name="NoTextFoundToShare">Paylaşmaq üçün mətn tapılmadı</string>
+  <string name="NoTranslationFoundToShare">Paylaşmaq üçün tərcümə tapılmadı</string>
+  <string name="NoTranslationFoundToCopy">Kopyalamaq üçün tərcümə tapılmadı</string>
+  <string name="NoTextFoundToCopy">Kopyalanacaq mətn tapılmadı</string>
+  <string name="NoTextToSpeak">Danışmaq üçün mətn yoxdur</string>
+  <string name="LanguageDetected">Dil aşkarlandı</string>
+  <string name="OCRImage">OCR Şəkil</string>
+  <string name="OCRTranslation">OCR Tərcüməsi</string>
+  <string name="CopiedToClipboard">Buferə kopyalandı</string>
+  <string name="ChooseLanguageFirst">Davam etməzdən əvvəl Dili seçin</string>
+  <string name="EnterTextToTranslate">Tərcümə etmək üçün mətn daxil edin</string>
+  <string name="TextFromImage">Şəkildən mətn</string>
+  <string name="GettingText">Mətn əldə edilir</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Axtarmaq üçün bəzi söz daxil edin</string>
+  <string name="Translating">Tərcümə olunur</string>
+  <string name="PermissionsNotGranted">İcazələr verilməyib</string>
+  <string name="CameraPermissionsMsg">Şəkil çəkmək üçün kamera icazəsi verin</string>
+  <string name="StoragePermissionsMsg">Qalereyadan şəkil əldə etmək üçün daxili yaddaş icazələri verin</string>
+  <string name="GrantPermissionsBtn">İcazələr verin</string>
+</resources>

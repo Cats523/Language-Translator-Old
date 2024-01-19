@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">تىل تەرجىمانى</string>
+  <string name="home">ئۆي</string>
+  <string name="shareVia">ئورتاقلىشىش</string>
+  <string name="LanguageTranslator">تىل تەرجىمانى</string>
+  <string name="Translate">تەرجىمە</string>
+  <string name="Conversation">سۆھبەت</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">لۇغەت</string>
+  <string name="SearchWord">ئىزدەش سۆزى</string>
+  <string name="ShareWithFriends">دوستلار بىلەن ئورتاقلىشىڭ</string>
+  <string name="ChangeLanguage">تىلنى ئۆزگەرتىش</string>
+  <string name="PrivacyPolicy">مەخپىيەتلىك تۈزۈمى</string>
+  <string name="Gallery">Gallery</string>
+  <string name="Camera">كامېرا</string>
+  <string name="DoYouWantToExit">چېكىنمەكچىمۇ؟</string>
+  <string name="Cancel">بىكار قىلىش</string>
+  <string name="Exit">چىقىش</string>
+  <string name="SelectAppLanguage">قوللىنىشچان تىلنى تاللاڭ</string>
+  <string name="Ok">ماقۇل</string>
+  <string name="Copy">كۆچۈرۈڭ</string>
+  <string name="FullScreen">تولۇق ئېكران</string>
+  <string name="ClearTitle">Clear</string>
+  <string name="ClearConversationMsg">سۆھبەتنى تازىلاشنى خالامسىز؟</string>
+  <string name="Yes">ھەئە</string>
+  <string name="No">ياق</string>
+  <string name="SelectLanguage">تىل تاللاڭ</string>
+  <string name="Downloading">چۈشۈرۈش</string>
+  <string name="DownloadDialogMsg">مودېلىڭىز چۈشۈرۈۋاتقاندا ساقلاپ تۇرۇڭ</string>
+  <string name="Download">چۈشۈرۈش</string>
+  <string name="DownloadModel">مودېلنى چۈشۈرۈڭ</string>
+  <string name="DownloadModelDialogMsg">بۇ تىلنى تاللاشتىن بۇرۇن ئالدى بىلەن مودېلنى چۈشۈرۈشىڭىز كېرەك</string>
+  <string name="UseWifiMsg">سىز كۆچمە تور ئىشلىتىۋاتىسىز. مودېلنى چۈشۈرۈش ئۈچۈن Wifi نى ئىشلىتىڭ</string>
+  <string name="Searching">ئىزدەش</string>
+  <string name="NotFound">تېپىلمىدى</string>
+  <string name="Image">سۈرەت:</string>
+  <string name="PleaseConnectToInternet">تورغا ئۇلاڭ</string>
+  <string name="NotFoundMsg">سىز ئىزدەۋاتقان سۆز لۇغىتىمىزدە تېپىلمىدى</string>
+  <string name="NoTextFoundToShare">ھەمبەھىرلىنىدىغان تېكىست تېپىلمىدى</string>
+  <string name="NoTranslationFoundToShare">ھەمبەھىرلىنىدىغان تەرجىمە تېپىلمىدى</string>
+  <string name="NoTranslationFoundToCopy">كۆچۈرگىلى بولىدىغان تەرجىمە تېپىلمىدى</string>
+  <string name="NoTextFoundToCopy">كۆچۈرگىلى بولىدىغان تېكىست تېپىلمىدى</string>
+  <string name="NoTextToSpeak">سۆزلەيدىغان تېكىست يوق</string>
+  <string name="LanguageDetected">تىل بايقالدى</string>
+  <string name="OCRImage">OCR رەسىم</string>
+  <string name="OCRTranslation">OCR تەرجىمىسى</string>
+  <string name="CopiedToClipboard">چاپلاش تاختىسىغا كۆچۈرۈلدى</string>
+  <string name="ChooseLanguageFirst">ئىلگىرىلەشتىن بۇرۇن ئالدى بىلەن تىل تاللاڭ</string>
+  <string name="EnterTextToTranslate">تەرجىمە قىلىش ئۈچۈن تېكىست كىرگۈزۈڭ</string>
+  <string name="TextFromImage">رەسىمدىن تېكىست</string>
+  <string name="GettingText">تېكىستكە ئېرىشىش</string>
+  <string name="PleaseEnterWordToSearchInDictionary">ئىزدەش ئۈچۈن بەزى سۆزلەرنى كىرگۈزۈڭ</string>
+  <string name="Translating">تەرجىمە قىلىش</string>
+  <string name="PermissionsNotGranted">ئىجازەت بېرىلمەيدۇ</string>
+  <string name="CameraPermissionsMsg">رەسىمگە تارتىش ئۈچۈن كامېرا ئىجازەتنامىسى بېرىڭ</string>
+  <string name="StoragePermissionsMsg">رەسىم ئامبىرىدىن رەسىمگە ئېرىشىش ئۈچۈن ئىچكى ساقلاش ئىجازەتنامىسى بېرىڭ</string>
+  <string name="GrantPermissionsBtn">ئىجازەتنامە</string>
+</resources>

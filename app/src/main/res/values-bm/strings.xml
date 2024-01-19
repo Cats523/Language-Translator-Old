@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Kanw bamanankan na</string>
+  <string name="home">So</string>
+  <string name="shareVia">Share via</string>
+  <string name="LanguageTranslator">Kanw bamanankan na</string>
+  <string name="Translate">Ka bayɛlɛma</string>
+  <string name="Conversation">Masala</string>
+  <string name="OCR">OCR ye</string>
+  <string name="Dictionary">Daɲɛgafe</string>
+  <string name="SearchWord">Ɲini daɲɛ</string>
+  <string name="ShareWithFriends">Aw ye a tila ni Teriw ye</string>
+  <string name="ChangeLanguage">Yɛlɛma don kan na</string>
+  <string name="PrivacyPolicy">Kunnafoni dogolenw maracogo</string>
+  <string name="Gallery">Galeri (Galeri) kɔnɔ</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Yala i b’a fɛ ka bɔ yen wa</string>
+  <string name="Cancel">Ka dankari</string>
+  <string name="Exit">Ka bɔ</string>
+  <string name="SelectAppLanguage">App Language sugandi</string>
+  <string name="Ok">N SƆNNA</string>
+  <string name="Copy">Kopi kɛ</string>
+  <string name="FullScreen">Écran dafalen</string>
+  <string name="ClearTitle">Jɛman</string>
+  <string name="ClearConversationMsg">Yala i dalen b’a la ko i b’a fɛ ka baro jɛya wa?</string>
+  <string name="Yes">Awɔ</string>
+  <string name="No">Ayi</string>
+  <string name="SelectLanguage">Kan sugandi</string>
+  <string name="Downloading">Téléchargement (Téléchargement).</string>
+  <string name="DownloadDialogMsg">Aw ye kɔnɔni kɛ tuma min na aw ka modɛli bɛ ka telesarse</string>
+  <string name="Download">Ka telesarize</string>
+  <string name="DownloadModel">Télécharger Modele</string>
+  <string name="DownloadModelDialogMsg">I ka kan ka modeli telesarse fɔlɔ sani i ka kan in sugandi</string>
+  <string name="UseWifiMsg">Aw bɛ baara kɛ ni selilɛri rezo ye. Aw ye baara kɛ ni Wifi ye walasa ka o modɛli telesarse</string>
+  <string name="Searching">Ɲini kɛli</string>
+  <string name="NotFound">A ma Sɔrɔ</string>
+  <string name="Image">Ja :</string>
+  <string name="PleaseConnectToInternet">Aw ye aw jija ka don ɛntɛrinɛti la</string>
+  <string name="NotFoundMsg">I bɛ daɲɛ min ɲini, o tɛ sɔrɔ an ka daɲɛgafe kɔnɔ</string>
+  <string name="NoTextFoundToShare">Sɛbɛn si ma sɔrɔ ka tila</string>
+  <string name="NoTranslationFoundToShare">Bamanankan baarakɛcogo si ma sɔrɔ ka tila</string>
+  <string name="NoTranslationFoundToCopy">Bamanankan baarakɛcogo si ma sɔrɔ ka kopi kɛ</string>
+  <string name="NoTextFoundToCopy">Sɛbɛn si ma sɔrɔ ka kopi kɛ</string>
+  <string name="NoTextToSpeak">Sɛbɛnni si tɛ yen min bɛ se ka kuma</string>
+  <string name="LanguageDetected">Kan min Sɔrɔla</string>
+  <string name="OCRImage">OCR Ja min bɛ yen</string>
+  <string name="OCRTranslation">OCR Bamanankan baarakɛcogo</string>
+  <string name="CopiedToClipboard">Kopi kɛra ka kɛ clipboard kɔnɔ</string>
+  <string name="ChooseLanguageFirst">Kan sugandi fɔlɔ sani i ka taa ɲɛ</string>
+  <string name="EnterTextToTranslate">Sɛbɛnni don walasa ka baara kɛ</string>
+  <string name="TextFromImage">Sɛbɛnni min bɔra ja la</string>
+  <string name="GettingText">Sɛbɛnni sɔrɔli</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Aw ye daɲɛ dɔw Dòn walasa ka ɲinini Kɛ</string>
+  <string name="Translating">Bamanankan baara</string>
+  <string name="PermissionsNotGranted">Iziniw ma di</string>
+  <string name="CameraPermissionsMsg">Aw ye yamaruya di kamera ma walasa ka ja ta</string>
+  <string name="StoragePermissionsMsg">Aw ye kɔnɔna maracogo yamaruyaw di walasa ka ja sɔrɔ galari kɔnɔ</string>
+  <string name="GrantPermissionsBtn">Iziniw Di</string>
+</resources>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".screens.FullScreenTextActivity">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+         >
+
+            <androidx.appcompat.widget.Toolbar
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:title="@string/FullScreen"
+                android:id="@+id/fullScreenToolBarActivity"
+                android:background="@color/purple_500"
+                app:titleTextColor="@color/white"
+                android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:cardCornerRadius="8dp"
+                android:layout_margin="10dp"
+                android:layout_below="@+id/fullScreenToolBarActivity">
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/languageNameInFullScreenTextActivity"
+                        android:textColor="@color/day_theme_dark_color"
+                        android:layout_margin="10dp"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+
+                    <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:scrollbars="vertical"
+                        android:id="@+id/scrollView"
+                        android:layout_above="@id/full_screen_iconInFullScreenTextActivity"
+                        android:layout_below="@+id/languageNameInFullScreenTextActivity"
+                        android:layout_marginTop="5dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textFullScreen"
+                            android:layout_marginLeft="5dp"
+                            android:lineSpacingExtra="10dp"
+                            android:layout_marginRight="5dp" />
+
+                    </ScrollView>
+
+                    <com.google.android.material.floatingactionbutton.FloatingActionButton
+                        android:layout_marginTop="4dp"
+                        android:id="@+id/full_screen_iconInFullScreenTextActivity"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:tint="@color/white"
+                        app:fabSize="mini"
+                        android:src="@drawable/full_screen"
+                        app:tint="@color/white"
+                        app:fabCustomSize="40dp"
+                        app:maxImageSize="18dp"
+                        app:borderWidth="-2dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginEnd="150dp"
+                        android:contentDescription="@string/FullScreen" />
+
+                    <com.google.android.material.floatingactionbutton.FloatingActionButton
+                        android:id="@+id/volume_btnInFullScreenTextActivity"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:fabSize="mini"
+                        app:fabCustomSize="40dp"
+                        android:src="@drawable/speaker_gray"
+                        app:tint="@color/white"
+                        app:maxImageSize="20dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentBottom="true"
+                        android:layout_toStartOf="@id/copy_contentInFullScreenTextActivity"
+                        android:layout_marginEnd="100dp"
+                        android:contentDescription="@string/speakText" />
+                    <com.google.android.material.floatingactionbutton.FloatingActionButton
+                        android:id="@+id/stopSpeakingBtn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:fabSize="mini"
+                        app:fabCustomSize="40dp"
+                        android:src="@drawable/stop"
+                        app:tint="@color/white"
+                        app:maxImageSize="20dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentBottom="true"
+                        android:layout_toStartOf="@id/copy_contentInFullScreenTextActivity"
+                        android:layout_marginEnd="100dp"
+                        android:visibility="gone"
+                        android:contentDescription="@string/speakText" />
+
+                    <com.google.android.material.floatingactionbutton.FloatingActionButton
+                        android:layout_marginTop="3dp"
+                        android:layout_marginEnd="50dp"
+                        android:id="@+id/copy_contentInFullScreenTextActivity"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:tint="@color/white"
+                        app:fabCustomSize="40dp"
+                        app:maxImageSize="18dp"
+                        android:src="@drawable/copy"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentBottom="true"
+                        android:layout_toStartOf="@+id/share_translation_textInFullScreenTextActivity"
+                        android:contentDescription="@string/Copy" />
+
+                    <com.google.android.material.floatingactionbutton.FloatingActionButton
+                        android:layout_marginTop="3dp"
+                        android:id="@+id/share_translation_textInFullScreenTextActivity"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:fabCustomSize="40dp"
+                        app:tint="@color/white"
+                        app:maxImageSize="18dp"
+                        android:src="@drawable/share"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentBottom="true"
+                        android:contentDescription="@string/ShareWithFriends" />
+                </RelativeLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+
+        </RelativeLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

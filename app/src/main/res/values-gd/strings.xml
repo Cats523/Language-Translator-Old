@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Eadar-theangair Cànain</string>
+  <string name="home">Dhachaigh</string>
+  <string name="shareVia">Roinn tro</string>
+  <string name="LanguageTranslator">Eadar-theangair Cànain</string>
+  <string name="Translate">Eadar-theangaich</string>
+  <string name="Conversation">Còmhradh</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Faclair</string>
+  <string name="SearchWord">Lorg facal</string>
+  <string name="ShareWithFriends">Co-roinn le caraidean</string>
+  <string name="ChangeLanguage">Atharraich Cànan</string>
+  <string name="PrivacyPolicy">Poileasaidh Dìomhaireachd</string>
+  <string name="Gallery">Gailearaidh</string>
+  <string name="Camera">Camara</string>
+  <string name="DoYouWantToExit">A bheil thu airson falbh</string>
+  <string name="Cancel">Sguir dheth</string>
+  <string name="Exit">Ar-a-mach</string>
+  <string name="SelectAppLanguage">Tagh Cànan App</string>
+  <string name="Ok">Ceart gu leòr</string>
+  <string name="Copy">Dèan lethbhreac</string>
+  <string name="FullScreen">Làn-sgrìn</string>
+  <string name="ClearTitle">Soilleir</string>
+  <string name="ClearConversationMsg">A bheil thu cinnteach gu bheil thu airson an còmhradh a ghlanadh?</string>
+  <string name="Yes">Tha</string>
+  <string name="No">Chan eil</string>
+  <string name="SelectLanguage">Tagh Cànan</string>
+  <string name="Downloading">A\' luchdachadh sìos</string>
+  <string name="DownloadDialogMsg">Feuch an fuirich thu fhad ‘s a tha am modail agad a’ luchdachadh sìos</string>
+  <string name="Download">Luchdaich sìos</string>
+  <string name="DownloadModel">Luchdaich sìos Model</string>
+  <string name="DownloadModelDialogMsg">Feumaidh tu am modail a luchdachadh sìos an toiseach mus tagh thu an cànan seo</string>
+  <string name="UseWifiMsg">Tha thu a’ cleachdadh lìonra cealla. Feuch an cleachd thu Wifi gus am modail a luchdachadh sìos</string>
+  <string name="Searching">A\' lorg</string>
+  <string name="NotFound">Gun a lorg</string>
+  <string name="Image">Ìomhaigh:</string>
+  <string name="PleaseConnectToInternet">Feuch an ceangail thu ris an eadar-lìn</string>
+  <string name="NotFoundMsg">Chan eil am facal a tha thu a’ lorg ri lorg anns an fhaclair againn</string>
+  <string name="NoTextFoundToShare">Cha deach teacsa a lorg airson a cho-roinn</string>
+  <string name="NoTranslationFoundToShare">Cha deach eadar-theangachadh a lorg airson a cho-roinn</string>
+  <string name="NoTranslationFoundToCopy">Cha deach eadar-theangachadh a lorg airson a chopaigeadh</string>
+  <string name="NoTextFoundToCopy">Cha deach teacsa a lorg airson a chopaigeadh</string>
+  <string name="NoTextToSpeak">Gun teacsa airson bruidhinn</string>
+  <string name="LanguageDetected">Cànan air a lorg</string>
+  <string name="OCRImage">OCR dealbh</string>
+  <string name="OCRTranslation">Eadar-theangachadh OCR</string>
+  <string name="CopiedToClipboard">Air a chopaigeadh gu clipboard</string>
+  <string name="ChooseLanguageFirst">Tagh Cànan an toiseach mus lean thu air adhart</string>
+  <string name="EnterTextToTranslate">Cuir a-steach teacsa airson eadar-theangachadh</string>
+  <string name="TextFromImage">Teacs bhon dealbh</string>
+  <string name="GettingText">A\' faighinn teacsa</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Feuch an cuir thu a-steach facal airson rannsachadh</string>
+  <string name="Translating">Eadar-theangachadh</string>
+  <string name="PermissionsNotGranted">Cha deach ceadan a thoirt seachad</string>
+  <string name="CameraPermissionsMsg">Feuch an toir thu cead camara airson dealbh a ghlacadh</string>
+  <string name="StoragePermissionsMsg">Feuch an toir thu cead stòraidh a-staigh gus ìomhaigh fhaighinn bhon ghailearaidh</string>
+  <string name="GrantPermissionsBtn">Ceadan Tabhartais</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Nyelvfordító</string>
+  <string name="home">Itthon</string>
+  <string name="shareVia">Megosztás ezen keresztül</string>
+  <string name="LanguageTranslator">Nyelvfordító</string>
+  <string name="Translate">Fordít</string>
+  <string name="Conversation">Beszélgetés</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Szótár</string>
+  <string name="SearchWord">Keresőszó</string>
+  <string name="ShareWithFriends">Oszd meg a barátaiddal</string>
+  <string name="ChangeLanguage">Válts nyelvet</string>
+  <string name="PrivacyPolicy">Adatvédelmi irányelvek</string>
+  <string name="Gallery">Képtár</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Ki akarsz lépni</string>
+  <string name="Cancel">Megszünteti</string>
+  <string name="Exit">Kijárat</string>
+  <string name="SelectAppLanguage">Válassza az Alkalmazás nyelve lehetőséget</string>
+  <string name="Ok">Rendben</string>
+  <string name="Copy">Másolat</string>
+  <string name="FullScreen">Teljes képernyő</string>
+  <string name="ClearTitle">Egyértelmű</string>
+  <string name="ClearConversationMsg">Biztosan törli a beszélgetést?</string>
+  <string name="Yes">Igen</string>
+  <string name="No">Nem</string>
+  <string name="SelectLanguage">Válasszon nyelvet</string>
+  <string name="Downloading">Letöltés</string>
+  <string name="DownloadDialogMsg">Kérjük, várjon, amíg a modell letöltődik</string>
+  <string name="Download">Letöltés</string>
+  <string name="DownloadModel">Modell letöltése</string>
+  <string name="DownloadModelDialogMsg">A nyelv kiválasztása előtt először le kell töltenie a modellt</string>
+  <string name="UseWifiMsg">Mobilhálózatot használ. Kérjük, használja a Wi-Fi-t a modell letöltéséhez</string>
+  <string name="Searching">Keresés</string>
+  <string name="NotFound">Nem található</string>
+  <string name="Image">Kép:</string>
+  <string name="PleaseConnectToInternet">Kérjük, csatlakozzon az internethez</string>
+  <string name="NotFoundMsg">A keresett szó nem található szótárunkban</string>
+  <string name="NoTextFoundToShare">Nem található megosztható szöveg</string>
+  <string name="NoTranslationFoundToShare">Nem található megosztható fordítás</string>
+  <string name="NoTranslationFoundToCopy">Nem található másolandó fordítás</string>
+  <string name="NoTextFoundToCopy">Nem található másolható szöveg</string>
+  <string name="NoTextToSpeak">Nincs szöveg</string>
+  <string name="LanguageDetected">Nyelv észlelve</string>
+  <string name="OCRImage">OCR kép</string>
+  <string name="OCRTranslation">OCR fordítás</string>
+  <string name="CopiedToClipboard">Vágólapra másolva</string>
+  <string name="ChooseLanguageFirst">Mielőtt továbblépne, válassza ki a nyelvet</string>
+  <string name="EnterTextToTranslate">Írja be a fordítandó szöveget</string>
+  <string name="TextFromImage">Szöveg a képből</string>
+  <string name="GettingText">Szöveg lekérése</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Kérjük, írjon be néhány szót a kereséshez</string>
+  <string name="Translating">Fordítás</string>
+  <string name="PermissionsNotGranted">Nincs megadva engedély</string>
+  <string name="CameraPermissionsMsg">Kérjük, adja meg a kamera engedélyét a kép rögzítéséhez</string>
+  <string name="StoragePermissionsMsg">Kérjük, adjon belső tárhely engedélyeket a kép galériából való lekéréséhez</string>
+  <string name="GrantPermissionsBtn">Engedélyek megadása</string>
+</resources>

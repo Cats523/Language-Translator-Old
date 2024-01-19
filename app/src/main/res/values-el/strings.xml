@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Μεταφραστής Γλώσσας</string>
+  <string name="home">Σπίτι</string>
+  <string name="shareVia">Κοινοποίηση μέσω</string>
+  <string name="LanguageTranslator">Μεταφραστής Γλώσσας</string>
+  <string name="Translate">Μεταφράζω</string>
+  <string name="Conversation">Συνομιλία</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Λεξικό</string>
+  <string name="SearchWord">Λέξη αναζήτησης</string>
+  <string name="ShareWithFriends">Μοιράσου με φίλους</string>
+  <string name="ChangeLanguage">Αλλαξε γλώσσα</string>
+  <string name="PrivacyPolicy">Πολιτική Απορρήτου</string>
+  <string name="Gallery">Εκθεσιακός χώρος</string>
+  <string name="Camera">ΦΩΤΟΓΡΑΦΙΚΗ ΜΗΧΑΝΗ</string>
+  <string name="DoYouWantToExit">Θέλετε να βγείτε</string>
+  <string name="Cancel">Ματαίωση</string>
+  <string name="Exit">Εξοδος</string>
+  <string name="SelectAppLanguage">Επιλέξτε Γλώσσα εφαρμογής</string>
+  <string name="Ok">Εντάξει</string>
+  <string name="Copy">Αντίγραφο</string>
+  <string name="FullScreen">ΠΛΗΡΗΣ ΟΘΟΝΗ</string>
+  <string name="ClearTitle">Σαφή</string>
+  <string name="ClearConversationMsg">Είστε βέβαιοι ότι θέλετε να διαγράψετε τη συνομιλία;</string>
+  <string name="Yes">Ναί</string>
+  <string name="No">Οχι</string>
+  <string name="SelectLanguage">Επιλέξτε γλώσσα</string>
+  <string name="Downloading">Λήψη</string>
+  <string name="DownloadDialogMsg">Περιμένετε όσο γίνεται λήψη του μοντέλου σας</string>
+  <string name="Download">Κατεβάστε</string>
+  <string name="DownloadModel">Κατεβάστε το μοντέλο</string>
+  <string name="DownloadModelDialogMsg">Πρέπει πρώτα να κάνετε λήψη του μοντέλου προτού επιλέξετε αυτήν τη γλώσσα</string>
+  <string name="UseWifiMsg">Χρησιμοποιείτε δίκτυο κινητής τηλεφωνίας. Χρησιμοποιήστε Wi-Fi για λήψη του μοντέλου</string>
+  <string name="Searching">Ερευνητικός</string>
+  <string name="NotFound">Δεν βρέθηκε</string>
+  <string name="Image">Εικόνα :</string>
+  <string name="PleaseConnectToInternet">Συνδεθείτε στο διαδίκτυο</string>
+  <string name="NotFoundMsg">Η λέξη που ψάχνετε δεν βρίσκεται στο λεξικό μας</string>
+  <string name="NoTextFoundToShare">Δεν βρέθηκε κείμενο για κοινή χρήση</string>
+  <string name="NoTranslationFoundToShare">Δεν βρέθηκε μετάφραση για κοινή χρήση</string>
+  <string name="NoTranslationFoundToCopy">Δεν βρέθηκε μετάφραση προς αντιγραφή</string>
+  <string name="NoTextFoundToCopy">Δεν βρέθηκε κείμενο προς αντιγραφή</string>
+  <string name="NoTextToSpeak">Δεν υπάρχει κείμενο για ομιλία</string>
+  <string name="LanguageDetected">Εντοπίστηκε γλώσσα</string>
+  <string name="OCRImage">Εικόνα OCR</string>
+  <string name="OCRTranslation">Μετάφραση OCR</string>
+  <string name="CopiedToClipboard">Αντιγράφηκε στο πρόχειρο</string>
+  <string name="ChooseLanguageFirst">Επιλέξτε πρώτα τη γλώσσα πριν προχωρήσετε περαιτέρω</string>
+  <string name="EnterTextToTranslate">Εισαγάγετε κείμενο για μετάφραση</string>
+  <string name="TextFromImage">Κείμενο από εικόνα</string>
+  <string name="GettingText">Λήψη κειμένου</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Εισαγάγετε κάποια λέξη για αναζήτηση</string>
+  <string name="Translating">Μετάφραση</string>
+  <string name="PermissionsNotGranted">Άδειες δεν χορηγούνται</string>
+  <string name="CameraPermissionsMsg">Παρακαλούμε παραχωρήστε δικαιώματα κάμερας για λήψη εικόνας</string>
+  <string name="StoragePermissionsMsg">Παραχωρήστε δικαιώματα εσωτερικού χώρου αποθήκευσης για λήψη εικόνας από τη συλλογή</string>
+  <string name="GrantPermissionsBtn">Εκχώρηση αδειών</string>
+</resources>

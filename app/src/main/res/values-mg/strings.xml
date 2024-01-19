@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Mpandika teny</string>
+  <string name="home">An-trano</string>
+  <string name="shareVia">Zarao amin\'ny</string>
+  <string name="LanguageTranslator">Mpandika teny</string>
+  <string name="Translate">Translate</string>
+  <string name="Conversation">RESAKA</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Malagasy</string>
+  <string name="SearchWord">Teny fikarohana</string>
+  <string name="ShareWithFriends">Zarao amin\'ny namana</string>
+  <string name="ChangeLanguage">Hanova fiteny</string>
+  <string name="PrivacyPolicy">Politika fiarovana fiainan\'olona</string>
+  <string name="Gallery">Gallery</string>
+  <string name="Camera">Camera</string>
+  <string name="DoYouWantToExit">Te-hivoaka ve ianao</string>
+  <string name="Cancel">Hanafoana</string>
+  <string name="Exit">Fivoahana</string>
+  <string name="SelectAppLanguage">Safidio ny App Language</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Dika mitovy</string>
+  <string name="FullScreen">Mameno efijery</string>
+  <string name="ClearTitle">Mazava</string>
+  <string name="ClearConversationMsg">Tena tianao hamafa ny resaka ve ianao?</string>
+  <string name="Yes">ENY</string>
+  <string name="No">Tsy misy</string>
+  <string name="SelectLanguage">Select Language</string>
+  <string name="Downloading">Misintona</string>
+  <string name="DownloadDialogMsg">Andraso azafady raha mbola misintona ny modelyo</string>
+  <string name="Download">DOWNLOAD</string>
+  <string name="DownloadModel">Download Modely</string>
+  <string name="DownloadModelDialogMsg">Mila misintona ny maodely aloha ianao alohan\'ny hisafidiananao ity fiteny ity</string>
+  <string name="UseWifiMsg">Mampiasa tambajotra finday ianao. Mampiasà Wifi azafady mba télécharger ny maodely</string>
+  <string name="Searching">Mitady</string>
+  <string name="NotFound">Tsy hita</string>
+  <string name="Image">Sary :</string>
+  <string name="PleaseConnectToInternet">Mifandraisa amin\'ny Internet azafady</string>
+  <string name="NotFoundMsg">Ny teny tadiavinao dia tsy hita ao amin\'ny rakibolanay</string>
+  <string name="NoTextFoundToShare">Tsy misy lahatsoratra hita ho zaraina</string>
+  <string name="NoTranslationFoundToShare">Tsy misy dikanteny hita zaraina</string>
+  <string name="NoTranslationFoundToCopy">Tsy misy dikanteny hita handikana</string>
+  <string name="NoTextFoundToCopy">Tsy misy lahatsoratra hita handikana</string>
+  <string name="NoTextToSpeak">Tsy misy soratra azo resahina</string>
+  <string name="LanguageDetected">Fiteny hita</string>
+  <string name="OCRImage">Sary OCR</string>
+  <string name="OCRTranslation">OCR Translation</string>
+  <string name="CopiedToClipboard">Nadika ho amin\'ny solaitrabe</string>
+  <string name="ChooseLanguageFirst">Safidio aloha ny Fiteny alohan\'ny handrosoanao bebe kokoa</string>
+  <string name="EnterTextToTranslate">Ampidiro lahatsoratra hadika</string>
+  <string name="TextFromImage">Lahatsoratra avy amin\'ny sary</string>
+  <string name="GettingText">Mahazo lahatsoratra</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Ampidiro teny vitsivitsy hikarohana azafady</string>
+  <string name="Translating">Translate</string>
+  <string name="PermissionsNotGranted">Tsy nomena alalana</string>
+  <string name="CameraPermissionsMsg">Omeo alalana maka sary azafady azafady</string>
+  <string name="StoragePermissionsMsg">Omeo alalana fitehirizana anatiny azafady mba hahazoana sary avy amin\'ny galeria</string>
+  <string name="GrantPermissionsBtn">Omeo alalana</string>
+</resources>

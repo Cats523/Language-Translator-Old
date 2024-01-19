@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">وەرگێڕی زمان</string>
+  <string name="home">ماڵەوە</string>
+  <string name="shareVia">بڵاوی بکەنەوە لە ڕێگەی...</string>
+  <string name="LanguageTranslator">وەرگێڕی زمان</string>
+  <string name="Translate">وەرگێڕان</string>
+  <string name="Conversation">گفتوگۆ</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">فەرهەنگ</string>
+  <string name="SearchWord">وشەی گەڕان</string>
+  <string name="ShareWithFriends">هاوبەشکردن لەگەڵ هاوڕێیان</string>
+  <string name="ChangeLanguage">گۆڕینی زمان</string>
+  <string name="PrivacyPolicy">سیاسەتی پاراستنی نهێنی</string>
+  <string name="Gallery">گەلەری</string>
+  <string name="Camera">کامێرا</string>
+  <string name="DoYouWantToExit">ئایا دەتەوێت دەربچیت</string>
+  <string name="Cancel">ڕەتکردنەوە</string>
+  <string name="Exit">دەرچوون</string>
+  <string name="SelectAppLanguage">زمانی ئەپ هەڵبژێرە</string>
+  <string name="Ok">باشە</string>
+  <string name="Copy">کۆپی بکە</string>
+  <string name="FullScreen">شاشەی پڕ</string>
+  <string name="ClearTitle">ڕوون</string>
+  <string name="ClearConversationMsg">دڵنیای کە دەتەوێت گفتوگۆکە پاک بکەیتەوە؟</string>
+  <string name="Yes">بەڵێ</string>
+  <string name="No">نەخێر</string>
+  <string name="SelectLanguage">زمان هەڵبژێرە</string>
+  <string name="Downloading">دابەزاندن</string>
+  <string name="DownloadDialogMsg">تکایە چاوەڕێ بکە تا مۆدێلەکەت دابەزێت</string>
+  <string name="Download">دابەزاندن</string>
+  <string name="DownloadModel">داگرتنی مۆدێل</string>
+  <string name="DownloadModelDialogMsg">پێویستە سەرەتا مۆدێلەکە دابەزێنیت پێش ئەوەی ئەم زمانە هەڵبژێریت</string>
+  <string name="UseWifiMsg">تۆ تۆڕی خانەیی بەکاردەهێنیت. تکایە بۆ دابەزاندنی مۆدێلەکە وایفای بەکاربهێنە</string>
+  <string name="Searching">گەڕان</string>
+  <string name="NotFound">نەدۆزرایەوە</string>
+  <string name="Image">وێنە :</string>
+  <string name="PleaseConnectToInternet">تکایە پەیوەندی بە ئینتەرنێتەوە بکەن</string>
+  <string name="NotFoundMsg">ئەو وشەیەی کە تۆ بەدوایدا دەگەڕێیت لە فەرهەنگەکەماندا نەدۆزراوەتەوە</string>
+  <string name="NoTextFoundToShare">هیچ دەقێک نەدۆزرایەوە بۆ هاوبەشکردن</string>
+  <string name="NoTranslationFoundToShare">هیچ وەرگێڕانێک نەدۆزرایەوە بۆ هاوبەشکردن</string>
+  <string name="NoTranslationFoundToCopy">هیچ وەرگێڕانێک نەدۆزرایەوە بۆ کۆپیکردن</string>
+  <string name="NoTextFoundToCopy">هیچ دەقێک نەدۆزراوەتەوە بۆ کۆپیکردن</string>
+  <string name="NoTextToSpeak">هیچ دەقێک نییە بۆ قسەکردن</string>
+  <string name="LanguageDetected">زمان دۆزراوەتەوە</string>
+  <string name="OCRImage">وێنەی OCR</string>
+  <string name="OCRTranslation">وەرگێڕانی OCR</string>
+  <string name="CopiedToClipboard">کۆپی کراوە بۆ کلیپبۆرد</string>
+  <string name="ChooseLanguageFirst">پێش ئەوەی بچیتە پێشەوە سەرەتا زمان هەڵبژێرە</string>
+  <string name="EnterTextToTranslate">دەق داخڵ بکە بۆ وەرگێڕان</string>
+  <string name="TextFromImage">دەق لە وێنەوە</string>
+  <string name="GettingText">وەرگرتنی دەق</string>
+  <string name="PleaseEnterWordToSearchInDictionary">تکایە هەندێک وشە دابنێ بۆ گەڕان</string>
+  <string name="Translating">وەرگێڕان</string>
+  <string name="PermissionsNotGranted">مۆڵەتەکان نەدراون</string>
+  <string name="CameraPermissionsMsg">تکایە مۆڵەتی کامێرا بدەن بۆ گرتنی وێنە</string>
+  <string name="StoragePermissionsMsg">تکایە مۆڵەتی هەڵگرتنی ناوخۆیی بدەن بۆ وەرگرتنی وێنە لە گەلەری</string>
+  <string name="GrantPermissionsBtn">مۆڵەتەکان بدە</string>
+</resources>

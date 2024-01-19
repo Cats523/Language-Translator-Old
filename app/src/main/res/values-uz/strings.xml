@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Til tarjimoni</string>
+  <string name="home">Uy</string>
+  <string name="shareVia">Orqali ulashing</string>
+  <string name="LanguageTranslator">Til tarjimoni</string>
+  <string name="Translate">Tarjima</string>
+  <string name="Conversation">Suhbat</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Lug\'at</string>
+  <string name="SearchWord">Qidiruv so\'z</string>
+  <string name="ShareWithFriends">Do\'stlarga ulashing</string>
+  <string name="ChangeLanguage">Tilni o\'zgartirish</string>
+  <string name="PrivacyPolicy">Maxfiylik siyosati</string>
+  <string name="Gallery">Galereya</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Chiqishni xohlaysizmi</string>
+  <string name="Cancel">Bekor qilish</string>
+  <string name="Exit">Chiqish</string>
+  <string name="SelectAppLanguage">Ilova tilini tanlang</string>
+  <string name="Ok">KELISHDIKMI</string>
+  <string name="Copy">Nusxalash</string>
+  <string name="FullScreen">To\'liq ekran</string>
+  <string name="ClearTitle">Toza</string>
+  <string name="ClearConversationMsg">Haqiqatan ham suhbatni tozalamoqchimisiz?</string>
+  <string name="Yes">Ha</string>
+  <string name="No">Yo\'q</string>
+  <string name="SelectLanguage">Tilni tanlang</string>
+  <string name="Downloading">Yuklab olinmoqda</string>
+  <string name="DownloadDialogMsg">Modelingiz yuklab olinmaguncha kuting</string>
+  <string name="Download">Yuklab oling</string>
+  <string name="DownloadModel">Model yuklab olish</string>
+  <string name="DownloadModelDialogMsg">Ushbu tilni tanlashdan oldin modelni yuklab olishingiz kerak</string>
+  <string name="UseWifiMsg">Siz uyali tarmoqdan foydalanmoqdasiz. Modelni yuklab olish uchun Wi-Fi-dan foydalaning</string>
+  <string name="Searching">Qidirilmoqda</string>
+  <string name="NotFound">Topilmadi</string>
+  <string name="Image">Rasm:</string>
+  <string name="PleaseConnectToInternet">Iltimos, internetga ulaning</string>
+  <string name="NotFoundMsg">Siz izlayotgan so\'z bizning lug\'atimizda topilmadi</string>
+  <string name="NoTextFoundToShare">Ulashish uchun matn topilmadi</string>
+  <string name="NoTranslationFoundToShare">Ulashish uchun hech qanday tarjima topilmadi</string>
+  <string name="NoTranslationFoundToCopy">Nusxa olish uchun tarjima topilmadi</string>
+  <string name="NoTextFoundToCopy">Nusxalanadigan matn topilmadi</string>
+  <string name="NoTextToSpeak">Gapiradigan matn yo\'q</string>
+  <string name="LanguageDetected">Til aniqlandi</string>
+  <string name="OCRImage">OCR tasviri</string>
+  <string name="OCRTranslation">OCR tarjimasi</string>
+  <string name="CopiedToClipboard">Buferga nusxalandi</string>
+  <string name="ChooseLanguageFirst">Davom etishdan oldin Tilni tanlang</string>
+  <string name="EnterTextToTranslate">Tarjima uchun matn kiriting</string>
+  <string name="TextFromImage">Rasmdan matn</string>
+  <string name="GettingText">Matn olinmoqda</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Iltimos, qidirish uchun so\'zni kiriting</string>
+  <string name="Translating">Tarjima qilinmoqda</string>
+  <string name="PermissionsNotGranted">Ruxsat berilmagan</string>
+  <string name="CameraPermissionsMsg">Rasmga olish uchun kameraga ruxsat bering</string>
+  <string name="StoragePermissionsMsg">Galereyadan rasm olish uchun ichki xotiraga ruxsat bering</string>
+  <string name="GrantPermissionsBtn">Ruxsat berish</string>
+</resources>

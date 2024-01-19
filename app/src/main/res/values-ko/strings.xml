@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">언어 번역기</string>
+  <string name="app_title">언어 번역기</string>
+  <string name="home">번역하다</string>
+  <string name="shareVia">다음을 통해 공유</string>
+  <string name="LanguageTranslator">언어 번역기</string>
+  <string name="Translate">번역하다</string>
+  <string name="Conversation">대화</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">영어 사전</string>
+  <string name="SearchWord">검색어</string>
+  <string name="ShareWithFriends">친구와 공유</string>
+  <string name="ChangeLanguage">언어 변경</string>
+  <string name="PrivacyPolicy">개인 정보 정책</string>
+  <string name="Gallery">갤러리</string>
+  <string name="Camera">카메라</string>
+  <string name="DoYouWantToExit">나가시겠습니까</string>
+  <string name="Cancel">취소</string>
+  <string name="Exit">출구</string>
+  <string name="SelectAppLanguage">앱 언어 선택</string>
+  <string name="Ok">좋아요</string>
+  <string name="Copy">복사</string>
+  <string name="FullScreen">전체 화면</string>
+  <string name="ClearTitle">분명한</string>
+  <string name="ClearConversationMsg">대화를 지우시겠습니까?</string>
+  <string name="Yes">예</string>
+  <string name="No">아니요</string>
+  <string name="SelectLanguage">언어 선택</string>
+  <string name="Downloading">다운로드 중</string>
+  <string name="DownloadDialogMsg">모델을 다운로드하는 동안 잠시 기다려 주십시오.</string>
+  <string name="Download">다운로드</string>
+  <string name="DownloadModel">모델 다운로드</string>
+  <string name="DownloadModelDialogMsg">이 언어를 선택하기 전에 먼저 모델을 다운로드해야 합니다.</string>
+  <string name="UseWifiMsg">셀룰러 네트워크를 사용하고 있습니다. 모델을 다운로드하려면 Wi-Fi를 사용하세요.</string>
+  <string name="Searching">수색</string>
+  <string name="NotFound">찾을 수 없음</string>
+  <string name="Image">이미지 :</string>
+  <string name="PleaseConnectToInternet">인터넷에 연결해주세요</string>
+  <string name="NotFoundMsg">찾고 있는 단어가 우리 사전에 없습니다.</string>
+  <string name="NoTextFoundToShare">공유할 텍스트가 없습니다.</string>
+  <string name="NoTranslationFoundToShare">공유할 번역이 없습니다.</string>
+  <string name="NoTranslationFoundToCopy">복사할 번역이 없습니다.</string>
+  <string name="NoTextFoundToCopy">복사할 텍스트가 없습니다.</string>
+  <string name="NoTextToSpeak">말할 텍스트 없음</string>
+  <string name="LanguageDetected">언어 감지됨</string>
+  <string name="OCRImage">OCR 이미지</string>
+  <string name="OCRTranslation">OCR 번역</string>
+  <string name="CopiedToClipboard">클립보드에 복사됨</string>
+  <string name="ChooseLanguageFirst">더 진행하기 전에 먼저 언어를 선택하십시오.</string>
+  <string name="EnterTextToTranslate">번역할 텍스트를 입력하세요</string>
+  <string name="TextFromImage">이미지의 텍스트</string>
+  <string name="GettingText">텍스트 가져오기</string>
+  <string name="PleaseEnterWordToSearchInDictionary">검색할 단어를 입력하세요</string>
+  <string name="Translating">번역</string>
+  <string name="PermissionsNotGranted">권한이 부여되지 않음</string>
+  <string name="CameraPermissionsMsg">이미지를 캡처하려면 카메라 권한을 부여하세요.</string>
+  <string name="StoragePermissionsMsg">갤러리에서 이미지를 가져오려면 내부 저장소 권한을 부여하세요.</string>
+  <string name="GrantPermissionsBtn">권한 부여</string>
+  <string name="ooooppss_network_not_available">우우 엣 네트워크를 사용할 수 없습니다</string>
+  <string name="ad_is_loading">광고가 로드 중입니다</string>
+  <string name="internet_warning_message">어머, 인터넷에 연결되지 않았어요. 사전을 사용하려면 인터넷에 연결하세요.</string>
+
+
+</resources>

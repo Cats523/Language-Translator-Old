@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Kielen kääntäjä</string>
+  <string name="app_title">Kielen kääntäjä</string>
+  <string name="home">Kääntää</string>
+  <string name="shareVia">Jaa kautta</string>
+  <string name="LanguageTranslator">Kielen kääntäjä</string>
+  <string name="Translate">Kääntää</string>
+  <string name="Conversation">Keskustelu</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Englannin sanakirja</string>
+  <string name="SearchWord">Hakusana</string>
+  <string name="ShareWithFriends">Jaa ystävien kanssa</string>
+  <string name="ChangeLanguage">Vaihda kieltä</string>
+  <string name="PrivacyPolicy">Tietosuojakäytäntö</string>
+  <string name="Gallery">Galleria</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Haluatko poistua</string>
+  <string name="Cancel">Peruuttaa</string>
+  <string name="Exit">Poistu</string>
+  <string name="SelectAppLanguage">Valitse Sovelluksen kieli</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopio</string>
+  <string name="FullScreen">Koko näyttö</string>
+  <string name="ClearTitle">Asia selvä</string>
+  <string name="ClearConversationMsg">Haluatko varmasti tyhjentää keskustelun?</string>
+  <string name="Yes">Joo</string>
+  <string name="No">Ei</string>
+  <string name="SelectLanguage">Valitse kieli</string>
+  <string name="Downloading">Ladataan</string>
+  <string name="DownloadDialogMsg">Odota, kun mallisi latautuu</string>
+  <string name="Download">Ladata</string>
+  <string name="DownloadModel">Lataa malli</string>
+  <string name="DownloadModelDialogMsg">Sinun on ladattava malli ennen kuin valitset tämän kielen</string>
+  <string name="UseWifiMsg">Käytät matkapuhelinverkkoa. Käytä Wifiä mallin lataamiseen</string>
+  <string name="Searching">Etsitään</string>
+  <string name="NotFound">Ei löydetty</string>
+  <string name="Image">Kuva :</string>
+  <string name="PleaseConnectToInternet">Yhdistä Internetiin</string>
+  <string name="NotFoundMsg">Etsimääsi sanaa ei löydy sanakirjastamme</string>
+  <string name="NoTextFoundToShare">Jaettavaa tekstiä ei löytynyt</string>
+  <string name="NoTranslationFoundToShare">Jaettavaa käännöstä ei löytynyt</string>
+  <string name="NoTranslationFoundToCopy">Kopioitavaa käännöstä ei löytynyt</string>
+  <string name="NoTextFoundToCopy">Kopioitavaa tekstiä ei löytynyt</string>
+  <string name="NoTextToSpeak">Ei tekstiä puhuttavaksi</string>
+  <string name="LanguageDetected">Kieli havaittu</string>
+  <string name="OCRImage">OCR-kuva</string>
+  <string name="OCRTranslation">OCR-käännös</string>
+  <string name="CopiedToClipboard">Kopioitu leikepöydälle</string>
+  <string name="ChooseLanguageFirst">Valitse ensin Kieli ennen kuin jatkat</string>
+  <string name="EnterTextToTranslate">Kirjoita käännettävä teksti</string>
+  <string name="TextFromImage">Teksti kuvasta</string>
+  <string name="GettingText">Tekstin saaminen</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Syötä jokin sana hakuun</string>
+  <string name="Translating">Kääntäminen</string>
+  <string name="PermissionsNotGranted">Lupia ei myönnetty</string>
+  <string name="CameraPermissionsMsg">Myönnä kameralle lupa kuvan ottamiseen</string>
+  <string name="StoragePermissionsMsg">Myönnä sisäisen tallennustilan käyttöoikeudet kuvan saamiseksi galleriasta</string>
+  <string name="GrantPermissionsBtn">Myönnä käyttöoikeudet</string>
+  <string name="ooooppss_network_not_available">Ooooppss, verkko ei ole käytettävissä</string>
+  <string name="ad_is_loading">Mainos latautuu</string>
+  <string name="internet_warning_message">Hups, Internet ei ole yhteydessä. Ole hyvä ja yhdistä Internetiin sanakirjan käyttöä varten.</string>
+
+
+</resources>

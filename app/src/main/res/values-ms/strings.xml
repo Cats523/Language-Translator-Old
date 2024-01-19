@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Penterjemah Bahasa</string>
+  <string name="home">Terjemah</string>
+  <string name="shareVia">Kongsi melalui</string>
+  <string name="LanguageTranslator">Penterjemah Bahasa</string>
+  <string name="Translate">Terjemah</string>
+  <string name="Conversation">Perbualan</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Kamus Inggeris</string>
+  <string name="SearchWord">Cari perkataan</string>
+  <string name="ShareWithFriends">Kongsi dengan kawan-kawan</string>
+  <string name="ChangeLanguage">Tukar bahasa</string>
+  <string name="PrivacyPolicy">Dasar Privasi</string>
+  <string name="Gallery">Galeri</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Adakah anda mahu keluar</string>
+  <string name="Cancel">Batal</string>
+  <string name="Exit">Keluar</string>
+  <string name="SelectAppLanguage">Pilih Bahasa Apl</string>
+  <string name="Ok">Okey</string>
+  <string name="Copy">Salinan</string>
+  <string name="FullScreen">Skrin penuh</string>
+  <string name="ClearTitle">Jelas</string>
+  <string name="ClearConversationMsg">Adakah anda pasti mahu mengosongkan perbualan?</string>
+  <string name="Yes">Ya</string>
+  <string name="No">Tidak</string>
+  <string name="SelectLanguage">Pilih Bahasa</string>
+  <string name="Downloading">Memuat turun</string>
+  <string name="DownloadDialogMsg">Sila tunggu sementara model anda sedang memuat turun</string>
+  <string name="Download">Muat turun</string>
+  <string name="DownloadModel">Muat turun Model</string>
+  <string name="DownloadModelDialogMsg">Anda perlu memuat turun model terlebih dahulu sebelum anda memilih bahasa ini</string>
+  <string name="UseWifiMsg">Anda menggunakan rangkaian selular. Sila gunakan Wifi untuk memuat turun model</string>
+  <string name="Searching">Mencari</string>
+  <string name="NotFound">Tidak ditemui</string>
+  <string name="Image">Gambar :</string>
+  <string name="PleaseConnectToInternet">Sila sambung ke internet</string>
+  <string name="NotFoundMsg">Perkataan yang anda cari tidak terdapat dalam kamus kami</string>
+  <string name="NoTextFoundToShare">Tiada teks ditemui untuk dikongsi</string>
+  <string name="NoTranslationFoundToShare">Tiada terjemahan ditemui untuk dikongsi</string>
+  <string name="NoTranslationFoundToCopy">Tiada terjemahan ditemui untuk disalin</string>
+  <string name="NoTextFoundToCopy">Tiada teks ditemui untuk disalin</string>
+  <string name="NoTextToSpeak">Tiada teks untuk bercakap</string>
+  <string name="LanguageDetected">Bahasa Dikesan</string>
+  <string name="OCRImage">Imej OCR</string>
+  <string name="OCRTranslation">Terjemahan OCR</string>
+  <string name="CopiedToClipboard">Disalin ke papan keratan</string>
+  <string name="ChooseLanguageFirst">Pilih Bahasa dahulu sebelum anda meneruskan lebih jauh</string>
+  <string name="EnterTextToTranslate">Masukkan teks untuk diterjemahkan</string>
+  <string name="TextFromImage">Teks daripada imej</string>
+  <string name="GettingText">Mendapat teks</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Sila masukkan beberapa perkataan untuk dicari</string>
+  <string name="Translating">Menterjemah</string>
+  <string name="PermissionsNotGranted">Kebenaran tidak diberikan</string>
+  <string name="CameraPermissionsMsg">Sila berikan kebenaran kamera untuk menangkap imej</string>
+  <string name="StoragePermissionsMsg">Sila berikan kebenaran storan dalaman untuk mendapatkan imej daripada galeri</string>
+  <string name="GrantPermissionsBtn">Berikan Kebenaran</string>
+  <string name="ooooppss_network_not_available">Ooooppss, rangkaian tidak tersedia</string>
+  <string name="ad_is_loading">Iklan sedang dimuatkan</string>
+  <string name="internet_warning_message">Ups, Internet tidak disambungkan. Sila sambungkan ke internet untuk kegunaan kamus.</string>
+
+
+</resources>

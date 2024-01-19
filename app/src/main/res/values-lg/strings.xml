@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Omuvvuunuzi w’Olulimi</string>
+  <string name="home">Ewaka</string>
+  <string name="shareVia">Gabana nga oyita mu</string>
+  <string name="LanguageTranslator">Omuvvuunuzi w’Olulimi</string>
+  <string name="Translate">Okuvvunula</string>
+  <string name="Conversation">Emboozi</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Dikisonale</string>
+  <string name="SearchWord">Ekigambo ky’okunoonya</string>
+  <string name="ShareWithFriends">Gabana ne Mikwano gyo</string>
+  <string name="ChangeLanguage">Kyusa Olulimi</string>
+  <string name="PrivacyPolicy">Enkola y’Ebyama</string>
+  <string name="Gallery">Gallery (Ekifo ekisanyukirwamu).</string>
+  <string name="Camera">Kkamera</string>
+  <string name="DoYouWantToExit">Oyagala kufuluma</string>
+  <string name="Cancel">Okusazaamu</string>
+  <string name="Exit">Fuluma</string>
+  <string name="SelectAppLanguage">Londa Olulimi lwa App</string>
+  <string name="Ok">KALE</string>
+  <string name="Copy">Koppa</string>
+  <string name="FullScreen">Full Screen</string>
+  <string name="ClearTitle">Okumalawo</string>
+  <string name="ClearConversationMsg">Okakasa nti oyagala kulongoosa mboozi?</string>
+  <string name="Yes">Yee</string>
+  <string name="No">Nedda</string>
+  <string name="SelectLanguage">Londa Olulimi</string>
+  <string name="Downloading">Okuwanula</string>
+  <string name="DownloadDialogMsg">Nsaba olinde nga model yo ewanula</string>
+  <string name="Download">Okufuna</string>
+  <string name="DownloadModel">Download Omuze gw\'okukola</string>
+  <string name="DownloadModelDialogMsg">Olina okusooka okuwanula model nga tonnalonda lulimi luno</string>
+  <string name="UseWifiMsg">Okozesa omukutu gwa cellular. Nsaba mukozese Wifi okuwanula model</string>
+  <string name="Searching">Okunoonya</string>
+  <string name="NotFound">Tekizuuliddwa</string>
+  <string name="Image">Ekifaananyi :</string>
+  <string name="PleaseConnectToInternet">Nsaba muyunge ku yintaneeti</string>
+  <string name="NotFoundMsg">Ekigambo ky’onoonya tekisangibwa mu nkuluze yaffe</string>
+  <string name="NoTextFoundToShare">Tewali kiwandiiko kizuuliddwa kugabana</string>
+  <string name="NoTranslationFoundToShare">Tewali nkyusa ezuuliddwa okugabana</string>
+  <string name="NoTranslationFoundToCopy">Tewali nkyusa ezuuliddwa okukoppa</string>
+  <string name="NoTextFoundToCopy">Tewali kiwandiiko kizuuliddwa kukoppa</string>
+  <string name="NoTextToSpeak">Tewali kiwandiiko kya kwogera</string>
+  <string name="LanguageDetected">Olulimi Oluzuuliddwa</string>
+  <string name="OCRImage">Ekifaananyi kya OCR</string>
+  <string name="OCRTranslation">OCR Okuvvuunula</string>
+  <string name="CopiedToClipboard">Ekoppoloddwa ku clipboard</string>
+  <string name="ChooseLanguageFirst">Sooka olonde Olulimi nga tonnagenda mu maaso</string>
+  <string name="EnterTextToTranslate">Yingiza ebiwandiiko okuvvuunula</string>
+  <string name="TextFromImage">Ebiwandiiko okuva mu kifaananyi</string>
+  <string name="GettingText">Okufuna obubaka</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Nsaba oyingize ekigambo ekimu okunoonya</string>
+  <string name="Translating">Okuvvuunula</string>
+  <string name="PermissionsNotGranted">Olukusa teruweereddwa</string>
+  <string name="CameraPermissionsMsg">Nsaba owe olukusa lwa kamera okukwata ekifaananyi</string>
+  <string name="StoragePermissionsMsg">Nsaba owe olukusa lw\'okutereka munda okufuna ekifaananyi okuva mu gallery</string>
+  <string name="GrantPermissionsBtn">Okuwa Olukusa</string>
+</resources>

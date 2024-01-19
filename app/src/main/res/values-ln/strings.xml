@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Mobongoli ya nkota</string>
+  <string name="home">Ndako</string>
+  <string name="shareVia">Kabola na nzela ya</string>
+  <string name="LanguageTranslator">Mobongoli ya nkota</string>
+  <string name="Translate">Kobongola</string>
+  <string name="Conversation">Lisolo</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Diksionere</string>
+  <string name="SearchWord">Liloba ya koluka</string>
+  <string name="ShareWithFriends">Kabola na Baninga</string>
+  <string name="ChangeLanguage">Bobongola Monoko</string>
+  <string name="PrivacyPolicy">Politiki ya kobatela makambo ya moto ye moko</string>
+  <string name="Gallery">Galerie ya ndako</string>
+  <string name="Camera">Caméra</string>
+  <string name="DoYouWantToExit">Olingi kobima</string>
+  <string name="Cancel">Kolongola</string>
+  <string name="Exit">Kobima</string>
+  <string name="SelectAppLanguage">Pona Monoko ya App</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopi na yango</string>
+  <string name="FullScreen">Écran mobimba</string>
+  <string name="ClearTitle">Polele</string>
+  <string name="ClearConversationMsg">Ozali na ntembe te ete olingi kopɛtola lisolo yango?</string>
+  <string name="Yes">Iyo</string>
+  <string name="No">Te</string>
+  <string name="SelectLanguage">Poná Monoko</string>
+  <string name="Downloading">Kozwa téléchargement</string>
+  <string name="DownloadDialogMsg">Svp bozela tango modèle na bino ezali ko télécharger</string>
+  <string name="Download">Kozwa</string>
+  <string name="DownloadModel">Télécharger Modèle</string>
+  <string name="DownloadModelDialogMsg">Esengeli o télécharger liboso modèle avant opona langue oyo</string>
+  <string name="UseWifiMsg">Ozali kosalela réseau cellulaire. Svp bosalela Wifi pona ko télécharger modèle</string>
+  <string name="Searching">Kolukaluka</string>
+  <string name="NotFound">Ezwami Te</string>
+  <string name="Image">Foto :</string>
+  <string name="PleaseConnectToInternet">Svp bo connecter na internet</string>
+  <string name="NotFoundMsg">Liloba oyo ozali koluka ezali te na diksionɛrɛ na biso</string>
+  <string name="NoTextFoundToShare">Texte moko te ezwami mpo na kokabola</string>
+  <string name="NoTranslationFoundToShare">Libongoli moko te ezwami mpo na kokabola</string>
+  <string name="NoTranslationFoundToCopy">Libongoli moko te ezwami mpo na kosala kopi</string>
+  <string name="NoTextFoundToCopy">Texte moko te ezwami mpo na kosala kopi</string>
+  <string name="NoTextToSpeak">Texte moko te ya koloba</string>
+  <string name="LanguageDetected">Monoko Ezwami</string>
+  <string name="OCRImage">Elilingi ya OCR</string>
+  <string name="OCRTranslation">Bobongoli ya OCR</string>
+  <string name="CopiedToClipboard">Kopi na tableau de bord</string>
+  <string name="ChooseLanguageFirst">Pona liboso Monoko liboso ya kokende liboso</string>
+  <string name="EnterTextToTranslate">Tyá makomi mpo na kobongola</string>
+  <string name="TextFromImage">Texte oyo euti na elilingi</string>
+  <string name="GettingText">Kozwa makomi</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Svp kotia mua liloba pona koluka</string>
+  <string name="Translating">Kobongola</string>
+  <string name="PermissionsNotGranted">Ndingisa epesami te</string>
+  <string name="CameraPermissionsMsg">Tosengi yo opesa ndingisa ya kamera mpo na kokanga bililingi</string>
+  <string name="StoragePermissionsMsg">Svp pesa ndingisa ya kobombama ya kati mpo na kozwa elilingi uta na galerie</string>
+  <string name="GrantPermissionsBtn">Kopesa Ndingisa</string>
+</resources>

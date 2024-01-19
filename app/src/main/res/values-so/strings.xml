@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Turjumaan Luqadda</string>
+  <string name="home">Guriga</string>
+  <string name="shareVia">La wadaag iyada oo loo marayo</string>
+  <string name="LanguageTranslator">Turjumaan Luqadda</string>
+  <string name="Translate">Turjun</string>
+  <string name="Conversation">Wada sheekeysi</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Qaamuuska</string>
+  <string name="SearchWord">Raadi ereyga</string>
+  <string name="ShareWithFriends">La wadaag asxaabta</string>
+  <string name="ChangeLanguage">Beddel luqadda</string>
+  <string name="PrivacyPolicy">Qaanuunka Arrimaha Khaaska ah</string>
+  <string name="Gallery">Gallery</string>
+  <string name="Camera">Kamarada</string>
+  <string name="DoYouWantToExit">Ma rabtaa inaad baxdo</string>
+  <string name="Cancel">Jooji</string>
+  <string name="Exit">Ka bax</string>
+  <string name="SelectAppLanguage">Dooro App Language</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Nuqul</string>
+  <string name="FullScreen">Shaashada buuxda</string>
+  <string name="ClearTitle">Cad</string>
+  <string name="ClearConversationMsg">Ma hubtaa inaad doonayso inaad tirtirto wada hadalka?</string>
+  <string name="Yes">Haa</string>
+  <string name="No">Maya</string>
+  <string name="SelectLanguage">Dooro Luuqad</string>
+  <string name="Downloading">Soo dejinta</string>
+  <string name="DownloadDialogMsg">Fadlan sug inta modelkaagu soo dejinayo</string>
+  <string name="Download">Download</string>
+  <string name="DownloadModel">Soo deji model</string>
+  <string name="DownloadModelDialogMsg">Waxaad u baahan tahay inaad soo dejiso moodalka marka hore ka hor intaadan dooran luqaddan</string>
+  <string name="UseWifiMsg">Waxaad isticmaalaysaa shabakada gacanta. Fadlan isticmaal wifi si aad u soo dejiso moodelka</string>
+  <string name="Searching">Raadinta</string>
+  <string name="NotFound">Lama helin</string>
+  <string name="Image">Sawirka:</string>
+  <string name="PleaseConnectToInternet">Fadlan ku xidh internet</string>
+  <string name="NotFoundMsg">Erayga aad raadinayso lagama helo qaamuuskeena</string>
+  <string name="NoTextFoundToShare">Lama helin qoraal la wadaago</string>
+  <string name="NoTranslationFoundToShare">Lama helin turjumaad la wadaago</string>
+  <string name="NoTranslationFoundToCopy">Wax tarjumaad ah oo la helay lama helin</string>
+  <string name="NoTextFoundToCopy">Lama helin qoraal la koobiyay</string>
+  <string name="NoTextToSpeak">Ma jiro qoraal lagu hadlo</string>
+  <string name="LanguageDetected">Luqada La Helay</string>
+  <string name="OCRImage">Sawirka OCR</string>
+  <string name="OCRTranslation">Turjumaada OCR</string>
+  <string name="CopiedToClipboard">Lagu koobiyeeyay sabuuraddii</string>
+  <string name="ChooseLanguageFirst">Marka hore dooro Luuqad ka hor intaadan sii wadin</string>
+  <string name="EnterTextToTranslate">Geli qoraal si aad u turjunto</string>
+  <string name="TextFromImage">Qoraalka sawirka</string>
+  <string name="GettingText">Helitaanka qoraalka</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Fadlan geli kalmad si aad u baadho</string>
+  <string name="Translating">Turjumaada</string>
+  <string name="PermissionsNotGranted">Ogolaanshaha lama bixin</string>
+  <string name="CameraPermissionsMsg">Fadlan sii ogolaanshaha kamarada si ay u qabato sawirka</string>
+  <string name="StoragePermissionsMsg">Fadlan sii ogolaanshaha kaydinta gudaha si aad sawir uga hesho gallery</string>
+  <string name="GrantPermissionsBtn">Ogolaanshaha deeqda</string>
+</resources>

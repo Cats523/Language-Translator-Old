@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Unuhi ʻōlelo</string>
+  <string name="home">Home</string>
+  <string name="shareVia">Kaʻana like ma</string>
+  <string name="LanguageTranslator">Unuhi ʻōlelo</string>
+  <string name="Translate">Unuhi</string>
+  <string name="Conversation">Kūkākūkā</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Puke wehewehe</string>
+  <string name="SearchWord">Huli huaʻōlelo</string>
+  <string name="ShareWithFriends">Kaʻana like me nā hoa</string>
+  <string name="ChangeLanguage">Hoʻololi ʻŌlelo</string>
+  <string name="PrivacyPolicy">Kulekele pilikino</string>
+  <string name="Gallery">Hale Hōʻikeʻike</string>
+  <string name="Camera">Kāmeʻa</string>
+  <string name="DoYouWantToExit">Makemake ʻoe e haʻalele</string>
+  <string name="Cancel">Hoʻopau</string>
+  <string name="Exit">Puka</string>
+  <string name="SelectAppLanguage">E koho i ka ʻōlelo App</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kope</string>
+  <string name="FullScreen">Palena Piha</string>
+  <string name="ClearTitle">Akaka</string>
+  <string name="ClearConversationMsg">Makemake ʻoe e holoi i ke kamaʻilio ʻana?</string>
+  <string name="Yes">ʻAe</string>
+  <string name="No">ʻAʻole</string>
+  <string name="SelectLanguage">E koho i ka ʻōlelo</string>
+  <string name="Downloading">Hoʻoiho ʻia</string>
+  <string name="DownloadDialogMsg">E ʻoluʻolu e kali ʻoiai e hoʻoiho ana kāu kumu hoʻohālike</string>
+  <string name="Download">Hoʻoiho</string>
+  <string name="DownloadModel">Hoʻoiho i ke kumu hoʻohālike</string>
+  <string name="DownloadModelDialogMsg">Pono ʻoe e hoʻoiho mua i ke kumu hoʻohālike ma mua o kou koho ʻana i kēia ʻōlelo</string>
+  <string name="UseWifiMsg">Ke hoʻohana nei ʻoe i ka pūnaewele kelepona. E ʻoluʻolu e hoʻohana iā Wifi e hoʻoiho i ke kumu hoʻohālike</string>
+  <string name="Searching">Huli</string>
+  <string name="NotFound">Loaʻa ʻole</string>
+  <string name="Image">Kiʻi :</string>
+  <string name="PleaseConnectToInternet">E ʻoluʻolu e hoʻopili i ka pūnaewele</string>
+  <string name="NotFoundMsg">ʻAʻole loaʻa ka huaʻōlelo āu e ʻimi nei ma kā mākou puke wehewehe</string>
+  <string name="NoTextFoundToShare">ʻAʻohe kikokikona i loaʻa e kaʻana like</string>
+  <string name="NoTranslationFoundToShare">ʻAʻohe unuhi i loaʻa e kaʻana like</string>
+  <string name="NoTranslationFoundToCopy">ʻAʻohe unuhi i loaʻa e kope</string>
+  <string name="NoTextFoundToCopy">ʻAʻohe kikokikona i loaʻa e kope</string>
+  <string name="NoTextToSpeak">ʻAʻohe kikokikona e kamaʻilio</string>
+  <string name="LanguageDetected">ʻIke ʻia ka ʻōlelo</string>
+  <string name="OCRImage">Kiʻi OCR</string>
+  <string name="OCRTranslation">Unuhi OCR</string>
+  <string name="CopiedToClipboard">Kope ʻia i ka papa ʻokiʻoki</string>
+  <string name="ChooseLanguageFirst">E koho mua i ka ʻōlelo ma mua o kou hoʻomau ʻana</string>
+  <string name="EnterTextToTranslate">E hoʻokomo i ke kikokikona e unuhi</string>
+  <string name="TextFromImage">Kikokiko mai ke kiʻi</string>
+  <string name="GettingText">Loaʻa i ka kikokikona</string>
+  <string name="PleaseEnterWordToSearchInDictionary">E ʻoluʻolu e hoʻokomo i kekahi huaʻōlelo e huli ai</string>
+  <string name="Translating">Unuhi</string>
+  <string name="PermissionsNotGranted">ʻAʻole ʻae ʻia nā ʻae</string>
+  <string name="CameraPermissionsMsg">E ʻoluʻolu e hāʻawi i ka ʻae pahupaʻikiʻi e kiʻi i ke kiʻi</string>
+  <string name="StoragePermissionsMsg">E ʻoluʻolu e hāʻawi i nā ʻae waiho i loko e kiʻi i ke kiʻi mai ka hale kiʻi</string>
+  <string name="GrantPermissionsBtn">Hāʻawi i nā ʻae</string>
+</resources>

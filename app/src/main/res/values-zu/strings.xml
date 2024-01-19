@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Umhumushi Wolimi</string>
+  <string name="home">Ikhaya</string>
+  <string name="shareVia">Yabelana nge</string>
+  <string name="LanguageTranslator">Umhumushi Wolimi</string>
+  <string name="Translate">Humusha</string>
+  <string name="Conversation">Ingxoxo</string>
+  <string name="OCR">I-OCR</string>
+  <string name="Dictionary">Isichazamazwi</string>
+  <string name="SearchWord">Sesha igama</string>
+  <string name="ShareWithFriends">Yabelana nabangani</string>
+  <string name="ChangeLanguage">Shintsha Ulimi</string>
+  <string name="PrivacyPolicy">Inqubomgomo yobumfihlo</string>
+  <string name="Gallery">Igalari</string>
+  <string name="Camera">Ikhamera</string>
+  <string name="DoYouWantToExit">Ingabe ufuna ukuphuma</string>
+  <string name="Cancel">Khansela</string>
+  <string name="Exit">Phuma</string>
+  <string name="SelectAppLanguage">Khetha Ulimi Lokusebenza</string>
+  <string name="Ok">KULUNGILE</string>
+  <string name="Copy">Kopisha</string>
+  <string name="FullScreen">Iskrini esigcwele</string>
+  <string name="ClearTitle">Kucace</string>
+  <string name="ClearConversationMsg">Uqinisekile ukuthi ufuna ukusula ingxoxo?</string>
+  <string name="Yes">Yebo</string>
+  <string name="No">Cha</string>
+  <string name="SelectLanguage">Khetha Ulimi</string>
+  <string name="Downloading">Iyalanda</string>
+  <string name="DownloadDialogMsg">Sicela ulinde ngenkathi imodeli yakho ilanda</string>
+  <string name="Download">Landa</string>
+  <string name="DownloadModel">Landa Imodeli</string>
+  <string name="DownloadModelDialogMsg">Udinga ukulanda imodeli kuqala ngaphambi kokukhetha lolu limi</string>
+  <string name="UseWifiMsg">Usebenzisa inethiwekhi yeselula. Sicela usebenzise i-Wifi ukuze ulande imodeli</string>
+  <string name="Searching">Iyasesha</string>
+  <string name="NotFound">Akutholakalanga</string>
+  <string name="Image">Isithombe :</string>
+  <string name="PleaseConnectToInternet">Sicela uxhume ku-inthanethi</string>
+  <string name="NotFoundMsg">Igama olifunayo alitholakali kusichazamazwi sethu</string>
+  <string name="NoTextFoundToShare">Awukho umbhalo otholakele ongabelana ngawo</string>
+  <string name="NoTranslationFoundToShare">Akukho ukuhumusha okutholakele ukuze kwabelwane</string>
+  <string name="NoTranslationFoundToCopy">Akukho ukuhumusha okutholakele okungakopishwa</string>
+  <string name="NoTextFoundToCopy">Awukho umbhalo otholakele ongakopishwa</string>
+  <string name="NoTextToSpeak">Awukho umbhalo ongawukhuluma</string>
+  <string name="LanguageDetected">Ulimi Lutholiwe</string>
+  <string name="OCRImage">Isithombe se-OCR</string>
+  <string name="OCRTranslation">Ukuhumusha kwe-OCR</string>
+  <string name="CopiedToClipboard">Ikopishelwe ebhodini lokunamathisela</string>
+  <string name="ChooseLanguageFirst">Khetha Ulimi kuqala ngaphambi kokuthi uqhubeke</string>
+  <string name="EnterTextToTranslate">Faka umbhalo ozowuhumusha</string>
+  <string name="TextFromImage">Umbhalo osuka esithombeni</string>
+  <string name="GettingText">Ithola umbhalo</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Sicela ufake igama ozolicinga</string>
+  <string name="Translating">Iyahumusha</string>
+  <string name="PermissionsNotGranted">Izimvume azinikiwe</string>
+  <string name="CameraPermissionsMsg">Sicela unikeze izimvume zekhamera zokuthwebula isithombe</string>
+  <string name="StoragePermissionsMsg">Sicela unikeze izimvume zesitoreji sangaphakathi ukuze uthole isithombe kugalari</string>
+  <string name="GrantPermissionsBtn">Nikeza Izimvume</string>
+</resources>

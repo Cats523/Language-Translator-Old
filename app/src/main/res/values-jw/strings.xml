@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Penerjemah Basa</string>
+  <string name="home">Ngarep</string>
+  <string name="shareVia">Nuduhake liwat</string>
+  <string name="LanguageTranslator">Penerjemah Basa</string>
+  <string name="Translate">Nerjemahake</string>
+  <string name="Conversation">Pacelathon</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Kamus</string>
+  <string name="SearchWord">Telusuri tembung</string>
+  <string name="ShareWithFriends">Nuduhake karo Kanca</string>
+  <string name="ChangeLanguage">Ganti Basa</string>
+  <string name="PrivacyPolicy">Kebijakan Privasi</string>
+  <string name="Gallery">Galeri</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Apa sampeyan pengin metu</string>
+  <string name="Cancel">Batal</string>
+  <string name="Exit">Metu</string>
+  <string name="SelectAppLanguage">Pilih Basa Aplikasi</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Nyalin</string>
+  <string name="FullScreen">Layar Lengkap</string>
+  <string name="ClearTitle">Cetha</string>
+  <string name="ClearConversationMsg">Apa sampeyan yakin pengin mbusak obrolan?</string>
+  <string name="Yes">Ya wis</string>
+  <string name="No">Ora</string>
+  <string name="SelectLanguage">Pilih Basa</string>
+  <string name="Downloading">Ngundhuh</string>
+  <string name="DownloadDialogMsg">Mangga ngenteni nalika model sampeyan lagi ngundhuh</string>
+  <string name="Download">Ngundhuh</string>
+  <string name="DownloadModel">Download Model</string>
+  <string name="DownloadModelDialogMsg">Sampeyan kudu ngundhuh model dhisik sadurunge milih basa iki</string>
+  <string name="UseWifiMsg">Sampeyan nggunakake jaringan seluler. Mangga gunakake Wifi kanggo ngundhuh model kasebut</string>
+  <string name="Searching">Nggoleki</string>
+  <string name="NotFound">Ora Ditemokake</string>
+  <string name="Image">Gambar :</string>
+  <string name="PleaseConnectToInternet">Mangga nyambung menyang internet</string>
+  <string name="NotFoundMsg">Tembung sing digoleki ora ana ing kamus kita</string>
+  <string name="NoTextFoundToShare">Ora ana teks sing bisa dienggo bareng</string>
+  <string name="NoTranslationFoundToShare">Ora ana terjemahan sing bisa dienggo bareng</string>
+  <string name="NoTranslationFoundToCopy">Ora ana terjemahan sing bisa disalin</string>
+  <string name="NoTextFoundToCopy">Ora ana teks sing bisa disalin</string>
+  <string name="NoTextToSpeak">Ora ana teks kanggo ngomong</string>
+  <string name="LanguageDetected">Basa Dideteksi</string>
+  <string name="OCRImage">Gambar OCR</string>
+  <string name="OCRTranslation">Terjemahan OCR</string>
+  <string name="CopiedToClipboard">Disalin menyang clipboard</string>
+  <string name="ChooseLanguageFirst">Pilih Basa dhisik sadurunge nerusake</string>
+  <string name="EnterTextToTranslate">Ketik teks kanggo nerjemahake</string>
+  <string name="TextFromImage">Teks saka gambar</string>
+  <string name="GettingText">Njupuk teks</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Mangga ketik sawetara tembung kanggo nggoleki</string>
+  <string name="Translating">Nerjemahake</string>
+  <string name="PermissionsNotGranted">Idin ora diwenehake</string>
+  <string name="CameraPermissionsMsg">Mangga wenehi ijin kamera kanggo njupuk gambar</string>
+  <string name="StoragePermissionsMsg">Mangga wenehi ijin panyimpenan internal kanggo njupuk gambar saka galeri</string>
+  <string name="GrantPermissionsBtn">Menehi Idin</string>
+</resources>

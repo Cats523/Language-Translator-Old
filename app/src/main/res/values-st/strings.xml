@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Mofetoleli oa Puo</string>
+  <string name="home">Lehae</string>
+  <string name="shareVia">Arolelana ka</string>
+  <string name="LanguageTranslator">Mofetoleli oa Puo</string>
+  <string name="Translate">Fetolela</string>
+  <string name="Conversation">Moqoqo</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Bukantswe</string>
+  <string name="SearchWord">Batla lentsoe</string>
+  <string name="ShareWithFriends">Arolelana le Metsoalle</string>
+  <string name="ChangeLanguage">Fetola Puo</string>
+  <string name="PrivacyPolicy">Leano la lekunutu</string>
+  <string name="Gallery">Kalari</string>
+  <string name="Camera">Khamera</string>
+  <string name="DoYouWantToExit">Na u batla ho tsoa</string>
+  <string name="Cancel">Hlakola</string>
+  <string name="Exit">Etsoa</string>
+  <string name="SelectAppLanguage">Khetha Puo ea App</string>
+  <string name="Ok">HO LOKILE</string>
+  <string name="Copy">Kopitsa</string>
+  <string name="FullScreen">Skrine se felletseng</string>
+  <string name="ClearTitle">Hlakileng</string>
+  <string name="ClearConversationMsg">Na ehlile u batla ho hlakola puisano?</string>
+  <string name="Yes">Ee</string>
+  <string name="No">Che</string>
+  <string name="SelectLanguage">Kgetha Puo</string>
+  <string name="Downloading">E jarolla</string>
+  <string name="DownloadDialogMsg">Ka kopo, ema ha mofuta oa hau o ntse o khoasolla</string>
+  <string name="Download">Khoasolla</string>
+  <string name="DownloadModel">Khoasolla Mohlala</string>
+  <string name="DownloadModelDialogMsg">U lokela ho khoasolla mohlala pele u khetha puo ena</string>
+  <string name="UseWifiMsg">U sebelisa marang-rang a mehala. Ka kopo sebelisa Wifi ho khoasolla mohlala</string>
+  <string name="Searching">Ho batla</string>
+  <string name="NotFound">Ha ea fumanoa</string>
+  <string name="Image">Setšoantšo :</string>
+  <string name="PleaseConnectToInternet">Ka kopo, hokela marang-rang</string>
+  <string name="NotFoundMsg">Lentsoe leo u le batlang ha le fumanehe bukeng ea rona ea mantsoe</string>
+  <string name="NoTextFoundToShare">Ha ho mongolo o ka arolelanoang</string>
+  <string name="NoTranslationFoundToShare">Ha ho phetolelo e fumanoeng e ka arolelanoa</string>
+  <string name="NoTranslationFoundToCopy">Ha ho phetolelo e fumanoeng e ka kopitsoa</string>
+  <string name="NoTextFoundToCopy">Ha ho mongolo o ka kopitsoang</string>
+  <string name="NoTextToSpeak">Ha ho mongolo o ka buuoang</string>
+  <string name="LanguageDetected">Puo e Fumaneha</string>
+  <string name="OCRImage">Setšoantšo sa OCR</string>
+  <string name="OCRTranslation">Phetolelo ea OCR</string>
+  <string name="CopiedToClipboard">E qopisitsoe ho clipboard</string>
+  <string name="ChooseLanguageFirst">Khetha Puo pele pele u tsoela pele</string>
+  <string name="EnterTextToTranslate">Kenya mongolo ho fetolela</string>
+  <string name="TextFromImage">Mongolo o tsoang setšoantšong</string>
+  <string name="GettingText">Ho fumana mongolo</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Ka kopo, kenya lentsoe leo u batlang ho le batla</string>
+  <string name="Translating">Ho fetolela</string>
+  <string name="PermissionsNotGranted">Litumello ha lia fanoa</string>
+  <string name="CameraPermissionsMsg">Ka kopo fana ka tumello ea khamera ho nka setšoantšo</string>
+  <string name="StoragePermissionsMsg">Ka kopo fana ka tumello ea polokelo ea kahare ho fumana setšoantšo ho la gallery</string>
+  <string name="GrantPermissionsBtn">Litumello tsa ho fana</string>
+</resources>

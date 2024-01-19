@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Јазичен преведувач</string>
+  <string name="home">Дома</string>
+  <string name="shareVia">Споделете преку</string>
+  <string name="LanguageTranslator">Јазичен преведувач</string>
+  <string name="Translate">Преведи</string>
+  <string name="Conversation">Разговор</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Речник</string>
+  <string name="SearchWord">Збор за пребарување</string>
+  <string name="ShareWithFriends">Сподели со пријатели</string>
+  <string name="ChangeLanguage">Промени го јазикот</string>
+  <string name="PrivacyPolicy">Политика за приватност</string>
+  <string name="Gallery">Галерија</string>
+  <string name="Camera">Камера</string>
+  <string name="DoYouWantToExit">Дали сакате да излезете</string>
+  <string name="Cancel">Откажи</string>
+  <string name="Exit">Излезете</string>
+  <string name="SelectAppLanguage">Изберете јазик на апликацијата</string>
+  <string name="Ok">Добро</string>
+  <string name="Copy">Копирај</string>
+  <string name="FullScreen">Цел екран</string>
+  <string name="ClearTitle">Јасно</string>
+  <string name="ClearConversationMsg">Дали сте сигурни дека сакате да го исчистите разговорот?</string>
+  <string name="Yes">Да</string>
+  <string name="No">Бр</string>
+  <string name="SelectLanguage">Одбери јазик</string>
+  <string name="Downloading">Преземање</string>
+  <string name="DownloadDialogMsg">Ве молиме почекајте додека вашиот модел се презема</string>
+  <string name="Download">Преземи</string>
+  <string name="DownloadModel">Преземете модел</string>
+  <string name="DownloadModelDialogMsg">Прво треба да го преземете моделот пред да го изберете овој јазик</string>
+  <string name="UseWifiMsg">Користите мобилна мрежа. Ве молиме користете Wi-Fi за да го преземете моделот</string>
+  <string name="Searching">Пребарување</string>
+  <string name="NotFound">Не е најдено</string>
+  <string name="Image">Слика:</string>
+  <string name="PleaseConnectToInternet">Ве молиме поврзете се на интернет</string>
+  <string name="NotFoundMsg">Зборот што го барате не се наоѓа во нашиот речник</string>
+  <string name="NoTextFoundToShare">Не е пронајден текст за споделување</string>
+  <string name="NoTranslationFoundToShare">Не е пронајден превод за споделување</string>
+  <string name="NoTranslationFoundToCopy">Не е пронајден превод за копирање</string>
+  <string name="NoTextFoundToCopy">Не е пронајден текст за копирање</string>
+  <string name="NoTextToSpeak">Нема текст за зборување</string>
+  <string name="LanguageDetected">Откриен јазик</string>
+  <string name="OCRImage">OCR Слика</string>
+  <string name="OCRTranslation">OCR превод</string>
+  <string name="CopiedToClipboard">Копирано во таблата со исечоци</string>
+  <string name="ChooseLanguageFirst">Прво изберете јазик пред да продолжите понатаму</string>
+  <string name="EnterTextToTranslate">Внесете текст за преведување</string>
+  <string name="TextFromImage">Текст од слика</string>
+  <string name="GettingText">Добивање текст</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Ве молиме внесете некој збор за пребарување</string>
+  <string name="Translating">Преведување</string>
+  <string name="PermissionsNotGranted">Дозволите не се дадени</string>
+  <string name="CameraPermissionsMsg">Ве молиме дајте дозволи на камерата за снимање слика</string>
+  <string name="StoragePermissionsMsg">Ве молиме дајте дозволи за внатрешно складирање за да добивате слика од галеријата</string>
+  <string name="GrantPermissionsBtn">Доделување дозволи</string>
+</resources>

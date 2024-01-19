@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Cyfieithydd Iaith</string>
+  <string name="home">Cartref</string>
+  <string name="shareVia">Rhannu trwy</string>
+  <string name="LanguageTranslator">Cyfieithydd Iaith</string>
+  <string name="Translate">Cyfieithwch</string>
+  <string name="Conversation">Sgwrs</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Geiriadur</string>
+  <string name="SearchWord">Chwilio gair</string>
+  <string name="ShareWithFriends">Rhannu gyda Ffrindiau</string>
+  <string name="ChangeLanguage">Newid Iaith</string>
+  <string name="PrivacyPolicy">Polisi Preifatrwydd</string>
+  <string name="Gallery">Oriel</string>
+  <string name="Camera">Camera</string>
+  <string name="DoYouWantToExit">Ydych chi eisiau gadael</string>
+  <string name="Cancel">Canslo</string>
+  <string name="Exit">Ymadael</string>
+  <string name="SelectAppLanguage">Dewiswch Iaith Apiau</string>
+  <string name="Ok">Iawn</string>
+  <string name="Copy">Copi</string>
+  <string name="FullScreen">Sgrin llawn</string>
+  <string name="ClearTitle">Clir</string>
+  <string name="ClearConversationMsg">Ydych chi\'n siŵr eich bod am glirio\'r sgwrs?</string>
+  <string name="Yes">Oes</string>
+  <string name="No">Nac ydw</string>
+  <string name="SelectLanguage">Dewiswch Iaith</string>
+  <string name="Downloading">Wrthi\'n llwytho i lawr</string>
+  <string name="DownloadDialogMsg">Arhoswch tra bod eich model yn llwytho i lawr</string>
+  <string name="Download">Lawrlwythwch</string>
+  <string name="DownloadModel">Lawrlwytho Model</string>
+  <string name="DownloadModelDialogMsg">Mae angen i chi lawrlwytho\'r model yn gyntaf cyn i chi ddewis yr iaith hon</string>
+  <string name="UseWifiMsg">Rydych chi\'n defnyddio rhwydwaith cellog. Defnyddiwch Wifi i lawrlwytho\'r model</string>
+  <string name="Searching">Chwilio</string>
+  <string name="NotFound">Heb ei Ddarganfod</string>
+  <string name="Image">Delwedd:</string>
+  <string name="PleaseConnectToInternet">Cysylltwch â\'r rhyngrwyd</string>
+  <string name="NotFoundMsg">Nid yw\'r gair yr ydych yn chwilio amdano i\'w gael yn ein geiriadur</string>
+  <string name="NoTextFoundToShare">Heb ganfod testun i\'w rannu</string>
+  <string name="NoTranslationFoundToShare">Heb ganfod cyfieithiad i\'w rannu</string>
+  <string name="NoTranslationFoundToCopy">Heb ganfod cyfieithiad i\'w gopïo</string>
+  <string name="NoTextFoundToCopy">Heb ganfod testun i\'w gopïo</string>
+  <string name="NoTextToSpeak">Dim testun i siarad</string>
+  <string name="LanguageDetected">Canfod Iaith</string>
+  <string name="OCRImage">Delwedd OCR</string>
+  <string name="OCRTranslation">Cyfieithiad OCR</string>
+  <string name="CopiedToClipboard">Wedi\'i gopïo i\'r clipfwrdd</string>
+  <string name="ChooseLanguageFirst">Dewiswch Iaith yn gyntaf cyn i chi fynd ymhellach</string>
+  <string name="EnterTextToTranslate">Rhowch destun i\'w gyfieithu</string>
+  <string name="TextFromImage">Testun o ddelwedd</string>
+  <string name="GettingText">Cael testun</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Rhowch ychydig o eiriau i\'w chwilio</string>
+  <string name="Translating">Cyfieithu</string>
+  <string name="PermissionsNotGranted">Ni roddwyd caniatâd</string>
+  <string name="CameraPermissionsMsg">Rhowch ganiatâd camera i ddal delwedd</string>
+  <string name="StoragePermissionsMsg">Rhowch ganiatâd storio mewnol i gael delwedd o\'r oriel</string>
+  <string name="GrantPermissionsBtn">Caniatâd</string>
+</resources>

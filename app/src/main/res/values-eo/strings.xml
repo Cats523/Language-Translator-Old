@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Lingva Tradukisto</string>
+  <string name="home">Hejmo</string>
+  <string name="shareVia">Kunhavigu per</string>
+  <string name="LanguageTranslator">Lingva Tradukisto</string>
+  <string name="Translate">Traduki</string>
+  <string name="Conversation">Konversacio</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Vortaro</string>
+  <string name="SearchWord">Serĉvorto</string>
+  <string name="ShareWithFriends">Kunhavigu kun Amikoj</string>
+  <string name="ChangeLanguage">Ŝanĝi Lingvon</string>
+  <string name="PrivacyPolicy">Privateca Politiko</string>
+  <string name="Gallery">Galerio</string>
+  <string name="Camera">Fotilo</string>
+  <string name="DoYouWantToExit">Ĉu vi volas eliri</string>
+  <string name="Cancel">Nuligi</string>
+  <string name="Exit">Eliro</string>
+  <string name="SelectAppLanguage">Elektu App Lingvo</string>
+  <string name="Ok">Bone</string>
+  <string name="Copy">Kopiu</string>
+  <string name="FullScreen">Plenekrane</string>
+  <string name="ClearTitle">Klara</string>
+  <string name="ClearConversationMsg">Ĉu vi certas, ke vi volas forigi la konversacion?</string>
+  <string name="Yes">Jes</string>
+  <string name="No">Ne</string>
+  <string name="SelectLanguage">Elektu Lingvon</string>
+  <string name="Downloading">Elŝutante</string>
+  <string name="DownloadDialogMsg">Bonvolu atendi dum via modelo elŝutas</string>
+  <string name="Download">Elŝutu</string>
+  <string name="DownloadModel">Elŝutu Modelon</string>
+  <string name="DownloadModelDialogMsg">Vi devas unue elŝuti la modelon antaŭ ol elekti ĉi tiun lingvon</string>
+  <string name="UseWifiMsg">Vi uzas ĉelan reton. Bonvolu uzi Wifi por elŝuti la modelon</string>
+  <string name="Searching">Serĉante</string>
+  <string name="NotFound">Ne trovita</string>
+  <string name="Image">Bildo:</string>
+  <string name="PleaseConnectToInternet">Bonvolu konekti al interreto</string>
+  <string name="NotFoundMsg">La vorto, kiun vi serĉas, ne troviĝas en nia vortaro</string>
+  <string name="NoTextFoundToShare">Neniu teksto trovita por kunhavigi</string>
+  <string name="NoTranslationFoundToShare">Neniu traduko trovita por dividi</string>
+  <string name="NoTranslationFoundToCopy">Neniu traduko trovita kopii</string>
+  <string name="NoTextFoundToCopy">Neniu teksto trovita kopienda</string>
+  <string name="NoTextToSpeak">Neniu teksto por paroli</string>
+  <string name="LanguageDetected">Lingvo Detektita</string>
+  <string name="OCRImage">OCR Bildo</string>
+  <string name="OCRTranslation">OCR Tradukado</string>
+  <string name="CopiedToClipboard">Kopiita al tondujo</string>
+  <string name="ChooseLanguageFirst">Elektu Lingvon unue antaŭ ol vi plu plu</string>
+  <string name="EnterTextToTranslate">Enigu tekston por traduki</string>
+  <string name="TextFromImage">Teksto el bildo</string>
+  <string name="GettingText">Akiro de teksto</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Bonvolu enigi iun vorton por serĉi</string>
+  <string name="Translating">Tradukante</string>
+  <string name="PermissionsNotGranted">Permesoj ne donitaj</string>
+  <string name="CameraPermissionsMsg">Bonvolu doni fotilajn permesojn por kapti bildon</string>
+  <string name="StoragePermissionsMsg">Bonvolu doni internajn stokajn permesojn por akiri bildon el galerio</string>
+  <string name="GrantPermissionsBtn">Donu Permesojn</string>
+</resources>

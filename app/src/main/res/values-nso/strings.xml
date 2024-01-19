@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Mofetoledi wa Polelo</string>
+  <string name="home">Gae</string>
+  <string name="shareVia">Abelana ka</string>
+  <string name="LanguageTranslator">Mofetoledi wa Polelo</string>
+  <string name="Translate">Fetolela</string>
+  <string name="Conversation">Poledišano</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Pukuntšu</string>
+  <string name="SearchWord">Lentšu la go nyaka</string>
+  <string name="ShareWithFriends">Abelana le Metswalle</string>
+  <string name="ChangeLanguage">Fetola Polelo</string>
+  <string name="PrivacyPolicy">Pholisi ya Sephiri</string>
+  <string name="Gallery">Gallery ya go bontšha</string>
+  <string name="Camera">Khamera ya</string>
+  <string name="DoYouWantToExit">Na o nyaka go tšwa</string>
+  <string name="Cancel">Khansela</string>
+  <string name="Exit">Tšwa</string>
+  <string name="SelectAppLanguage">Kgetha Polelo ya App</string>
+  <string name="Ok">GO LOKILE</string>
+  <string name="Copy">Khopiša</string>
+  <string name="FullScreen">Skrine se Feletseng</string>
+  <string name="ClearTitle">Tloša</string>
+  <string name="ClearConversationMsg">Na o kgodišegile gore o nyaka go hlatswa poledišano?</string>
+  <string name="Yes">Ee</string>
+  <string name="No">Aowa</string>
+  <string name="SelectLanguage">Kgetha Polelo</string>
+  <string name="Downloading">Go taonelouta</string>
+  <string name="DownloadDialogMsg">Hle ema ge mohlala wa gago o sa taonelouta</string>
+  <string name="Download">Taonelouta</string>
+  <string name="DownloadModel">Download Mohlala</string>
+  <string name="DownloadModelDialogMsg">O swanetše go taonelouta mohlala pele pele o kgetha leleme le</string>
+  <string name="UseWifiMsg">O diriša netweke ya disele. Hle diriša Wifi go taonelouta mohlala</string>
+  <string name="Searching">Go tsoma</string>
+  <string name="NotFound">Ga se ya Hwetšagala</string>
+  <string name="Image">Seswantšho :</string>
+  <string name="PleaseConnectToInternet">Hle kgokagana le inthanete</string>
+  <string name="NotFoundMsg">Lentšu leo ​​o le nyakago ga le hwetšwe ka pukuntšung ya rena</string>
+  <string name="NoTextFoundToShare">Ga go na sengwalwa seo se hweditšwego go abelana</string>
+  <string name="NoTranslationFoundToShare">Ga go na phetolelo yeo e hweditšwego go abelana</string>
+  <string name="NoTranslationFoundToCopy">Ga go na phetolelo yeo e hweditšwego gore e kopišwe</string>
+  <string name="NoTextFoundToCopy">Ga go na sengwalwa seo se hweditšwego gore se kopišwe</string>
+  <string name="NoTextToSpeak">Ga go na sengwalwa seo se ka bolelago</string>
+  <string name="LanguageDetected">Polelo e Lemogilwe</string>
+  <string name="OCRImage">Seswantšho sa OCR</string>
+  <string name="OCRTranslation">Phetolelo ya OCR</string>
+  <string name="CopiedToClipboard">E kopišitšwe go clipboard</string>
+  <string name="ChooseLanguageFirst">Kgetha Polelo pele pele o tšwela pele</string>
+  <string name="EnterTextToTranslate">Tsenya sengwalwa go fetolela</string>
+  <string name="TextFromImage">Sengwalwa go tšwa seswantšhong</string>
+  <string name="GettingText">Go hwetša sengwalwa</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Hle tsenya lentšu le lengwe gore o nyake</string>
+  <string name="Translating">Go fetolela</string>
+  <string name="PermissionsNotGranted">Ditumello ga di fiwe</string>
+  <string name="CameraPermissionsMsg">Hle fa ditumelelo tša khamera tša go tšea seswantšho</string>
+  <string name="StoragePermissionsMsg">Hle fa ditumelelo tša polokelo ya ka gare go hwetša seswantšho go tšwa go gallery</string>
+  <string name="GrantPermissionsBtn">Fana ka Ditumello</string>
+</resources>

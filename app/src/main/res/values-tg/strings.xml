@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Тарҷумони забон</string>
+  <string name="home">Хона</string>
+  <string name="shareVia">Мубодила тавассути</string>
+  <string name="LanguageTranslator">Тарҷумони забон</string>
+  <string name="Translate">Тарҷума кунед</string>
+  <string name="Conversation">Сухбат</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Луғат</string>
+  <string name="SearchWord">Калимаи ҷустуҷӯ</string>
+  <string name="ShareWithFriends">Бо дӯстон мубодила кунед</string>
+  <string name="ChangeLanguage">Тағйир додани забон</string>
+  <string name="PrivacyPolicy">Сиёсати Корбурди Маълумоти Шахсӣ</string>
+  <string name="Gallery">Галерея</string>
+  <string name="Camera">Камера</string>
+  <string name="DoYouWantToExit">Мехоҳед берун шавед</string>
+  <string name="Cancel">Бекор кардан</string>
+  <string name="Exit">Баромадгоҳ</string>
+  <string name="SelectAppLanguage">Забони барномаро интихоб кунед</string>
+  <string name="Ok">ДУРУСТ</string>
+  <string name="Copy">Нусхабардорӣ</string>
+  <string name="FullScreen">Тамомсафҳа</string>
+  <string name="ClearTitle">Тоза</string>
+  <string name="ClearConversationMsg">Шумо мутмаин ҳастед, ки мехоҳед сӯҳбатро тоза кунед?</string>
+  <string name="Yes">Бале</string>
+  <string name="No">Не</string>
+  <string name="SelectLanguage">Забонро интихоб кунед</string>
+  <string name="Downloading">Зеркашӣ кардан</string>
+  <string name="DownloadDialogMsg">Лутфан интизор шавед, ки модели шумо зеркашӣ карда мешавад</string>
+  <string name="Download">Зеркашӣ кунед</string>
+  <string name="DownloadModel">Модели зеркашӣ</string>
+  <string name="DownloadModelDialogMsg">Пеш аз интихоби ин забон, шумо бояд аввал моделро зеркашӣ кунед</string>
+  <string name="UseWifiMsg">Шумо шабакаи мобилиро истифода мебаред. Лутфан барои зеркашии модели Wifi-ро истифода баред</string>
+  <string name="Searching">Ҷустуҷӯ</string>
+  <string name="NotFound">Дарёфт нашуд</string>
+  <string name="Image">Тасвир:</string>
+  <string name="PleaseConnectToInternet">Лутфан ба интернет пайваст шавед</string>
+  <string name="NotFoundMsg">Калимаи ҷустуҷӯи шумо дар луғати мо мавҷуд нест</string>
+  <string name="NoTextFoundToShare">Ягон матн барои мубодила ёфт нашуд</string>
+  <string name="NoTranslationFoundToShare">Ягон тарҷума барои мубодила ёфт нашуд</string>
+  <string name="NoTranslationFoundToCopy">Тарҷумаи нусхабардорӣ ёфт нашуд</string>
+  <string name="NoTextFoundToCopy">Ягон матн барои нусхабардорӣ ёфт нашуд</string>
+  <string name="NoTextToSpeak">Матн барои гуфтан нест</string>
+  <string name="LanguageDetected">Забон муайян карда шуд</string>
+  <string name="OCRImage">Тасвири OCR</string>
+  <string name="OCRTranslation">Тарҷумаи OCR</string>
+  <string name="CopiedToClipboard">Ба буфер нусхабардорӣ карда шуд</string>
+  <string name="ChooseLanguageFirst">Пеш аз идомаи кори дигар, аввал забонро интихоб кунед</string>
+  <string name="EnterTextToTranslate">Матнро барои тарҷума ворид кунед</string>
+  <string name="TextFromImage">Матн аз тасвир</string>
+  <string name="GettingText">Гирифтани матн</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Лутфан барои ҷустуҷӯ ягон калима ворид кунед</string>
+  <string name="Translating">Тарҷума</string>
+  <string name="PermissionsNotGranted">Иҷозатҳо дода нашудаанд</string>
+  <string name="CameraPermissionsMsg">Лутфан ба камера иҷозат диҳед, ки акс гиред</string>
+  <string name="StoragePermissionsMsg">Лутфан иҷозати нигаҳдории дохилиро барои гирифтани тасвир аз галерея диҳед</string>
+  <string name="GrantPermissionsBtn">Иҷозат диҳед</string>
+</resources>

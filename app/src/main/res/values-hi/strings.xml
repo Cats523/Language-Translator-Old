@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+    <string name="app_name">भाषा अनुवादक</string>
+    <string name="app_title">भाषा अनुवादक</string>
+    <string name="home">अनुवाद</string>
+    <string name="shareVia">के माध्यम से बाँटे</string>
+    <string name="LanguageTranslator">भाषा अनुवादक</string>
+    <string name="Translate">अनुवाद</string>
+    <string name="Conversation">बातचीत</string>
+    <string name="OCR">ओसीआर</string>
+    <string name="Dictionary">अंग्रेजी शब्दकोश</string>
+    <string name="SearchWord">खोज शब्द</string>
+    <string name="ShareWithFriends">दोस्तों के साथ बांटें</string>
+    <string name="ChangeLanguage">भाषा बदलें</string>
+    <string name="PrivacyPolicy">गोपनीयता नीति</string>
+    <string name="Gallery">गेलरी</string>
+    <string name="Camera">कैमरा</string>
+    <string name="DoYouWantToExit">क्या आपको बाहर निकलना है</string>
+    <string name="Cancel">रद्द करना</string>
+    <string name="Exit">बाहर निकलना</string>
+    <string name="SelectAppLanguage">ऐप भाषा का चयन करें</string>
+    <string name="Ok">ठीक</string>
+    <string name="Copy">प्रतिलिपि</string>
+    <string name="FullScreen">पूर्ण स्क्रीन</string>
+    <string name="ClearTitle">साफ़</string>
+    <string name="ClearConversationMsg">क्या आप वाक़ई बातचीत साफ़ करना चाहते हैं?</string>
+    <string name="Yes">हाँ</string>
+    <string name="No">नहीं</string>
+    <string name="SelectLanguage">भाषा चुने</string>
+    <string name="Downloading">डाउनलोड</string>
+    <string name="DownloadDialogMsg">कृपया प्रतीक्षा करें जब आपका मॉडल डाउनलोड हो रहा हो</string>
+    <string name="Download">डाउनलोड करना</string>
+    <string name="DownloadModel">मॉडल डाउनलोड करें</string>
+    <string name="DownloadModelDialogMsg">इस भाषा का चयन करने से पहले आपको पहले मॉडल को डाउनलोड करना होगा</string>
+    <string name="UseWifiMsg">आप सेल्युलर नेटवर्क का उपयोग कर रहे हैं। कृपया मॉडल डाउनलोड करने के लिए Wifi का उपयोग करें</string>
+    <string name="Searching">खोज कर</string>
+    <string name="NotFound">नहीं मिला</string>
+    <string name="Image">छवि :</string>
+    <string name="PleaseConnectToInternet">कृपया इंटरनेट से जुड़ें</string>
+    <string name="NotFoundMsg">आप जिस शब्द की तलाश कर रहे हैं वह हमारे शब्दकोष में नहीं है</string>
+    <string name="NoTextFoundToShare">साझा करने के लिए कोई पाठ नहीं मिला</string>
+    <string name="NoTranslationFoundToShare">साझा करने के लिए कोई अनुवाद नहीं मिला</string>
+    <string name="NoTranslationFoundToCopy">कॉपी करने के लिए कोई अनुवाद नहीं मिला</string>
+    <string name="NoTextFoundToCopy">कॉपी करने के लिए कोई टेक्स्ट नहीं मिला</string>
+    <string name="NoTextToSpeak">बोलने के लिए कोई पाठ नहीं</string>
+    <string name="LanguageDetected">भाषा का पता चला</string>
+    <string name="OCRImage">ओसीआर छवि</string>
+    <string name="OCRTranslation">ओसीआर अनुवाद</string>
+    <string name="CopiedToClipboard">क्लिपबोर्ड पर नकल</string>
+    <string name="ChooseLanguageFirst">आगे बढ़ने से पहले पहले भाषा चुनें</string>
+    <string name="EnterTextToTranslate">अनुवाद करने के लिए पाठ दर्ज करें</string>
+    <string name="TextFromImage">छवि से पाठ</string>
+    <string name="GettingText">टेक्स्ट प्राप्त करना</string>
+    <string name="PleaseEnterWordToSearchInDictionary">खोजने के लिए कृपया कुछ शब्द दर्ज करें</string>
+    <string name="Translating">अनुवाद करना</string>
+    <string name="PermissionsNotGranted">अनुमतियां नहीं दी गईं</string>
+    <string name="CameraPermissionsMsg">छवि लेने के लिए कृपया कैमरे की अनुमति दें</string>
+    <string name="StoragePermissionsMsg">कृपया गैलरी से छवि प्राप्त करने के लिए आंतरिक संग्रहण अनुमतियां प्रदान करें</string>
+    <string name="GrantPermissionsBtn">अनुदान अनुमतियाँ</string>
+    <string name="ooooppss_network_not_available">ओहो, नेटवर्क उपलब्ध नहीं है</string>
+    <string name="ad_is_loading">विज्ञापन लोड हो रहा है</string>
+    <string name="internet_warning_message">ओह, इंटरनेट नहीं जुड़ा है। कृपया शब्दकोश का उपयोग करने के लिए इंटरनेट से जुड़ें।</string>
+
+
+
+</resources>

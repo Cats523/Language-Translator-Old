@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Penerjemah bahasa</string>
+  <string name="app_title">Penerjemah bahasa</string>
+  <string name="home">Menerjemahkan</string>
+  <string name="shareVia">Bagikan melalui</string>
+  <string name="LanguageTranslator">Penerjemah bahasa</string>
+  <string name="Translate">Menerjemahkan</string>
+  <string name="Conversation">Percakapan</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Kamus Bahasa Inggris</string>
+  <string name="SearchWord">Cari kata</string>
+  <string name="ShareWithFriends">Bagikan dengan Teman</string>
+  <string name="ChangeLanguage">Ganti BAHASA</string>
+  <string name="PrivacyPolicy">Kebijakan pribadi</string>
+  <string name="Gallery">Galeri</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Apakah Anda ingin keluar</string>
+  <string name="Cancel">Membatalkan</string>
+  <string name="Exit">KELUAR</string>
+  <string name="SelectAppLanguage">Pilih Bahasa Aplikasi</string>
+  <string name="Ok">OKE</string>
+  <string name="Copy">Menyalin</string>
+  <string name="FullScreen">Layar penuh</string>
+  <string name="ClearTitle">Jernih</string>
+  <string name="ClearConversationMsg">Yakin ingin menghapus percakapan?</string>
+  <string name="Yes">Ya</string>
+  <string name="No">TIDAK</string>
+  <string name="SelectLanguage">Pilih bahasa</string>
+  <string name="Downloading">Mengunduh</string>
+  <string name="DownloadDialogMsg">Harap tunggu sementara model Anda sedang diunduh</string>
+  <string name="Download">Unduh</string>
+  <string name="DownloadModel">Unduh Model</string>
+  <string name="DownloadModelDialogMsg">Anda harus mengunduh model terlebih dahulu sebelum memilih bahasa ini</string>
+  <string name="UseWifiMsg">Anda menggunakan jaringan seluler. Silakan gunakan Wifi untuk mengunduh model</string>
+  <string name="Searching">Mencari</string>
+  <string name="NotFound">Tidak ditemukan</string>
+  <string name="Image">Gambar :</string>
+  <string name="PleaseConnectToInternet">Harap terhubung ke internet</string>
+  <string name="NotFoundMsg">Kata yang Anda cari tidak ditemukan dalam kamus kami</string>
+  <string name="NoTextFoundToShare">Tidak ditemukan teks untuk dibagikan</string>
+  <string name="NoTranslationFoundToShare">Tidak ada terjemahan yang ditemukan untuk dibagikan</string>
+  <string name="NoTranslationFoundToCopy">Tidak ada terjemahan yang ditemukan untuk disalin</string>
+  <string name="NoTextFoundToCopy">Tidak ada teks yang ditemukan untuk disalin</string>
+  <string name="NoTextToSpeak">Tidak ada teks untuk diucapkan</string>
+  <string name="LanguageDetected">Bahasa Terdeteksi</string>
+  <string name="OCRImage">Gambar OCR</string>
+  <string name="OCRTranslation">Terjemahan OCR</string>
+  <string name="CopiedToClipboard">Disalin ke papan klip</string>
+  <string name="ChooseLanguageFirst">Pilih Bahasa terlebih dahulu sebelum Anda melanjutkan lebih jauh</string>
+  <string name="EnterTextToTranslate">Masukkan teks untuk diterjemahkan</string>
+  <string name="TextFromImage">Teks dari gambar</string>
+  <string name="GettingText">Mendapatkan teks</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Silakan masukkan beberapa kata untuk mencari</string>
+  <string name="Translating">Menerjemahkan</string>
+  <string name="PermissionsNotGranted">Izin tidak diberikan</string>
+  <string name="CameraPermissionsMsg">Harap berikan izin kamera untuk mengambil gambar</string>
+  <string name="StoragePermissionsMsg">Harap berikan izin penyimpanan internal untuk mendapatkan gambar dari galeri</string>
+  <string name="GrantPermissionsBtn">Berikan Izin</string>
+  <string name="ooooppss_network_not_available">Ooooppss, jaringan tidak tersedia</string>
+  <string name="ad_is_loading">Iklan sedang dimuat</string>
+  <string name="internet_warning_message">Ups, Internet tidak terhubung. Silakan hubungkan ke internet untuk penggunaan kamus.</string>
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">ଭାଷା ଅନୁବାଦକ</string>
+  <string name="home">ଘର</string>
+  <string name="shareVia">ମାଧ୍ୟମରେ ଅଂଶୀଦାର କରନ୍ତୁ |</string>
+  <string name="LanguageTranslator">ଭାଷା ଅନୁବାଦକ</string>
+  <string name="Translate">ଅନୁବାଦ କର |</string>
+  <string name="Conversation">ବାର୍ତ୍ତାଳାପ</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">ଅଭିଧାନ</string>
+  <string name="SearchWord">ଶବ୍ଦ ଖୋଜ |</string>
+  <string name="ShareWithFriends">ସାଙ୍ଗମାନଙ୍କ ସହିତ ଅଂଶୀଦାର କରନ୍ତୁ |</string>
+  <string name="ChangeLanguage">ଭାଷା ପରିବର୍ତ୍ତନ କରନ୍ତୁ |</string>
+  <string name="PrivacyPolicy">ଗୋପନୀୟତା ନୀତି</string>
+  <string name="Gallery">ଗ୍ୟାଲେରୀ</string>
+  <string name="Camera">କ୍ୟାମେରା |</string>
+  <string name="DoYouWantToExit">ଆପଣ ବାହାରକୁ ଯିବାକୁ ଚାହୁଁଛନ୍ତି କି?</string>
+  <string name="Cancel">ବାତିଲ୍ କରନ୍ତୁ |</string>
+  <string name="Exit">ପ୍ରସ୍ଥାନ</string>
+  <string name="SelectAppLanguage">ଆପ୍ ଭାଷା ଚୟନ କରନ୍ତୁ |</string>
+  <string name="Ok">ଠିକ୍ ଅଛି</string>
+  <string name="Copy">କପି କରନ୍ତୁ |</string>
+  <string name="FullScreen">ଫୁଲ୍ ସ୍କ୍ରିନ୍ |</string>
+  <string name="ClearTitle">ସଫା</string>
+  <string name="ClearConversationMsg">ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ବାର୍ତ୍ତାଳାପକୁ ସଫା କରିବାକୁ ଚାହୁଁଛନ୍ତି?</string>
+  <string name="Yes">ହଁ</string>
+  <string name="No">ନା</string>
+  <string name="SelectLanguage">ଭାଷା ଚୟନ କରନ୍ତୁ |</string>
+  <string name="Downloading">ଡାଉନଲୋଡ୍ କରୁଛି |</string>
+  <string name="DownloadDialogMsg">ଆପଣଙ୍କର ମଡେଲ୍ ଡାଉନଲୋଡ୍ କରୁଥିବାବେଳେ ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ |</string>
+  <string name="Download">ଡାଉନଲୋଡ୍ କରନ୍ତୁ |</string>
+  <string name="DownloadModel">ମଡେଲ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ |</string>
+  <string name="DownloadModelDialogMsg">ଏହି ଭାଷା ବାଛିବା ପୂର୍ବରୁ ଆପଣଙ୍କୁ ପ୍ରଥମେ ମଡେଲ୍ ଡାଉନଲୋଡ୍ କରିବାକୁ ପଡିବ |</string>
+  <string name="UseWifiMsg">ଆପଣ ସେଲୁଲାର୍ ନେଟୱାର୍କ ବ୍ୟବହାର କରୁଛନ୍ତି | ମଡେଲ୍ ଡାଉନଲୋଡ୍ କରିବାକୁ ଦୟାକରି ୱାଇଫାଇ ବ୍ୟବହାର କରନ୍ତୁ |</string>
+  <string name="Searching">ଖୋଜୁଛି |</string>
+  <string name="NotFound">ମିଳିଲା ନାହି</string>
+  <string name="Image">ପ୍ରତିଛବି:</string>
+  <string name="PleaseConnectToInternet">ଦୟାକରି ଇଣ୍ଟରନେଟ୍ ସହିତ ସଂଯୋଗ କରନ୍ତୁ |</string>
+  <string name="NotFoundMsg">ଆପଣ ଖୋଜୁଥିବା ଶବ୍ଦ ଆମ ଅଭିଧାନରେ ମିଳୁନାହିଁ |</string>
+  <string name="NoTextFoundToShare">ଅଂଶୀଦାର କରିବାକୁ କ text ଣସି ପାଠ ମିଳିଲା ନାହିଁ |</string>
+  <string name="NoTranslationFoundToShare">ଅଂଶୀଦାର କରିବାକୁ କ translation ଣସି ଅନୁବାଦ ମିଳିଲା ନାହିଁ |</string>
+  <string name="NoTranslationFoundToCopy">କପି କରିବାକୁ କ translation ଣସି ଅନୁବାଦ ମିଳିଲା ନାହିଁ |</string>
+  <string name="NoTextFoundToCopy">କପି କରିବାକୁ କ text ଣସି ପାଠ ମିଳିଲା ନାହିଁ |</string>
+  <string name="NoTextToSpeak">କହିବାକୁ କ text ଣସି ପାଠ ନାହିଁ |</string>
+  <string name="LanguageDetected">ଭାଷା ଚିହ୍ନଟ |</string>
+  <string name="OCRImage">OCR ପ୍ରତିଛବି |</string>
+  <string name="OCRTranslation">OCR ଅନୁବାଦ |</string>
+  <string name="CopiedToClipboard">କ୍ଲିପବୋର୍ଡରେ କପି କରାଯାଇଛି |</string>
+  <string name="ChooseLanguageFirst">ଆପଣ ଆଗକୁ ବ before ିବା ପୂର୍ବରୁ ପ୍ରଥମେ ଭାଷା ବାଛନ୍ତୁ |</string>
+  <string name="EnterTextToTranslate">ଅନୁବାଦ କରିବାକୁ ପାଠ ପ୍ରବେଶ କରନ୍ତୁ |</string>
+  <string name="TextFromImage">ପ୍ରତିଛବିରୁ ପାଠ</string>
+  <string name="GettingText">ପାଠ ପାଇବା</string>
+  <string name="PleaseEnterWordToSearchInDictionary">ସନ୍ଧାନ କରିବାକୁ ଦୟାକରି କିଛି ଶବ୍ଦ ପ୍ରବେଶ କରନ୍ତୁ |</string>
+  <string name="Translating">ଅନୁବାଦ</string>
+  <string name="PermissionsNotGranted">ଅନୁମତି ଦିଆଯାଇନଥାଏ |</string>
+  <string name="CameraPermissionsMsg">ପ୍ରତିଛବି କ୍ୟାପଚର କରିବାକୁ ଦୟାକରି କ୍ୟାମେରା ଅନୁମତି ଦିଅନ୍ତୁ |</string>
+  <string name="StoragePermissionsMsg">ଗ୍ୟାଲେରୀରୁ ପ୍ରତିଛବି ପାଇବାକୁ ଦୟାକରି ଆଭ୍ୟନ୍ତରୀଣ ସଂରକ୍ଷଣ ଅନୁମତି ଦିଅନ୍ତୁ |</string>
+  <string name="GrantPermissionsBtn">ଅନୁମତି ଅନୁମତି</string>
+</resources>

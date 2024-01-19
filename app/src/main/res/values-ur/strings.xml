@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+    <string name="app_name">زبان کا مترجم</string>
+    <string name="app_title">زبان کا مترجم</string>
+    <string name="home">ترجمہ</string>
+    <string name="shareVia">کے ذریعے شیئر کریں۔</string>
+    <string name="LanguageTranslator">زبان کا مترجم</string>
+    <string name="Translate">ترجمہ کریں۔</string>
+    <string name="Conversation">بات چیت</string>
+    <string name="OCR">او سی آر</string>
+    <string name="Dictionary">انگریزی ڈکشنری</string>
+    <string name="SearchWord">لفظ تلاش کریں۔</string>
+    <string name="ShareWithFriends">دوستوں کے ساتھ شئیر کریں۔</string>
+    <string name="ChangeLanguage">زبان تبدیل کریں</string>
+    <string name="PrivacyPolicy">رازداری کی پالیسی</string>
+    <string name="Gallery">گیلری</string>
+    <string name="Camera">کیمرہ</string>
+    <string name="DoYouWantToExit">کیا آپ باہر نکلنا چاہتے ہیں؟</string>
+    <string name="Cancel">منسوخ کریں۔</string>
+    <string name="Exit">باہر نکلیں</string>
+    <string name="SelectAppLanguage">ایپ کی زبان منتخب کریں۔</string>
+    <string name="Ok">ٹھیک ہے</string>
+    <string name="Copy">کاپی</string>
+    <string name="FullScreen">مکمل اسکرین یا بڑی اسکرین</string>
+    <string name="ClearTitle">صاف</string>
+    <string name="ClearConversationMsg">کیا آپ واقعی بات چیت کو صاف کرنا چاہتے ہیں؟</string>
+    <string name="Yes">جی ہاں</string>
+    <string name="No">نہیں</string>
+    <string name="SelectLanguage">زبان منتخب کریں۔</string>
+    <string name="Downloading">ڈاؤن لوڈ ہو رہا ہے۔</string>
+    <string name="DownloadDialogMsg">براہ کرم جب تک آپ کا ماڈل ڈاؤن لوڈ ہو رہا ہو انتظار کریں۔</string>
+    <string name="Download">ڈاؤن لوڈ کریں</string>
+    <string name="DownloadModel">ماڈل ڈاؤن لوڈ کریں۔</string>
+    <string name="DownloadModelDialogMsg">اس زبان کو منتخب کرنے سے پہلے آپ کو پہلے ماڈل ڈاؤن لوڈ کرنے کی ضرورت ہے۔</string>
+    <string name="UseWifiMsg">آپ سیلولر نیٹ ورک استعمال کر رہے ہیں۔ ماڈل ڈاؤن لوڈ کرنے کے لیے براہ کرم وائی فائی کا استعمال کریں۔</string>
+    <string name="Searching">تلاش کر رہا ہے۔</string>
+    <string name="NotFound">نہیں ملا</string>
+    <string name="Image">تصویر :</string>
+    <string name="PleaseConnectToInternet">براہ کرم انٹرنیٹ سے جڑیں۔</string>
+    <string name="NotFoundMsg">آپ جس لفظ کی تلاش کر رہے ہیں وہ ہماری لغت میں نہیں ہے۔</string>
+    <string name="NoTextFoundToShare">اشتراک کرنے کے لیے کوئی متن نہیں ملا</string>
+    <string name="NoTranslationFoundToShare">اشتراک کرنے کے لیے کوئی ترجمہ نہیں ملا</string>
+    <string name="NoTranslationFoundToCopy">کاپی کرنے کے لیے کوئی ترجمہ نہیں ملا</string>
+    <string name="NoTextFoundToCopy">کاپی کرنے کے لیے کوئی متن نہیں ملا</string>
+    <string name="NoTextToSpeak">بولنے کے لیے کوئی متن نہیں۔</string>
+    <string name="LanguageDetected">زبان کا پتہ چلا</string>
+    <string name="OCRImage">او سی آر امیج</string>
+    <string name="OCRTranslation">او سی آر ترجمہ</string>
+    <string name="CopiedToClipboard">کلپ بورڈ پر کاپی ہو گیا۔</string>
+    <string name="ChooseLanguageFirst">آگے بڑھنے سے پہلے پہلے زبان کا انتخاب کریں۔</string>
+    <string name="EnterTextToTranslate">ترجمہ کرنے کے لیے متن درج کریں۔</string>
+    <string name="TextFromImage">تصویر سے متن</string>
+    <string name="GettingText">متن حاصل کرنا</string>
+    <string name="PleaseEnterWordToSearchInDictionary">تلاش کرنے کے لیے کچھ لفظ درج کریں۔</string>
+    <string name="Translating">ترجمہ کرنا</string>
+    <string name="PermissionsNotGranted">اجازت نہیں دی گئی۔</string>
+    <string name="CameraPermissionsMsg">براہ کرم تصویر کیپچر کرنے کے لیے کیمرے کی اجازت دیں۔</string>
+    <string name="StoragePermissionsMsg">براہ کرم گیلری سے تصویر حاصل کرنے کے لیے اندرونی اسٹوریج کی اجازت دیں۔</string>
+    <string name="GrantPermissionsBtn">اجازتیں دیں۔</string>
+    <string name="ad_is_loading">اشتہار لوڈ ہو رہا ہے۔</string>
+    <string name="ooooppss_network_not_available">Ooooppss نیٹ ورک دستیاب نہیں ہے۔</string>
+    <string name="internet_warning_message">اوہ، انٹرنیٹ متصل نہیں ہے۔ برائے مہربانی ڈکشنری کا استعمال کرنے کے لئے انٹرنیٹ سے جڑیں۔</string>
+
+</resources>

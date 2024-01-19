@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">นักแปลภาษา</string>
+  <string name="app_title">นักแปลภาษา</string>
+  <string name="home">แปลภาษา</string>
+  <string name="shareVia">แชร์ผ่าน</string>
+  <string name="LanguageTranslator">นักแปลภาษา</string>
+  <string name="Translate">แปลภาษา</string>
+  <string name="Conversation">การสนทนา</string>
+  <string name="OCR">สคบ</string>
+  <string name="Dictionary">พจนานุกรมอังกฤษ</string>
+  <string name="SearchWord">คำค้น</string>
+  <string name="ShareWithFriends">แบ่งปันกับเพื่อน</string>
+  <string name="ChangeLanguage">เปลี่ยนภาษา</string>
+  <string name="PrivacyPolicy">นโยบายความเป็นส่วนตัว</string>
+  <string name="Gallery">แกลลอรี่</string>
+  <string name="Camera">กล้อง</string>
+  <string name="DoYouWantToExit">คุณต้องการออกจาก</string>
+  <string name="Cancel">ยกเลิก</string>
+  <string name="Exit">ทางออก</string>
+  <string name="SelectAppLanguage">เลือกภาษาของแอป</string>
+  <string name="Ok">ตกลง</string>
+  <string name="Copy">สำเนา</string>
+  <string name="FullScreen">เต็มจอ</string>
+  <string name="ClearTitle">ชัดเจน</string>
+  <string name="ClearConversationMsg">คุณแน่ใจหรือไม่ว่าต้องการล้างการสนทนา</string>
+  <string name="Yes">ใช่</string>
+  <string name="No">เลขที่</string>
+  <string name="SelectLanguage">เลือกภาษา</string>
+  <string name="Downloading">กำลังดาวน์โหลด</string>
+  <string name="DownloadDialogMsg">โปรดรอสักครู่ในขณะที่โมเดลของคุณกำลังดาวน์โหลด</string>
+  <string name="Download">ดาวน์โหลด</string>
+  <string name="DownloadModel">ดาวน์โหลดโมเดล</string>
+  <string name="DownloadModelDialogMsg">คุณต้องดาวน์โหลดโมเดลก่อนที่จะเลือกภาษานี้</string>
+  <string name="UseWifiMsg">คุณกำลังใช้เครือข่ายเซลลูลาร์ โปรดใช้ Wifi เพื่อดาวน์โหลดโมเดล</string>
+  <string name="Searching">กำลังค้นหา</string>
+  <string name="NotFound">ไม่พบ</string>
+  <string name="Image">ภาพ :</string>
+  <string name="PleaseConnectToInternet">กรุณาเชื่อมต่ออินเทอร์เน็ต</string>
+  <string name="NotFoundMsg">ไม่พบคำที่คุณกำลังมองหาในพจนานุกรมของเรา</string>
+  <string name="NoTextFoundToShare">ไม่พบข้อความที่จะแบ่งปัน</string>
+  <string name="NoTranslationFoundToShare">ไม่พบคำแปลที่จะแบ่งปัน</string>
+  <string name="NoTranslationFoundToCopy">ไม่พบคำแปลที่จะคัดลอก</string>
+  <string name="NoTextFoundToCopy">ไม่พบข้อความที่จะคัดลอก</string>
+  <string name="NoTextToSpeak">ไม่มีข้อความที่จะพูด</string>
+  <string name="LanguageDetected">ตรวจพบภาษา</string>
+  <string name="OCRImage">รูปภาพ OCR</string>
+  <string name="OCRTranslation">การแปล OCR</string>
+  <string name="CopiedToClipboard">คัดลอกไปที่คลิปบอร์ดแล้ว</string>
+  <string name="ChooseLanguageFirst">เลือกภาษาก่อนดำเนินการต่อ</string>
+  <string name="EnterTextToTranslate">ป้อนข้อความที่จะแปล</string>
+  <string name="TextFromImage">ข้อความจากภาพ</string>
+  <string name="GettingText">รับข้อความ</string>
+  <string name="PleaseEnterWordToSearchInDictionary">กรุณาป้อนคำที่ต้องการค้นหา</string>
+  <string name="Translating">กำลังแปล</string>
+  <string name="PermissionsNotGranted">ไม่ได้รับสิทธิ์</string>
+  <string name="CameraPermissionsMsg">โปรดให้สิทธิ์กล้องในการจับภาพ</string>
+  <string name="StoragePermissionsMsg">โปรดให้สิทธิ์พื้นที่เก็บข้อมูลภายในเพื่อรับรูปภาพจากแกลเลอรี</string>
+  <string name="GrantPermissionsBtn">ให้สิทธิ์</string>
+  <string name="ad_is_loading">กำลังโหลดโฆษณา</string>
+  <string name="ooooppss_network_not_available">เครือข่าย Ooooppss ไม่พร้อมใช้งาน</string>
+  <string name="internet_warning_message">โอ้ป เคล็ด อินเทอร์เน็ตไม่เชื่อมต่อ โปรดเชื่อมต่อกับอินเทอร์เน็ตเพื่อใช้พจนานุกรม</string>
+
+</resources>

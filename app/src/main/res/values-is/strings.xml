@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Tungumálaþýðandi</string>
+  <string name="home">Heim</string>
+  <string name="shareVia">Deildu í gegnum</string>
+  <string name="LanguageTranslator">Tungumálaþýðandi</string>
+  <string name="Translate">Þýða</string>
+  <string name="Conversation">Samtal</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Orðabók</string>
+  <string name="SearchWord">Leitarorð</string>
+  <string name="ShareWithFriends">Deila með vinum</string>
+  <string name="ChangeLanguage">Skipta um tungumál</string>
+  <string name="PrivacyPolicy">Friðhelgisstefna</string>
+  <string name="Gallery">Gallerí</string>
+  <string name="Camera">Myndavél</string>
+  <string name="DoYouWantToExit">Viltu hætta</string>
+  <string name="Cancel">Hætta við</string>
+  <string name="Exit">Hætta</string>
+  <string name="SelectAppLanguage">Veldu App Tungumál</string>
+  <string name="Ok">Allt í lagi</string>
+  <string name="Copy">Afrita</string>
+  <string name="FullScreen">Fullur skjár</string>
+  <string name="ClearTitle">Hreinsa</string>
+  <string name="ClearConversationMsg">Ertu viss um að þú viljir hreinsa samtalið?</string>
+  <string name="Yes">Já</string>
+  <string name="No">Nei</string>
+  <string name="SelectLanguage">Veldu tungumál</string>
+  <string name="Downloading">Niðurhal</string>
+  <string name="DownloadDialogMsg">Vinsamlegast bíddu á meðan líkanið þitt er að hlaða niður</string>
+  <string name="Download">Sækja</string>
+  <string name="DownloadModel">Sækja líkan</string>
+  <string name="DownloadModelDialogMsg">Þú þarft að hlaða niður líkaninu fyrst áður en þú velur þetta tungumál</string>
+  <string name="UseWifiMsg">Þú ert að nota farsímakerfi. Vinsamlegast notaðu Wifi til að hlaða niður líkaninu</string>
+  <string name="Searching">Leita</string>
+  <string name="NotFound">Ekki fundið</string>
+  <string name="Image">Mynd:</string>
+  <string name="PleaseConnectToInternet">Vinsamlegast tengdu við internetið</string>
+  <string name="NotFoundMsg">Orðið sem þú ert að leita að finnst ekki í orðabókinni okkar</string>
+  <string name="NoTextFoundToShare">Enginn texti fannst til að deila</string>
+  <string name="NoTranslationFoundToShare">Engin þýðing fannst til að deila</string>
+  <string name="NoTranslationFoundToCopy">Engin þýðing fannst til að afrita</string>
+  <string name="NoTextFoundToCopy">Enginn texti fannst til að afrita</string>
+  <string name="NoTextToSpeak">Enginn texti til að tala</string>
+  <string name="LanguageDetected">Tungumál greint</string>
+  <string name="OCRImage">OCR mynd</string>
+  <string name="OCRTranslation">OCR þýðing</string>
+  <string name="CopiedToClipboard">Afritað á klippiborð</string>
+  <string name="ChooseLanguageFirst">Veldu Tungumál fyrst áður en þú heldur áfram</string>
+  <string name="EnterTextToTranslate">Sláðu inn texta til að þýða</string>
+  <string name="TextFromImage">Texti úr mynd</string>
+  <string name="GettingText">Að sækja texta</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Vinsamlegast sláðu inn orð til að leita</string>
+  <string name="Translating">Þýðandi</string>
+  <string name="PermissionsNotGranted">Leyfi ekki veitt</string>
+  <string name="CameraPermissionsMsg">Vinsamlegast veittu myndavélarheimildir til að taka mynd</string>
+  <string name="StoragePermissionsMsg">Vinsamlegast veittu innri geymsluheimildir til að fá mynd úr myndasafni</string>
+  <string name="GrantPermissionsBtn">Veita leyfi</string>
+</resources>

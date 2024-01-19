@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Лангуаге Транслатор</string>
+  <string name="home">Кућа</string>
+  <string name="shareVia">Делите путем</string>
+  <string name="LanguageTranslator">Лангуаге Транслатор</string>
+  <string name="Translate">Превести</string>
+  <string name="Conversation">Разговор</string>
+  <string name="OCR">ОЦР</string>
+  <string name="Dictionary">Речник</string>
+  <string name="SearchWord">Тражи реч</string>
+  <string name="ShareWithFriends">Подели са пријатељима</string>
+  <string name="ChangeLanguage">Промени језик</string>
+  <string name="PrivacyPolicy">Правила о приватности</string>
+  <string name="Gallery">Галерија</string>
+  <string name="Camera">Камера</string>
+  <string name="DoYouWantToExit">Да ли желите да изађете</string>
+  <string name="Cancel">Поништити, отказати</string>
+  <string name="Exit">Изађи</string>
+  <string name="SelectAppLanguage">Изаберите Језик апликације</string>
+  <string name="Ok">У реду</string>
+  <string name="Copy">Копирај</string>
+  <string name="FullScreen">Цео екран</string>
+  <string name="ClearTitle">Јасно</string>
+  <string name="ClearConversationMsg">Да ли сте сигурни да желите да обришете конверзацију?</string>
+  <string name="Yes">Да</string>
+  <string name="No">Не</string>
+  <string name="SelectLanguage">Изаберите Језик</string>
+  <string name="Downloading">Преузимање</string>
+  <string name="DownloadDialogMsg">Сачекајте док се ваш модел преузима</string>
+  <string name="Download">Преузимање</string>
+  <string name="DownloadModel">Преузмите модел</string>
+  <string name="DownloadModelDialogMsg">Морате прво да преузмете модел пре него што изаберете овај језик</string>
+  <string name="UseWifiMsg">Користите мобилну мрежу. Користите Ви-Фи за преузимање модела</string>
+  <string name="Searching">У потрази</string>
+  <string name="NotFound">Није пронађен</string>
+  <string name="Image">Слика :</string>
+  <string name="PleaseConnectToInternet">Повежите се на интернет</string>
+  <string name="NotFoundMsg">Реч коју тражите не налази се у нашем речнику</string>
+  <string name="NoTextFoundToShare">Није пронађен текст за дељење</string>
+  <string name="NoTranslationFoundToShare">Није пронађен превод за дељење</string>
+  <string name="NoTranslationFoundToCopy">Није пронађен превод за копирање</string>
+  <string name="NoTextFoundToCopy">Није пронађен текст за копирање</string>
+  <string name="NoTextToSpeak">Нема текста за изговор</string>
+  <string name="LanguageDetected">Језик је откривен</string>
+  <string name="OCRImage">ОЦР слика</string>
+  <string name="OCRTranslation">ОЦР превод</string>
+  <string name="CopiedToClipboard">Копирано у међуспремник</string>
+  <string name="ChooseLanguageFirst">Прво изаберите Језик пре него што наставите даље</string>
+  <string name="EnterTextToTranslate">Унесите текст за превод</string>
+  <string name="TextFromImage">Текст са слике</string>
+  <string name="GettingText">Добијање текста</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Унесите неку реч за претрагу</string>
+  <string name="Translating">Превођење</string>
+  <string name="PermissionsNotGranted">Дозволе нису одобрене</string>
+  <string name="CameraPermissionsMsg">Дајте камери дозволе за снимање слике</string>
+  <string name="StoragePermissionsMsg">Дајте дозволе за интерну меморију да бисте преузели слику из галерије</string>
+  <string name="GrantPermissionsBtn">Дајте дозволе</string>
+</resources>

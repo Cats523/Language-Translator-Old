@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Перакладчык мовы</string>
+  <string name="app_title">Перакладчык мовы</string>
+  <string name="home">Дадому</string>
+  <string name="shareVia">Падзяліцца праз</string>
+  <string name="LanguageTranslator">Перакладчык мовы</string>
+  <string name="Translate">Перакласці</string>
+  <string name="Conversation">Гутарка</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Слоўнік</string>
+  <string name="SearchWord">Пошукавае слова</string>
+  <string name="ShareWithFriends">Падзяліцеся з сябрамі</string>
+  <string name="ChangeLanguage">Змяніць мову</string>
+  <string name="PrivacyPolicy">Палітыка прыватнасці</string>
+  <string name="Gallery">Галерэя</string>
+  <string name="Camera">Камера</string>
+  <string name="DoYouWantToExit">Вы хочаце выйсці</string>
+  <string name="Cancel">Адмяніць</string>
+  <string name="Exit">Выхад</string>
+  <string name="SelectAppLanguage">Выберыце мову праграмы</string>
+  <string name="Ok">Добра</string>
+  <string name="Copy">Копія</string>
+  <string name="FullScreen">Поуны экран</string>
+  <string name="ClearTitle">Ясна</string>
+  <string name="ClearConversationMsg">Вы ўпэўнены, што хочаце ачысціць размову?</string>
+  <string name="Yes">Так</string>
+  <string name="No">Няма</string>
+  <string name="SelectLanguage">Выберыце мову</string>
+  <string name="Downloading">Ідзе загрузка</string>
+  <string name="DownloadDialogMsg">Калі ласка, пачакайце, пакуль ваша мадэль спампоўваецца</string>
+  <string name="Download">Спампаваць</string>
+  <string name="DownloadModel">Спампаваць мадэль</string>
+  <string name="DownloadModelDialogMsg">Перш чым выбраць гэту мову, спачатку трэба загрузіць мадэль</string>
+  <string name="UseWifiMsg">Вы карыстаецеся сотавай сеткай. Каб спампаваць мадэль, выкарыстоўвайце Wi-Fi</string>
+  <string name="Searching">Пошук</string>
+  <string name="NotFound">Не знойдзены</string>
+  <string name="Image">Выява:</string>
+  <string name="PleaseConnectToInternet">Калі ласка, падключыцеся да Інтэрнэту</string>
+  <string name="NotFoundMsg">Слова, якое вы шукаеце, не знойдзена ў нашым слоўніку</string>
+  <string name="NoTextFoundToShare">Не знойдзены тэкст для абагулення</string>
+  <string name="NoTranslationFoundToShare">Пераклад для абагульвання не знойдзены</string>
+  <string name="NoTranslationFoundToCopy">Не знойдзены пераклад для капіравання</string>
+  <string name="NoTextFoundToCopy">Не знойдзены тэкст для капіравання</string>
+  <string name="NoTextToSpeak">Няма тэксту для размовы</string>
+  <string name="LanguageDetected">Мова выяўлена</string>
+  <string name="OCRImage">Відарыс OCR</string>
+  <string name="OCRTranslation">Пераклад OCR</string>
+  <string name="CopiedToClipboard">Скапіравана ў буфер абмену</string>
+  <string name="ChooseLanguageFirst">Перш чым працягваць далей, абярыце мову</string>
+  <string name="EnterTextToTranslate">Увядзіце тэкст для перакладу</string>
+  <string name="TextFromImage">Тэкст з малюнка</string>
+  <string name="GettingText">Атрыманне тэксту</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Калі ласка, увядзіце слова для пошуку</string>
+  <string name="Translating">Перакладаючы</string>
+  <string name="PermissionsNotGranted">Дазволы не прадастаўлены</string>
+  <string name="CameraPermissionsMsg">Калі ласка, дайце камеры дазвол на захоп выявы</string>
+  <string name="StoragePermissionsMsg">Калі ласка, дайце дазвол на ўнутранае сховішча, каб атрымаць выяву з галерэі</string>
+  <string name="GrantPermissionsBtn">Даць дазволы</string>
+
+</resources>

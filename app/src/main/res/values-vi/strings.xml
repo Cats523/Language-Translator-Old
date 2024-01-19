@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Người thông dịch ngôn ngữ</string>
+  <string name="app_title">Người thông dịch ngôn ngữ</string>
+  <string name="home">Dịch</string>
+  <string name="shareVia">Chia sẻ qua</string>
+  <string name="LanguageTranslator">Người thông dịch ngôn ngữ</string>
+  <string name="Translate">Dịch</string>
+  <string name="Conversation">Cuộc hội thoại</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Từ điển tiếng Anh</string>
+  <string name="SearchWord">Từ tìm kiếm</string>
+  <string name="ShareWithFriends">Chia sẻ với bạn bè</string>
+  <string name="ChangeLanguage">Thay đổi ngôn ngữ</string>
+  <string name="PrivacyPolicy">Chính sách bảo mật</string>
+  <string name="Gallery">Phòng trưng bày</string>
+  <string name="Camera">Máy ảnh</string>
+  <string name="DoYouWantToExit">Bạn có muốn thoát không</string>
+  <string name="Cancel">Hủy bỏ</string>
+  <string name="Exit">Lối ra</string>
+  <string name="SelectAppLanguage">Chọn ngôn ngữ ứng dụng</string>
+  <string name="Ok">ĐƯỢC RỒI</string>
+  <string name="Copy">Sao chép</string>
+  <string name="FullScreen">Toàn màn hình</string>
+  <string name="ClearTitle">Thông thoáng</string>
+  <string name="ClearConversationMsg">Bạn có chắc chắn muốn xóa cuộc hội thoại?</string>
+  <string name="Yes">Đúng</string>
+  <string name="No">KHÔNG</string>
+  <string name="SelectLanguage">Chọn ngôn ngữ</string>
+  <string name="Downloading">Đang tải xuống</string>
+  <string name="DownloadDialogMsg">Vui lòng đợi trong khi mô hình của bạn đang tải xuống</string>
+  <string name="Download">Tải xuống</string>
+  <string name="DownloadModel">Tải xuống mô hình</string>
+  <string name="DownloadModelDialogMsg">Bạn cần tải xuống mô hình trước khi chọn ngôn ngữ này</string>
+  <string name="UseWifiMsg">Bạn đang sử dụng mạng di động. Vui lòng sử dụng Wifi để tải xuống mô hình</string>
+  <string name="Searching">Đang tìm kiếm</string>
+  <string name="NotFound">Không tìm thấy</string>
+  <string name="Image">Hình ảnh :</string>
+  <string name="PleaseConnectToInternet">Vui lòng kết nối với internet</string>
+  <string name="NotFoundMsg">Từ bạn đang tìm không có trong từ điển của chúng tôi</string>
+  <string name="NoTextFoundToShare">Không tìm thấy văn bản để chia sẻ</string>
+  <string name="NoTranslationFoundToShare">Không tìm thấy bản dịch nào để chia sẻ</string>
+  <string name="NoTranslationFoundToCopy">Không tìm thấy bản dịch nào để sao chép</string>
+  <string name="NoTextFoundToCopy">Không tìm thấy văn bản để sao chép</string>
+  <string name="NoTextToSpeak">Không có văn bản để nói</string>
+  <string name="LanguageDetected">Đã phát hiện ngôn ngữ</string>
+  <string name="OCRImage">Hình ảnh OCR</string>
+  <string name="OCRTranslation">Bản dịch OCR</string>
+  <string name="CopiedToClipboard">Sao chép vào clipboard</string>
+  <string name="ChooseLanguageFirst">Chọn Ngôn ngữ trước khi bạn tiếp tục</string>
+  <string name="EnterTextToTranslate">Nhập văn bản để dịch</string>
+  <string name="TextFromImage">Văn bản từ hình ảnh</string>
+  <string name="GettingText">Nhận văn bản</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Vui lòng nhập một số từ để tìm kiếm</string>
+  <string name="Translating">Phiên dịch</string>
+  <string name="PermissionsNotGranted">Quyền không được cấp</string>
+  <string name="CameraPermissionsMsg">Vui lòng cấp quyền cho máy ảnh để chụp ảnh</string>
+  <string name="StoragePermissionsMsg">Vui lòng cấp quyền lưu trữ nội bộ để tải hình ảnh từ thư viện</string>
+  <string name="GrantPermissionsBtn">Cấp quyền</string>
+  <string name="ooooppss_network_not_available">Rất tiếc, mạng không khả dụng</string>
+  <string name="ad_is_loading">Quảng cáo đang tải</string>
+  <string name="internet_warning_message">Oops, Internet không kết nối. Vui lòng kết nối với Internet để sử dụng từ điển.</string>
+
+</resources>

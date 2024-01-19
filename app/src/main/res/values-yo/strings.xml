@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Onitumọ ede</string>
+  <string name="home">Ile</string>
+  <string name="shareVia">Pin nipasẹ</string>
+  <string name="LanguageTranslator">Onitumọ ede</string>
+  <string name="Translate">Tumọ</string>
+  <string name="Conversation">Ifọrọwanilẹnuwo</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Iwe-itumọ</string>
+  <string name="SearchWord">Wa ọrọ</string>
+  <string name="ShareWithFriends">Pin pẹlu awọn ọrẹ</string>
+  <string name="ChangeLanguage">Yi ede pada</string>
+  <string name="PrivacyPolicy">Asiri Afihan</string>
+  <string name="Gallery">Ile aworan</string>
+  <string name="Camera">Kamẹra</string>
+  <string name="DoYouWantToExit">Ṣe o fẹ lati jade</string>
+  <string name="Cancel">Fagilee</string>
+  <string name="Exit">Jade</string>
+  <string name="SelectAppLanguage">Yan Èdè App</string>
+  <string name="Ok">O DARA</string>
+  <string name="Copy">Daakọ</string>
+  <string name="FullScreen">Gbogbo sikirini</string>
+  <string name="ClearTitle">Ko o</string>
+  <string name="ClearConversationMsg">Ṣe o da ọ loju pe o fẹ mu ibaraẹnisọrọ naa kuro?</string>
+  <string name="Yes">Bẹẹni</string>
+  <string name="No">Rara</string>
+  <string name="SelectLanguage">Yan Ede</string>
+  <string name="Downloading">Gbigba lati ayelujara</string>
+  <string name="DownloadDialogMsg">Jọwọ duro lakoko ti awoṣe rẹ n ṣe igbasilẹ</string>
+  <string name="Download">Gba lati ayelujara</string>
+  <string name="DownloadModel">Gbigba Awoṣe</string>
+  <string name="DownloadModelDialogMsg">O nilo lati ṣe igbasilẹ awoṣe ni akọkọ ṣaaju ki o to yan ede yii</string>
+  <string name="UseWifiMsg">O nlo netiwọki alagbeka. Jọwọ lo Wifi lati ṣe igbasilẹ awoṣe naa</string>
+  <string name="Searching">Wiwa</string>
+  <string name="NotFound">Ko ri</string>
+  <string name="Image">Aworan:</string>
+  <string name="PleaseConnectToInternet">Jọwọ sopọ si intanẹẹti</string>
+  <string name="NotFoundMsg">Ọrọ ti o n wa ko ri ninu iwe-itumọ wa</string>
+  <string name="NoTextFoundToShare">Ko si ọrọ ti a rii lati pin</string>
+  <string name="NoTranslationFoundToShare">Ko si itumọ lati pin</string>
+  <string name="NoTranslationFoundToCopy">Ko si itumọ lati daakọ</string>
+  <string name="NoTextFoundToCopy">Ko si ọrọ ti a rii lati daakọ</string>
+  <string name="NoTextToSpeak">Ko si ọrọ lati sọ</string>
+  <string name="LanguageDetected">Awari Ede</string>
+  <string name="OCRImage">Aworan OCR</string>
+  <string name="OCRTranslation">Itumọ OCR</string>
+  <string name="CopiedToClipboard">Ti daakọ si agekuru agekuru</string>
+  <string name="ChooseLanguageFirst">Yan Ede ni akọkọ ṣaaju ki o to tẹsiwaju eyikeyi siwaju</string>
+  <string name="EnterTextToTranslate">Tẹ ọrọ sii lati tumọ</string>
+  <string name="TextFromImage">Ọrọ lati aworan</string>
+  <string name="GettingText">Ngba ọrọ</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Jọwọ tẹ ọrọ diẹ sii lati wa</string>
+  <string name="Translating">Itumọ</string>
+  <string name="PermissionsNotGranted">Awọn igbanilaaye ko fun</string>
+  <string name="CameraPermissionsMsg">Jọwọ fun awọn igbanilaaye kamẹra lati ya aworan</string>
+  <string name="StoragePermissionsMsg">Jọwọ fun awọn igbanilaaye ibi ipamọ inu lati gba aworan lati ibi-iṣafihan</string>
+  <string name="GrantPermissionsBtn">Awọn igbanilaaye fifunni</string>
+</resources>

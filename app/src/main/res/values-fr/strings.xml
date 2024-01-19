@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Traducteur de la langue</string>
+  <string name="app_title">Traducteur de la langue</string>
+  <string name="home">Maison</string>
+  <string name="shareVia">Partage via</string>
+  <string name="LanguageTranslator">Traducteur de la langue</string>
+  <string name="Translate">Traduire</string>
+  <string name="Conversation">Conversation</string>
+  <string name="OCR">ROC</string>
+  <string name="Dictionary">Dictionnaire</string>
+  <string name="SearchWord">Mot de recherche</string>
+  <string name="ShareWithFriends">Partager avec des amis</string>
+  <string name="ChangeLanguage">Changer de langue</string>
+  <string name="PrivacyPolicy">Politique de confidentialité</string>
+  <string name="Gallery">Galerie</string>
+  <string name="Camera">Caméra</string>
+  <string name="DoYouWantToExit">Voulez-vous sortir</string>
+  <string name="Cancel">Annuler</string>
+  <string name="Exit">Sortie</string>
+  <string name="SelectAppLanguage">Sélectionnez la langue de l\'application</string>
+  <string name="Ok">D\'ACCORD</string>
+  <string name="Copy">Copie</string>
+  <string name="FullScreen">Plein écran</string>
+  <string name="ClearTitle">Clair</string>
+  <string name="ClearConversationMsg">Voulez-vous vraiment effacer la conversation ?</string>
+  <string name="Yes">Oui</string>
+  <string name="No">Non</string>
+  <string name="SelectLanguage">Choisir la langue</string>
+  <string name="Downloading">Téléchargement</string>
+  <string name="DownloadDialogMsg">Veuillez patienter pendant le téléchargement de votre modèle</string>
+  <string name="Download">Télécharger</string>
+  <string name="DownloadModel">Télécharger le modèle</string>
+  <string name="DownloadModelDialogMsg">Vous devez d\'abord télécharger le modèle avant de sélectionner cette langue</string>
+  <string name="UseWifiMsg">Vous utilisez le réseau cellulaire. Veuillez utiliser le Wifi pour télécharger le modèle</string>
+  <string name="Searching">Recherche</string>
+  <string name="NotFound">Pas trouvé</string>
+  <string name="Image">Image :</string>
+  <string name="PleaseConnectToInternet">Veuillez vous connecter à Internet</string>
+  <string name="NotFoundMsg">Le mot que vous cherchez ne se trouve pas dans notre dictionnaire</string>
+  <string name="NoTextFoundToShare">Aucun texte trouvé à partager</string>
+  <string name="NoTranslationFoundToShare">Aucune traduction trouvée à partager</string>
+  <string name="NoTranslationFoundToCopy">Aucune traduction trouvée à copier</string>
+  <string name="NoTextFoundToCopy">Aucun texte trouvé à copier</string>
+  <string name="NoTextToSpeak">Pas de texte à prononcer</string>
+  <string name="LanguageDetected">Langue détectée</string>
+  <string name="OCRImage">Image ROC</string>
+  <string name="OCRTranslation">Traduction OCR</string>
+  <string name="CopiedToClipboard">Copié dans le presse-papier</string>
+  <string name="ChooseLanguageFirst">Choisissez d\'abord la langue avant de continuer</string>
+  <string name="EnterTextToTranslate">Entrez le texte à traduire</string>
+  <string name="TextFromImage">Texte de l\'image</string>
+  <string name="GettingText">Obtenir du texte</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Veuillez saisir un mot à rechercher</string>
+  <string name="Translating">Traduction en cours</string>
+  <string name="PermissionsNotGranted">Autorisations non accordées</string>
+  <string name="CameraPermissionsMsg">Veuillez accorder les autorisations à la caméra pour capturer l\'image</string>
+  <string name="StoragePermissionsMsg">Veuillez accorder des autorisations de stockage interne pour obtenir l\'image de la galerie</string>
+  <string name="GrantPermissionsBtn">Accorder des autorisations</string>
+</resources>

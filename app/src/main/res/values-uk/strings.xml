@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Мовний перекладач</string>
+  <string name="app_title">Мовний перекладач</string>
+  <string name="home">Перекласти</string>
+  <string name="shareVia">Поділитися через</string>
+  <string name="LanguageTranslator">Мовний перекладач</string>
+  <string name="Translate">Перекласти</string>
+  <string name="Conversation">Розмова</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Англійський словник</string>
+  <string name="SearchWord">Пошукове слово</string>
+  <string name="ShareWithFriends">Поділися з друзями</string>
+  <string name="ChangeLanguage">Змінити мову</string>
+  <string name="PrivacyPolicy">Політика конфіденційності</string>
+  <string name="Gallery">Галерея</string>
+  <string name="Camera">Камера</string>
+  <string name="DoYouWantToExit">Ви хочете вийти</string>
+  <string name="Cancel">Скасувати</string>
+  <string name="Exit">Вихід</string>
+  <string name="SelectAppLanguage">Виберіть мову програми</string>
+  <string name="Ok">В порядку</string>
+  <string name="Copy">Копіювати</string>
+  <string name="FullScreen">Повноекранний</string>
+  <string name="ClearTitle">Ясно</string>
+  <string name="ClearConversationMsg">Ви впевнені, що бажаєте очистити розмову?</string>
+  <string name="Yes">Так</string>
+  <string name="No">Немає</string>
+  <string name="SelectLanguage">Оберіть мову</string>
+  <string name="Downloading">Завантаження</string>
+  <string name="DownloadDialogMsg">Зачекайте, поки ваша модель завантажується</string>
+  <string name="Download">Завантажити</string>
+  <string name="DownloadModel">Завантажити модель</string>
+  <string name="DownloadModelDialogMsg">Вам потрібно спочатку завантажити модель, перш ніж вибрати цю мову</string>
+  <string name="UseWifiMsg">Ви використовуєте стільникову мережу. Щоб завантажити модель, використовуйте Wi-Fi</string>
+  <string name="Searching">Пошук</string>
+  <string name="NotFound">Не знайдено</string>
+  <string name="Image">Зображення:</string>
+  <string name="PleaseConnectToInternet">Підключіться до Інтернету</string>
+  <string name="NotFoundMsg">Слово, яке ви шукаєте, не знайдено в нашому словнику</string>
+  <string name="NoTextFoundToShare">Не знайдено тексту для спільного використання</string>
+  <string name="NoTranslationFoundToShare">Не знайдено перекладу для спільного використання</string>
+  <string name="NoTranslationFoundToCopy">Не знайдено перекладу для копіювання</string>
+  <string name="NoTextFoundToCopy">Не знайдено тексту для копіювання</string>
+  <string name="NoTextToSpeak">Немає тексту для розмови</string>
+  <string name="LanguageDetected">Виявлено мову</string>
+  <string name="OCRImage">OCR зображення</string>
+  <string name="OCRTranslation">OCR переклад</string>
+  <string name="CopiedToClipboard">Скопійовано в буфер обміну</string>
+  <string name="ChooseLanguageFirst">Перш ніж продовжувати, виберіть мову</string>
+  <string name="EnterTextToTranslate">Введіть текст для перекладу</string>
+  <string name="TextFromImage">Текст із зображення</string>
+  <string name="GettingText">Отримання тексту</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Будь ласка, введіть слово для пошуку</string>
+  <string name="Translating">Перекладаючи</string>
+  <string name="PermissionsNotGranted">Дозволи не надано</string>
+  <string name="CameraPermissionsMsg">Надайте дозволи камері, щоб зробити зображення</string>
+  <string name="StoragePermissionsMsg">Надайте дозволи на внутрішню пам’ять, щоб отримати зображення з галереї</string>
+  <string name="GrantPermissionsBtn">Надати дозволи</string>
+  <string name="ad_is_loading">Оголошення завантажується</string>
+  <string name="ooooppss_network_not_available">Мережа Ooooppss недоступна.</string>
+  <string name="internet_warning_message">Ой, Інтернет не підключено. Будь ласка, підключіться до Інтернету для використання словника.</string>
+
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">言語翻訳者</string>
+  <string name="app_title">言語翻訳者</string>
+  <string name="home">翻訳する</string>
+  <string name="shareVia">経由で共有</string>
+  <string name="LanguageTranslator">言語翻訳者</string>
+  <string name="Translate">翻訳</string>
+  <string name="Conversation">会話</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">英和辞典</string>
+  <string name="SearchWord">検索ワード</string>
+  <string name="ShareWithFriends">友人たちと分ける</string>
+  <string name="ChangeLanguage">言語を変えてください</string>
+  <string name="PrivacyPolicy">プライバシーポリシー</string>
+  <string name="Gallery">ギャラリー</string>
+  <string name="Camera">カメラ</string>
+  <string name="DoYouWantToExit">終了しますか</string>
+  <string name="Cancel">キャンセル</string>
+  <string name="Exit">出口</string>
+  <string name="SelectAppLanguage">アプリの言語を選択</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">コピー</string>
+  <string name="FullScreen">全画面表示</string>
+  <string name="ClearTitle">クリア</string>
+  <string name="ClearConversationMsg">会話をクリアしてもよろしいですか？</string>
+  <string name="Yes">はい</string>
+  <string name="No">いいえ</string>
+  <string name="SelectLanguage">言語を選択する</string>
+  <string name="Downloading">ダウンロード中</string>
+  <string name="DownloadDialogMsg">モデルをダウンロードしています。しばらくお待ちください</string>
+  <string name="Download">ダウンロード</string>
+  <string name="DownloadModel">モデルをダウンロード</string>
+  <string name="DownloadModelDialogMsg">この言語を選択する前に、まずモデルをダウンロードする必要があります</string>
+  <string name="UseWifiMsg">携帯電話ネットワークを使用しています。 モデルをダウンロードするには Wi-Fi を使用してください</string>
+  <string name="Searching">検索中</string>
+  <string name="NotFound">見つかりません</string>
+  <string name="Image">画像 ：</string>
+  <string name="PleaseConnectToInternet">インターネットに接続してください</string>
+  <string name="NotFoundMsg">お探しの単語は辞書にありません</string>
+  <string name="NoTextFoundToShare">共有するテキストが見つかりません</string>
+  <string name="NoTranslationFoundToShare">共有する翻訳が見つかりません</string>
+  <string name="NoTranslationFoundToCopy">コピーする翻訳が見つかりません</string>
+  <string name="NoTextFoundToCopy">コピーするテキストが見つかりません</string>
+  <string name="NoTextToSpeak">話すテキストがありません</string>
+  <string name="LanguageDetected">検出された言語</string>
+  <string name="OCRImage">OCR 画像</string>
+  <string name="OCRTranslation">OCR翻訳</string>
+  <string name="CopiedToClipboard">クリップボードにコピーしました</string>
+  <string name="ChooseLanguageFirst">先に進む前に、まず言語を選択してください</string>
+  <string name="EnterTextToTranslate">翻訳するテキストを入力してください</string>
+  <string name="TextFromImage">画像からのテキスト</string>
+  <string name="GettingText">テキストの取得</string>
+  <string name="PleaseEnterWordToSearchInDictionary">検索する単語を入力してください</string>
+  <string name="Translating">翻訳中</string>
+  <string name="PermissionsNotGranted">権限が付与されていません</string>
+  <string name="CameraPermissionsMsg">画像をキャプチャするためのカメラ権限を付与してください</string>
+  <string name="StoragePermissionsMsg">ギャラリーから画像を取得するには、内部ストレージのアクセス許可を付与してください</string>
+  <string name="GrantPermissionsBtn">権限を付与する</string>
+  <string name="ooooppss_network_not_available">おっと、ネットワークが利用できません</string>
+  <string name="ad_is_loading">広告が読み込まれています</string>
+  <string name="internet_warning_message">おっと、インターネットに接続されていません。辞書を使用するにはインターネットに接続してください。</string>
+
+
+
+</resources>

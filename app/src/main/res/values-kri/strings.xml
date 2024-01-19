@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Di pɔsin we de translet di langwej</string>
+  <string name="home">Os</string>
+  <string name="shareVia">Share via</string>
+  <string name="LanguageTranslator">Di pɔsin we de translet di langwej</string>
+  <string name="Translate">Translet</string>
+  <string name="Conversation">Tɔk</string>
+  <string name="OCR">OCR, we dɛn kɔl OCR</string>
+  <string name="Dictionary">Dikshɔnari</string>
+  <string name="SearchWord">Sɔch wɔd</string>
+  <string name="ShareWithFriends">Sheb am wit Padi dɛn</string>
+  <string name="ChangeLanguage">Chenj Langwej</string>
+  <string name="PrivacyPolicy">Prayvesi Polisi</string>
+  <string name="Gallery">Galeriya we de na di wɔl</string>
+  <string name="Camera">Kamɛra</string>
+  <string name="DoYouWantToExit">Yu want fɔ kɔmɔt de</string>
+  <string name="Cancel">Nɔ</string>
+  <string name="Exit">Kɔmɔt</string>
+  <string name="SelectAppLanguage">Pik di Ap Langwej</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kɔpi</string>
+  <string name="FullScreen">Ful Skrin</string>
+  <string name="ClearTitle">Klia</string>
+  <string name="ClearConversationMsg">Yu shɔ se yu want fɔ klia di tɔk?</string>
+  <string name="Yes">Yɛs</string>
+  <string name="No">Nɔ</string>
+  <string name="SelectLanguage">Pik di Langwej</string>
+  <string name="Downloading">We yu de dawnlod am</string>
+  <string name="DownloadDialogMsg">Duya wet we yu mɔdel de dawnlod</string>
+  <string name="Download">Dɔŋlod</string>
+  <string name="DownloadModel">Daunlod Mɔdel</string>
+  <string name="DownloadModelDialogMsg">Yu nid fɔ dawnlod di mɔdel fɔs bifo yu pik dis langwej</string>
+  <string name="UseWifiMsg">Yu de yuz sɛlular nɛtwɔk. Duya yuz Wifi fɔ dawnlod di mɔdel</string>
+  <string name="Searching">Fɔ fɛn tin dɛn</string>
+  <string name="NotFound">Nɔ Fayn</string>
+  <string name="Image">Aydul :</string>
+  <string name="PleaseConnectToInternet">Duya, kɔnɛkt to intanɛt</string>
+  <string name="NotFoundMsg">Di wɔd we yu de luk fɔ nɔ de na wi dikshɔnari</string>
+  <string name="NoTextFoundToShare">No teks nɔ fɛn fɔ sheb</string>
+  <string name="NoTranslationFoundToShare">No transleshɔn nɔ de fɔ sheb</string>
+  <string name="NoTranslationFoundToCopy">Dɛn nɔ fɛn ɛni transleshɔn fɔ kɔpi</string>
+  <string name="NoTextFoundToCopy">Dɛn nɔ fɛn ɛni tɛks fɔ kɔpi</string>
+  <string name="NoTextToSpeak">No tɛks nɔ de fɔ tɔk</string>
+  <string name="LanguageDetected">Langwej we Dɛn Detekt</string>
+  <string name="OCRImage">OCR Imej</string>
+  <string name="OCRTranslation">OCR Transleshɔn</string>
+  <string name="CopiedToClipboard">Dɛn kɔpi am na klipbɔd</string>
+  <string name="ChooseLanguageFirst">Pik Langwej fɔs bifo yu go bifo</string>
+  <string name="EnterTextToTranslate">Ɛntay tɛks fɔ translet</string>
+  <string name="TextFromImage">Teks frɔm di pikchɔ</string>
+  <string name="GettingText">Fɔ gɛt tɛks</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Duya, rayt sɔm wɔd fɔ fɛn</string>
+  <string name="Translating">We yu de translet</string>
+  <string name="PermissionsNotGranted">Dɛn nɔ gi pɔsin di rayt fɔ du dat</string>
+  <string name="CameraPermissionsMsg">Duya gi di kamɛra pɔmishɔn fɔ tek di pikchɔ</string>
+  <string name="StoragePermissionsMsg">Duya gi intanɛnt stɔrɔj ​​pɔmishɔn fɔ gɛt pikchɔ frɔm galari</string>
+  <string name="GrantPermissionsBtn">Gi Pɛmishɔn dɛn</string>
+</resources>

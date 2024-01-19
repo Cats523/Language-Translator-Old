@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Kalbos vertėjas</string>
+  <string name="home">Namai</string>
+  <string name="shareVia">Bendrinti per</string>
+  <string name="LanguageTranslator">Kalbos vertėjas</string>
+  <string name="Translate">Išversti</string>
+  <string name="Conversation">Pokalbis</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Žodynas</string>
+  <string name="SearchWord">Paieškos žodis</string>
+  <string name="ShareWithFriends">Pasidalink su draugais</string>
+  <string name="ChangeLanguage">Pakeisti KALBĄ</string>
+  <string name="PrivacyPolicy">Privatumo politika</string>
+  <string name="Gallery">Galerija</string>
+  <string name="Camera">Fotoaparatas</string>
+  <string name="DoYouWantToExit">Ar norite išeiti</string>
+  <string name="Cancel">Atšaukti</string>
+  <string name="Exit">Išeiti</string>
+  <string name="SelectAppLanguage">Pasirinkite programos kalbą</string>
+  <string name="Ok">Gerai</string>
+  <string name="Copy">Kopijuoti</string>
+  <string name="FullScreen">Per visą ekraną</string>
+  <string name="ClearTitle">Aišku</string>
+  <string name="ClearConversationMsg">Ar tikrai norite išvalyti pokalbį?</string>
+  <string name="Yes">Taip</string>
+  <string name="No">Nr</string>
+  <string name="SelectLanguage">Pasirinkite kalbą</string>
+  <string name="Downloading">Atsisiunčiama</string>
+  <string name="DownloadDialogMsg">Palaukite, kol modelis atsisiunčiamas</string>
+  <string name="Download">Parsisiųsti</string>
+  <string name="DownloadModel">Atsisiųsti modelį</string>
+  <string name="DownloadModelDialogMsg">Prieš pasirinkdami šią kalbą, pirmiausia turite atsisiųsti modelį</string>
+  <string name="UseWifiMsg">Naudojate korinį tinklą. Norėdami atsisiųsti modelį, naudokite „Wi-Fi“.</string>
+  <string name="Searching">Ieškoma</string>
+  <string name="NotFound">Nerastas</string>
+  <string name="Image">Vaizdas :</string>
+  <string name="PleaseConnectToInternet">Prisijunkite prie interneto</string>
+  <string name="NotFoundMsg">Žodžio, kurio ieškote, mūsų žodyne nerasta</string>
+  <string name="NoTextFoundToShare">Nerasta teksto, kurį būtų galima bendrinti</string>
+  <string name="NoTranslationFoundToShare">Nerasta vertimo, kurį būtų galima bendrinti</string>
+  <string name="NoTranslationFoundToCopy">Nerasta vertimo, kurį būtų galima nukopijuoti</string>
+  <string name="NoTextFoundToCopy">Nerasta teksto, kurį būtų galima nukopijuoti</string>
+  <string name="NoTextToSpeak">Nėra teksto kalbėti</string>
+  <string name="LanguageDetected">Kalba aptikta</string>
+  <string name="OCRImage">OCR vaizdas</string>
+  <string name="OCRTranslation">OCR vertimas</string>
+  <string name="CopiedToClipboard">Nukopijuota į mainų sritį</string>
+  <string name="ChooseLanguageFirst">Prieš tęsdami, pirmiausia pasirinkite kalbą</string>
+  <string name="EnterTextToTranslate">Įveskite tekstą, kurį norite išversti</string>
+  <string name="TextFromImage">Tekstas iš paveikslėlio</string>
+  <string name="GettingText">Gaunamas tekstas</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Norėdami ieškoti, įveskite žodį</string>
+  <string name="Translating">Vertimas</string>
+  <string name="PermissionsNotGranted">Leidimai nesuteikti</string>
+  <string name="CameraPermissionsMsg">Suteikite fotoaparato leidimus fotografuoti</string>
+  <string name="StoragePermissionsMsg">Suteikite vidinės atminties leidimus, kad gautumėte vaizdą iš galerijos</string>
+  <string name="GrantPermissionsBtn">Suteikite leidimus</string>
+</resources>

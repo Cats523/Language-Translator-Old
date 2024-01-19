@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Ntụgharị asụsụ</string>
+  <string name="home">Ụlọ</string>
+  <string name="shareVia">Kekọrịta site na</string>
+  <string name="LanguageTranslator">Ntụgharị asụsụ</string>
+  <string name="Translate">Tụgharịa asụsụ</string>
+  <string name="Conversation">Mkparịta ụka</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Akwụkwọ ọkọwa okwu</string>
+  <string name="SearchWord">Chọọ okwu</string>
+  <string name="ShareWithFriends">Kekọrịta ndị enyi</string>
+  <string name="ChangeLanguage">Gbanwee Asụsụ</string>
+  <string name="PrivacyPolicy">Amụma nzuzo</string>
+  <string name="Gallery">Ụlọ ihe ngosi nka</string>
+  <string name="Camera">Igwefoto</string>
+  <string name="DoYouWantToExit">Ị chọrọ ịpụ</string>
+  <string name="Cancel">Kagbuo</string>
+  <string name="Exit">Ụzọ ọpụpụ</string>
+  <string name="SelectAppLanguage">Họrọ Asụsụ Ngwa</string>
+  <string name="Ok">Ọ DỊ MMA</string>
+  <string name="Copy">Detuo</string>
+  <string name="FullScreen">Ihuenyo zuru oke</string>
+  <string name="ClearTitle">Kpochapụ</string>
+  <string name="ClearConversationMsg">Ị ji n\'aka na ịchọrọ ikpochapụ mkparịta ụka ahụ?</string>
+  <string name="Yes">Ee</string>
+  <string name="No">Mba</string>
+  <string name="SelectLanguage">Họrọ Asụsụ</string>
+  <string name="Downloading">Nbudata</string>
+  <string name="DownloadDialogMsg">Biko chere ka ihe nlereanya gị na-ebudata</string>
+  <string name="Download">Budata</string>
+  <string name="DownloadModel">Budata ụdị</string>
+  <string name="DownloadModelDialogMsg">Ị ga-ebu ụzọ budata ihe nlereanya tupu ị họrọ asụsụ a</string>
+  <string name="UseWifiMsg">Ị na-eji netwọk ekwentị. Biko jiri wifi budata ihe nlereanya</string>
+  <string name="Searching">Na-achọ</string>
+  <string name="NotFound">Ahụghị</string>
+  <string name="Image">Foto:</string>
+  <string name="PleaseConnectToInternet">Biko jikọọ na ịntanetị</string>
+  <string name="NotFoundMsg">Achọghị okwu ị na-achọ na akwụkwọ ọkọwa okwu anyị</string>
+  <string name="NoTextFoundToShare">Ọnweghị ederede ahụrụ iji kesaa</string>
+  <string name="NoTranslationFoundToShare">Ọnweghị ntụgharị asụsụ ahụrụ iji kesaa</string>
+  <string name="NoTranslationFoundToCopy">Ọnweghị ntụgharị asụsụ ahụrụ iji detuo ya</string>
+  <string name="NoTextFoundToCopy">Ọnweghị ederede ahụrụ ka idetuo</string>
+  <string name="NoTextToSpeak">Enweghị ederede ikwu okwu</string>
+  <string name="LanguageDetected">Achọpụtara Asụsụ</string>
+  <string name="OCRImage">Foto OCR</string>
+  <string name="OCRTranslation">Ntụgharị asụsụ OCR</string>
+  <string name="CopiedToClipboard">Eṅomiri ya na klipbọọdụ</string>
+  <string name="ChooseLanguageFirst">Họrọ Asụsụ mbụ tupu ịga n\'ihu</string>
+  <string name="EnterTextToTranslate">Tinye ederede iji tụgharịa asụsụ</string>
+  <string name="TextFromImage">Ederede sitere na onyonyo</string>
+  <string name="GettingText">Inweta ederede</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Biko tinye ụfọdụ okwu ka ịchọọ</string>
+  <string name="Translating">Ịsụgharị</string>
+  <string name="PermissionsNotGranted">Enyereghị ikike</string>
+  <string name="CameraPermissionsMsg">Biko nye ikike igwefoto ka ịse foto</string>
+  <string name="StoragePermissionsMsg">Biko nye ikike nchekwa ime ka ị nweta onyonyo site na gallery</string>
+  <string name="GrantPermissionsBtn">Nnye ikike</string>
+</resources>

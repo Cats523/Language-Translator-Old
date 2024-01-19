@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Tradutor de idiomas</string>
+  <string name="home">Traduzir</string>
+  <string name="shareVia">Compartilhar via</string>
+  <string name="LanguageTranslator">Tradutor de idiomas</string>
+  <string name="Translate">Traduzir</string>
+  <string name="Conversation">Conversação</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Dicionário Inglês</string>
+  <string name="SearchWord">Pesquisar palavra</string>
+  <string name="ShareWithFriends">Compartilhe com amigos</string>
+  <string name="ChangeLanguage">Mudar idioma</string>
+  <string name="PrivacyPolicy">Política de Privacidade</string>
+  <string name="Gallery">Galeria</string>
+  <string name="Camera">Câmera</string>
+  <string name="DoYouWantToExit">Você quer sair</string>
+  <string name="Cancel">Cancelar</string>
+  <string name="Exit">Saída</string>
+  <string name="SelectAppLanguage">Selecione o idioma do aplicativo</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Cópia de</string>
+  <string name="FullScreen">Tela cheia</string>
+  <string name="ClearTitle">Claro</string>
+  <string name="ClearConversationMsg">Tem certeza de que deseja limpar a conversa?</string>
+  <string name="Yes">Sim</string>
+  <string name="No">Não</string>
+  <string name="SelectLanguage">Selecione o idioma</string>
+  <string name="Downloading">Baixando</string>
+  <string name="DownloadDialogMsg">Por favor, aguarde enquanto seu modelo está baixando</string>
+  <string name="Download">Download</string>
+  <string name="DownloadModel">Modelo de download</string>
+  <string name="DownloadModelDialogMsg">Você precisa baixar o modelo primeiro antes de selecionar este idioma</string>
+  <string name="UseWifiMsg">Você está usando a rede celular. Por favor, use Wi-Fi para baixar o modelo</string>
+  <string name="Searching">Procurando</string>
+  <string name="NotFound">Não encontrado</string>
+  <string name="Image">Imagem:</string>
+  <string name="PleaseConnectToInternet">Conecte-se à Internet</string>
+  <string name="NotFoundMsg">A palavra que você procura não se encontra em nosso dicionário</string>
+  <string name="NoTextFoundToShare">Nenhum texto encontrado para compartilhar</string>
+  <string name="NoTranslationFoundToShare">Nenhuma tradução encontrada para compartilhar</string>
+  <string name="NoTranslationFoundToCopy">Nenhuma tradução encontrada para copiar</string>
+  <string name="NoTextFoundToCopy">Nenhum texto encontrado para copiar</string>
+  <string name="NoTextToSpeak">Sem texto para falar</string>
+  <string name="LanguageDetected">Idioma detectado</string>
+  <string name="OCRImage">Imagem OCR</string>
+  <string name="OCRTranslation">Tradução de OCR</string>
+  <string name="CopiedToClipboard">Copiado para a área de transferência</string>
+  <string name="ChooseLanguageFirst">Escolha o idioma primeiro antes de prosseguir</string>
+  <string name="EnterTextToTranslate">Digite o texto para traduzir</string>
+  <string name="TextFromImage">Texto da imagem</string>
+  <string name="GettingText">Obtendo texto</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Por favor, digite alguma palavra para pesquisar</string>
+  <string name="Translating">Traduzindo</string>
+  <string name="PermissionsNotGranted">Permissões não concedidas</string>
+  <string name="CameraPermissionsMsg">Conceda permissões de câmera para capturar imagens</string>
+  <string name="StoragePermissionsMsg">Conceda permissões de armazenamento interno para obter imagens da galeria</string>
+  <string name="GrantPermissionsBtn">Conceder permissões</string>
+  <string name="ad_is_loading">O anúncio está carregando</string>
+  <string name="ooooppss_network_not_available">A rede Ooooppss não está disponível.</string>
+  <string name="internet_warning_message">Ops, a Internet não está conectada. Por favor, conecte-se à internet para usar o dicionário.</string>
+
+</resources>

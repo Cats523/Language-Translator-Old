@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">ተርጓሚ ቋንቋ</string>
+  <string name="home">ገዛ</string>
+  <string name="shareVia">Share via...</string>
+  <string name="LanguageTranslator">ተርጓሚ ቋንቋ</string>
+  <string name="Translate">ምትርጓም</string>
+  <string name="Conversation">ዝርርብ</string>
+  <string name="OCR">ኦሲኣር</string>
+  <string name="Dictionary">መዝገበ ቃላት</string>
+  <string name="SearchWord">ቃል ምድላይ</string>
+  <string name="ShareWithFriends">ንፈተውቲ ሼር ምግባር</string>
+  <string name="ChangeLanguage">ቋንቋ ምቕያር</string>
+  <string name="PrivacyPolicy">ፖሊሲ ውልቃዊ ሓበሬታ</string>
+  <string name="Gallery">ጋለሪ</string>
+  <string name="Camera">ካሜራ</string>
+  <string name="DoYouWantToExit">ክትወጽእ ትደሊ ዲኻ</string>
+  <string name="Cancel">ሰርዝ</string>
+  <string name="Exit">መውፅኢ</string>
+  <string name="SelectAppLanguage">App Language ዝብል ምረጽ</string>
+  <string name="Ok">እሺ</string>
+  <string name="Copy">ቅዳሕ</string>
+  <string name="FullScreen">ምሉእ ስክሪን</string>
+  <string name="ClearTitle">ንፁር</string>
+  <string name="ClearConversationMsg">ነቲ ዕላል ከተጽርዮ ከም እትደሊ ርግጸኛ ዲኻ?</string>
+  <string name="Yes">እወ</string>
+  <string name="No">አይኮንን</string>
+  <string name="SelectLanguage">ቋንቋ ምረጽ</string>
+  <string name="Downloading">ምውራድ</string>
+  <string name="DownloadDialogMsg">በጃኹም ሞዴልኩም እናወረደት ተጸበዩ።</string>
+  <string name="Download">ምውራድ</string>
+  <string name="DownloadModel">Download ሞዴል</string>
+  <string name="DownloadModelDialogMsg">ነዚ ቋንቋ ቅድሚ ምምራጽካ መጀመርታ ነቲ ሞዴል ከተውርድ ኣለካ</string>
+  <string name="UseWifiMsg">ሞባይል ኔትወርክ ትጥቀም ኣለኻ። በጃኹም ነቲ ሞዴል ንምውራድ Wifi ተጠቐሙ</string>
+  <string name="Searching">ምድላይ</string>
+  <string name="NotFound">ኣይተረኽበን።</string>
+  <string name="Image">ስእሊ :</string>
+  <string name="PleaseConnectToInternet">በጃኹም ምስ ኢንተርነት ተራኸቡ።</string>
+  <string name="NotFoundMsg">እቲ ትደልይዎ ዘለኹም ቃል ኣብ መዝገበ ቃላትና ኣይርከብን።</string>
+  <string name="NoTextFoundToShare">ንምክፋል ዝኾነ ጽሑፍ ኣይተረኽበን።</string>
+  <string name="NoTranslationFoundToShare">ንምክፋል ዝኾነ ትርጉም ኣይተረኽበን።</string>
+  <string name="NoTranslationFoundToCopy">ንምቕዳሕ ዝኾነ ትርጉም ኣይተረኽበን።</string>
+  <string name="NoTextFoundToCopy">ንምቕዳሕ ዝኾነ ጽሑፍ ኣይተረኽበን።</string>
+  <string name="NoTextToSpeak">ዝዛረብ ጽሑፍ የለን</string>
+  <string name="LanguageDetected">ቋንቋ ተረኺቡ።</string>
+  <string name="OCRImage">OCR ምስሊ</string>
+  <string name="OCRTranslation">ትርጉም ኦሲኣር</string>
+  <string name="CopiedToClipboard">ናብ ቅንጥብጣብ ሰሌዳ ተቐዲሑ</string>
+  <string name="ChooseLanguageFirst">ቅድሚ ናብ ካልእ ምኻድካ መጀመርታ ቋንቋ ምረጽ</string>
+  <string name="EnterTextToTranslate">ንምትርጓም ጽሑፍ ኣእቱ</string>
+  <string name="TextFromImage">ጽሑፍ ካብ ምስሊ</string>
+  <string name="GettingText">ጽሑፍ ምርካብ</string>
+  <string name="PleaseEnterWordToSearchInDictionary">ክትደልዩ ገለ ቃል ኣእትዉ</string>
+  <string name="Translating">ምትርጓም</string>
+  <string name="PermissionsNotGranted">ፍቓድ ኣይተዋህበን።</string>
+  <string name="CameraPermissionsMsg">ምስሊ ንምቕራጽ ፍቓድ ካሜራ ሃቡ።</string>
+  <string name="StoragePermissionsMsg">ካብ ጋለሪ ምስሊ ንምርካብ ውሽጣዊ መኽዘን ፍቓድ ሃቡ።</string>
+  <string name="GrantPermissionsBtn">ፍቓድ ምሃብ</string>
+</resources>

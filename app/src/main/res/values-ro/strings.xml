@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Traducător de limbi</string>
+  <string name="home">Acasă</string>
+  <string name="shareVia">Distribuie prin</string>
+  <string name="LanguageTranslator">Traducător de limbi</string>
+  <string name="Translate">Traduceți</string>
+  <string name="Conversation">Conversaţie</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Dicţionar</string>
+  <string name="SearchWord">Cuvânt de căutare</string>
+  <string name="ShareWithFriends">Impartasiti cu prietenii</string>
+  <string name="ChangeLanguage">Schimbați limba</string>
+  <string name="PrivacyPolicy">Politica de confidențialitate</string>
+  <string name="Gallery">Galerie</string>
+  <string name="Camera">Aparat foto</string>
+  <string name="DoYouWantToExit">Vrei sa iesi</string>
+  <string name="Cancel">Anulare</string>
+  <string name="Exit">Ieșire</string>
+  <string name="SelectAppLanguage">Selectați Limba aplicației</string>
+  <string name="Ok">Bine</string>
+  <string name="Copy">Copie</string>
+  <string name="FullScreen">Ecran complet</string>
+  <string name="ClearTitle">Clar</string>
+  <string name="ClearConversationMsg">Sigur doriți să ștergeți conversația?</string>
+  <string name="Yes">Da</string>
+  <string name="No">Nu</string>
+  <string name="SelectLanguage">Selecteaza limba</string>
+  <string name="Downloading">Descărcarea</string>
+  <string name="DownloadDialogMsg">Vă rugăm să așteptați în timp ce modelul dvs. se descarcă</string>
+  <string name="Download">Descarca</string>
+  <string name="DownloadModel">Descărcați modelul</string>
+  <string name="DownloadModelDialogMsg">Mai întâi trebuie să descărcați modelul înainte de a selecta această limbă</string>
+  <string name="UseWifiMsg">Utilizați o rețea celulară. Vă rugăm să utilizați Wi-Fi pentru a descărca modelul</string>
+  <string name="Searching">In cautarea</string>
+  <string name="NotFound">Nu a fost găsit</string>
+  <string name="Image">Imagine :</string>
+  <string name="PleaseConnectToInternet">Vă rugăm să vă conectați la internet</string>
+  <string name="NotFoundMsg">Cuvântul pe care îl căutați nu se găsește în dicționarul nostru</string>
+  <string name="NoTextFoundToShare">Nu s-a găsit niciun text de distribuit</string>
+  <string name="NoTranslationFoundToShare">Nu a fost găsită nicio traducere de distribuit</string>
+  <string name="NoTranslationFoundToCopy">Nu a fost găsită nicio traducere de copiat</string>
+  <string name="NoTextFoundToCopy">Nu s-a găsit text de copiat</string>
+  <string name="NoTextToSpeak">Niciun text de vorbit</string>
+  <string name="LanguageDetected">Limbă detectată</string>
+  <string name="OCRImage">Imagine OCR</string>
+  <string name="OCRTranslation">Traducere OCR</string>
+  <string name="CopiedToClipboard">Copiat în clipboard</string>
+  <string name="ChooseLanguageFirst">Alegeți mai întâi Limba înainte de a continua</string>
+  <string name="EnterTextToTranslate">Introdu textul de tradus</string>
+  <string name="TextFromImage">Text din imagine</string>
+  <string name="GettingText">Primirea textului</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Vă rugăm să introduceți un cuvânt pentru a căuta</string>
+  <string name="Translating">Traducerea</string>
+  <string name="PermissionsNotGranted">Permisiunile nu au fost acordate</string>
+  <string name="CameraPermissionsMsg">Vă rugăm să acordați permisiuni camerei pentru a captura imaginea</string>
+  <string name="StoragePermissionsMsg">Vă rugăm să acordați permisiuni de stocare internă pentru a obține o imagine din galerie</string>
+  <string name="GrantPermissionsBtn">Acordați permisiuni</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Mushanduri weMutauro</string>
+  <string name="home">Kumba</string>
+  <string name="shareVia">Share via</string>
+  <string name="LanguageTranslator">Mushanduri weMutauro</string>
+  <string name="Translate">Shandura</string>
+  <string name="Conversation">Kukurukurirana</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Dictionary</string>
+  <string name="SearchWord">Tsvaga izwi</string>
+  <string name="ShareWithFriends">Goverana neShamwari</string>
+  <string name="ChangeLanguage">Chinja Mutauro</string>
+  <string name="PrivacyPolicy">Privacy Policy</string>
+  <string name="Gallery">Gallery</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Unoda kubuda here</string>
+  <string name="Cancel">Kanzura</string>
+  <string name="Exit">Exit</string>
+  <string name="SelectAppLanguage">Sarudza Mutauro Wemapurogiramu</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Copy</string>
+  <string name="FullScreen">Full Screen</string>
+  <string name="ClearTitle">Zvakajeka</string>
+  <string name="ClearConversationMsg">Une chokwadi chekuti unoda kubvisa nhaurirano?</string>
+  <string name="Yes">Ehe</string>
+  <string name="No">Aihwa</string>
+  <string name="SelectLanguage">Sarudza Mutauro</string>
+  <string name="Downloading">Downloading</string>
+  <string name="DownloadDialogMsg">Ndapota mira modhi yako ichirodha</string>
+  <string name="Download">Download</string>
+  <string name="DownloadModel">Download Model</string>
+  <string name="DownloadModelDialogMsg">Unofanira kutanga wadhaunirodha modhi usati wasarudza mutauro uyu</string>
+  <string name="UseWifiMsg">Uri kushandisa nharembozha. Ndokumbira ushandise Wifi kurodha modhi</string>
+  <string name="Searching">Kutsvaga</string>
+  <string name="NotFound">Kusawanikwa</string>
+  <string name="Image">Mufananidzo :</string>
+  <string name="PleaseConnectToInternet">Ndokumbira ubatanidze kuinternet</string>
+  <string name="NotFoundMsg">Izwi rauri kutsvaga hariwanikwi muduramazwi redu</string>
+  <string name="NoTextFoundToShare">Hapana mavara awanikwa ekugovera</string>
+  <string name="NoTranslationFoundToShare">Hapana shanduro yawanikwa yekugovera</string>
+  <string name="NoTranslationFoundToCopy">Hapana shanduro yawanikwa yekukopa</string>
+  <string name="NoTextFoundToCopy">Hapana mavara awanikwa ekukopa</string>
+  <string name="NoTextToSpeak">Hapana mavara ekutaura</string>
+  <string name="LanguageDetected">Mutauro Waonekwa</string>
+  <string name="OCRImage">Mufananidzo weOCR</string>
+  <string name="OCRTranslation">Shanduro yeOCR</string>
+  <string name="CopiedToClipboard">Kopiwa kuclipboard</string>
+  <string name="ChooseLanguageFirst">Sarudza Mutauro kutanga usati waenderera mberi</string>
+  <string name="EnterTextToTranslate">Isa mavara ekushandura</string>
+  <string name="TextFromImage">Mashoko kubva pamufananidzo</string>
+  <string name="GettingText">Kuwana mavara</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Ndokumbira uise izwi rekutsvaga</string>
+  <string name="Translating">Kushandura</string>
+  <string name="PermissionsNotGranted">Mvumo haina kupihwa</string>
+  <string name="CameraPermissionsMsg">Ndokumbira upe kamera mvumo yekutora mufananidzo</string>
+  <string name="StoragePermissionsMsg">Ndokumbira upe mvumo yekuchengetedza yemukati kuti uwane mufananidzo kubva kugalari</string>
+  <string name="GrantPermissionsBtn">Grant Mvumo</string>
+</resources>

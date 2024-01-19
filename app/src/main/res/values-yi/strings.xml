@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">שפּראַך איבערזעצער</string>
+  <string name="home">היים</string>
+  <string name="shareVia">ייַנטיילן דורך</string>
+  <string name="LanguageTranslator">שפּראַך איבערזעצער</string>
+  <string name="Translate">איבערזעצן</string>
+  <string name="Conversation">שמועס</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">ווערטערבוך</string>
+  <string name="SearchWord">זוכן וואָרט</string>
+  <string name="ShareWithFriends">ייַנטיילן מיט Friends</string>
+  <string name="ChangeLanguage">טוישן שפּראַך</string>
+  <string name="PrivacyPolicy">פּריוואַטקייט פּאָליטיק</string>
+  <string name="Gallery">גאַלערי</string>
+  <string name="Camera">אַפּאַראַט</string>
+  <string name="DoYouWantToExit">צי איר ווילן צו אַרויסגאַנג</string>
+  <string name="Cancel">באָטל מאַכן</string>
+  <string name="Exit">אַרויסגאַנג</string>
+  <string name="SelectAppLanguage">אויסקלייַבן אַפּ שפּראַך</string>
+  <string name="Ok">אקעי</string>
+  <string name="Copy">קאָפּי</string>
+  <string name="FullScreen">גאנצע סקרין</string>
+  <string name="ClearTitle">קלאָר</string>
+  <string name="ClearConversationMsg">זענט איר זיכער איר ווילן צו ויסמעקן די שמועס?</string>
+  <string name="Yes">יא</string>
+  <string name="No">ניין</string>
+  <string name="SelectLanguage">אויסקלייַבן שפּראַך</string>
+  <string name="Downloading">דאַונלאָודינג</string>
+  <string name="DownloadDialogMsg">ביטע וואַרטן בשעת דיין מאָדעל איז דאַונלאָודינג</string>
+  <string name="Download">אראפקאפיע</string>
+  <string name="DownloadModel">אראפקאפיע מאָדעל</string>
+  <string name="DownloadModelDialogMsg">איר דאַרפֿן צו אָפּלאָדירן די מאָדעל ערשטער איידער איר אויסקלייַבן דעם שפּראַך</string>
+  <string name="UseWifiMsg">איר נוצן סעליאַלער נעץ. ניצן Wifi צו אָפּלאָדירן די מאָדעל</string>
+  <string name="Searching">זוכן</string>
+  <string name="NotFound">ניט געפונען</string>
+  <string name="Image">בילד :</string>
+  <string name="PleaseConnectToInternet">ביטע פאַרבינדן צו אינטערנעט</string>
+  <string name="NotFoundMsg">די וואָרט איר זוכט פֿאַר איז ניט געפֿונען אין אונדזער ווערטערבוך</string>
+  <string name="NoTextFoundToShare">קיין טעקסט געפונען צו טיילן</string>
+  <string name="NoTranslationFoundToShare">קיין איבערזעצונג געפונען צו טיילן</string>
+  <string name="NoTranslationFoundToCopy">קיין איבערזעצונג געפונען צו נאָכמאַכן</string>
+  <string name="NoTextFoundToCopy">קיין טעקסט געפונען צו נאָכמאַכן</string>
+  <string name="NoTextToSpeak">קיין טעקסט צו רעדן</string>
+  <string name="LanguageDetected">שפּראַך דעטעקטעד</string>
+  <string name="OCRImage">OCR בילד</string>
+  <string name="OCRTranslation">OCR איבערזעצונג</string>
+  <string name="CopiedToClipboard">קאַפּיד צו קליפּבאָרד</string>
+  <string name="ChooseLanguageFirst">קלייַבן שפּראַך ערשטער איידער איר פאָרזעצן ווייַטער</string>
+  <string name="EnterTextToTranslate">אַרייַן טעקסט צו איבערזעצן</string>
+  <string name="TextFromImage">טעקסט פון בילד</string>
+  <string name="GettingText">באַקומען טעקסט</string>
+  <string name="PleaseEnterWordToSearchInDictionary">ביטע אַרייַן עטלעכע וואָרט צו זוכן</string>
+  <string name="Translating">איבערזעצן</string>
+  <string name="PermissionsNotGranted">פּערמישאַנז נישט געגעבן</string>
+  <string name="CameraPermissionsMsg">ביטע געבן אַפּאַראַט פּערמישאַנז צו כאַפּן בילד</string>
+  <string name="StoragePermissionsMsg">ביטע געבן ינערלעך סטאָרידזש פּערמישאַנז צו באַקומען בילד פון גאַלעריע</string>
+  <string name="GrantPermissionsBtn">שענקען פּערמישאַנז</string>
+</resources>

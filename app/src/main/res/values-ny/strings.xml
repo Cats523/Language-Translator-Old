@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Womasulira Zinenero</string>
+  <string name="home">Kunyumba</string>
+  <string name="shareVia">Gawani kudzera</string>
+  <string name="LanguageTranslator">Womasulira Zinenero</string>
+  <string name="Translate">Tanthauzirani</string>
+  <string name="Conversation">Kukambirana</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Dictionary</string>
+  <string name="SearchWord">Sakani mawu</string>
+  <string name="ShareWithFriends">Gawani ndi Anzanu</string>
+  <string name="ChangeLanguage">Sinthani Chinenero</string>
+  <string name="PrivacyPolicy">Mfundo zazinsinsi</string>
+  <string name="Gallery">Galero</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Kodi mukufuna kutuluka</string>
+  <string name="Cancel">Letsani</string>
+  <string name="Exit">Potulukira</string>
+  <string name="SelectAppLanguage">Sankhani App Language</string>
+  <string name="Ok">Chabwino</string>
+  <string name="Copy">Koperani</string>
+  <string name="FullScreen">Kudzaza zenera lonse</string>
+  <string name="ClearTitle">Zomveka</string>
+  <string name="ClearConversationMsg">Mukutsimikiza kuti mukufuna kuchotsa zokambiranazi?</string>
+  <string name="Yes">Inde</string>
+  <string name="No">Ayi</string>
+  <string name="SelectLanguage">Sankhani Chiyankhulo</string>
+  <string name="Downloading">Kutsitsa</string>
+  <string name="DownloadDialogMsg">Chonde dikirani pamene cholozera chanu chikutsitsa</string>
+  <string name="Download">Tsitsani</string>
+  <string name="DownloadModel">Tsitsani Model</string>
+  <string name="DownloadModelDialogMsg">Muyenera kukopera kaye chitsanzo musanasankhe chinenerochi</string>
+  <string name="UseWifiMsg">Mukugwiritsa ntchito netiweki yam\'manja. Chonde gwiritsani ntchito Wifi kutsitsa mtunduwo</string>
+  <string name="Searching">Kufufuza</string>
+  <string name="NotFound">Sinapezeke</string>
+  <string name="Image">Chithunzi :</string>
+  <string name="PleaseConnectToInternet">Chonde lolani ku intaneti</string>
+  <string name="NotFoundMsg">Mawu omwe mukuyang\'ana sapezeka mudikishonale yathu</string>
+  <string name="NoTextFoundToShare">Palibe mawu omwe apezeka kuti agawane</string>
+  <string name="NoTranslationFoundToShare">Palibe zomasulira zomwe zapezeka kuti zigawidwe</string>
+  <string name="NoTranslationFoundToCopy">Palibe zomasulira zomwe zapezeka zokopera</string>
+  <string name="NoTextFoundToCopy">Palibe mawu omwe angakopere</string>
+  <string name="NoTextToSpeak">Palibe mawu oti alankhule</string>
+  <string name="LanguageDetected">Chinenero Chazindikirika</string>
+  <string name="OCRImage">Chithunzi cha OCR</string>
+  <string name="OCRTranslation">Kutanthauzira kwa OCR</string>
+  <string name="CopiedToClipboard">Idakopera pa bolodi</string>
+  <string name="ChooseLanguageFirst">Sankhani Chiyankhulo choyamba musanapitirire</string>
+  <string name="EnterTextToTranslate">Lowetsani mawu kuti mutanthauzire</string>
+  <string name="TextFromImage">Mawu ochokera pachithunzi</string>
+  <string name="GettingText">Kupeza mawu</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Chonde lowetsani mawu kuti mufufuze</string>
+  <string name="Translating">Kumasulira</string>
+  <string name="PermissionsNotGranted">Zilolezo sizinaperekedwe</string>
+  <string name="CameraPermissionsMsg">Chonde perekani chilolezo cha kamera kuti ijambule chithunzi</string>
+  <string name="StoragePermissionsMsg">Chonde perekani chilolezo chosungira mkati kuti mupeze chithunzi kuchokera kugalari</string>
+  <string name="GrantPermissionsBtn">Perekani Zilolezo</string>
+</resources>

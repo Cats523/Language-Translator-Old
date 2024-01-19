@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+    <string name="app_name">Tłumacz języka</string>
+    <string name="home">Tłumaczyć</string>
+    <string name="shareVia">Podziel się przez</string>
+    <string name="LanguageTranslator">Tłumacz języka</string>
+    <string name="Translate">Tłumaczyć</string>
+    <string name="Conversation">Rozmowa</string>
+    <string name="OCR">OCR</string>
+    <string name="Dictionary">Słownik angielski</string>
+    <string name="SearchWord">Szukaj słowa</string>
+    <string name="ShareWithFriends">Podziel się z przyjaciółmi</string>
+    <string name="ChangeLanguage">Zmień język</string>
+    <string name="PrivacyPolicy">Polityka prywatności</string>
+    <string name="Gallery">Galeria</string>
+    <string name="Camera">Kamera</string>
+    <string name="DoYouWantToExit">Czy chcesz wyjść</string>
+    <string name="Cancel">Anulować</string>
+    <string name="Exit">Wyjście</string>
+    <string name="SelectAppLanguage">Wybierz język aplikacji</string>
+    <string name="Ok">OK</string>
+    <string name="Copy">Kopiuj</string>
+    <string name="FullScreen">Pełny ekran</string>
+    <string name="ClearTitle">Jasne</string>
+    <string name="ClearConversationMsg">Czy na pewno chcesz wyczyścić rozmowę?</string>
+    <string name="Yes">Tak</string>
+    <string name="No">NIE</string>
+    <string name="SelectLanguage">Wybierz język</string>
+    <string name="Downloading">Ściąganie</string>
+    <string name="DownloadDialogMsg">Poczekaj, trwa pobieranie modelu</string>
+    <string name="Download">Pobierać</string>
+    <string name="DownloadModel">Pobierz model</string>
+    <string name="DownloadModelDialogMsg">Musisz najpierw pobrać model, zanim wybierzesz ten język</string>
+    <string name="UseWifiMsg">Korzystasz z sieci komórkowej. Użyj Wi-Fi, aby pobrać model</string>
+    <string name="Searching">Badawczy</string>
+    <string name="NotFound">Nie znaleziono</string>
+    <string name="Image">Obraz :</string>
+    <string name="PleaseConnectToInternet">Połącz się z internetem</string>
+    <string name="NotFoundMsg">Słowo, którego szukasz nie występuje w naszym słowniku</string>
+    <string name="NoTextFoundToShare">Nie znaleziono tekstu do udostępnienia</string>
+    <string name="NoTranslationFoundToShare">Nie znaleziono tłumaczenia do udostępnienia</string>
+    <string name="NoTranslationFoundToCopy">Nie znaleziono tłumaczenia do skopiowania</string>
+    <string name="NoTextFoundToCopy">Nie znaleziono tekstu do skopiowania</string>
+    <string name="NoTextToSpeak">Brak tekstu do mówienia</string>
+    <string name="LanguageDetected">Wykryto język</string>
+    <string name="OCRImage">Obraz OCR</string>
+    <string name="OCRTranslation">Tłumaczenie OCR</string>
+    <string name="CopiedToClipboard">Skopiowane do schowka</string>
+    <string name="ChooseLanguageFirst">Najpierw wybierz język, zanim przejdziesz dalej</string>
+    <string name="EnterTextToTranslate">Wpisz tekst do przetłumaczenia</string>
+    <string name="TextFromImage">Tekst z obrazka</string>
+    <string name="GettingText">Pobieranie tekstu</string>
+    <string name="PleaseEnterWordToSearchInDictionary">Wprowadź słowo do wyszukania</string>
+    <string name="Translating">Tłumaczenie</string>
+    <string name="PermissionsNotGranted">Nie przyznano uprawnień</string>
+    <string name="CameraPermissionsMsg">Zezwól kamerze na przechwytywanie obrazu</string>
+    <string name="StoragePermissionsMsg">Przyznaj uprawnienia do przechowywania wewnętrznego, aby pobrać obraz z galerii</string>
+    <string name="GrantPermissionsBtn">Przyznaj uprawnienia</string>
+    <string name="ooooppss_network_not_available">Ooooppss, brak dostępu do sieci</string>
+    <string name="ad_is_loading">Reklama się ładuje</string>
+    <string name="internet_warning_message">Ups, brak połączenia z internetem. Proszę połączyć się z internetem, aby korzystać z słownika.</string>
+
+
+</resources>

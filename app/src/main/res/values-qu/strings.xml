@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Simi T’ikraq</string>
+  <string name="home">Wasi</string>
+  <string name="shareVia">Compartir via</string>
+  <string name="LanguageTranslator">Simi T’ikraq</string>
+  <string name="Translate">Tikray</string>
+  <string name="Conversation">Rimanakuy</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Simi taqi</string>
+  <string name="SearchWord">Maskay simi</string>
+  <string name="ShareWithFriends">Amigukunawan rakinakuy</string>
+  <string name="ChangeLanguage">Simita tikray</string>
+  <string name="PrivacyPolicy">Sapanchasqa willakuy</string>
+  <string name="Gallery">Galería</string>
+  <string name="Camera">Kamara</string>
+  <string name="DoYouWantToExit">Lloqsiyta munankichu</string>
+  <string name="Cancel">Sayachiy</string>
+  <string name="Exit">Lluqsina</string>
+  <string name="SelectAppLanguage">App Simi nisqapi akllay</string>
+  <string name="Ok">KUSA</string>
+  <string name="Copy">Copia</string>
+  <string name="FullScreen">Lliw Pantalla</string>
+  <string name="ClearTitle">Pichay</string>
+  <string name="ClearConversationMsg">¿Segurochu kanki rimayta chuyanchayta munasqaykimanta?</string>
+  <string name="Yes">Arí</string>
+  <string name="No">Manam</string>
+  <string name="SelectLanguage">Simita akllay</string>
+  <string name="Downloading">Descarga</string>
+  <string name="DownloadDialogMsg">Ama hina kaspa, suyay modeloyki uraykachichkaptin</string>
+  <string name="Download">Uraykachiy</string>
+  <string name="DownloadModel">Modelo de descarga</string>
+  <string name="DownloadModelDialogMsg">Ñawpaqtaqa chay modelota uraykachinayki tiyan manaraq kay simita akllachkaspa</string>
+  <string name="UseWifiMsg">Llika celular nisqawanmi llamk’achkanki. Ama hina kaspa, Wifi nisqawan chay modelota uraykachinaykipaq</string>
+  <string name="Searching">Maskaspa</string>
+  <string name="NotFound">Mana Tarishkachu</string>
+  <string name="Image">Rikchay :</string>
+  <string name="PleaseConnectToInternet">Ama hina kaspa, internetman t\'inkinakuy</string>
+  <string name="NotFoundMsg">Chay maskasqayki simiqa manam diccionarioykupi tarikunchu</string>
+  <string name="NoTextFoundToShare">Mana qillqasqa tarisqachu rakinapaq</string>
+  <string name="NoTranslationFoundToShare">Mana tikrasqa tarisqachu rakinapaq</string>
+  <string name="NoTranslationFoundToCopy">Mana huk tikray tarisqachu copianapaq</string>
+  <string name="NoTextFoundToCopy">Mana qillqasqa tarisqachu copianapaq</string>
+  <string name="NoTextToSpeak">Mana qillqasqa rimanapaq</string>
+  <string name="LanguageDetected">Simi Detectada</string>
+  <string name="OCRImage">OCR Imahina</string>
+  <string name="OCRTranslation">OCR Traducción</string>
+  <string name="CopiedToClipboard">Portapapeles nisqaman copiasqa</string>
+  <string name="ChooseLanguageFirst">Ñawpaqtaqa Simita akllay manaraq astawan purichkaspa</string>
+  <string name="EnterTextToTranslate">T’ikranapaq qillqasqata qillqay</string>
+  <string name="TextFromImage">Imahinamanta qillqasqa</string>
+  <string name="GettingText">Textota chaskiy</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Ama hina kaspa, maskanaykipaq wakin simita qillqay</string>
+  <string name="Translating">Traducción</string>
+  <string name="PermissionsNotGranted">Permisokuna mana qusqachu</string>
+  <string name="CameraPermissionsMsg">Ama hina kaspa, kamarapa atiyninkunata quy, siq\'ita hap\'inaykipaq</string>
+  <string name="StoragePermissionsMsg">Ama hina kaspa, ukhu waqaychay atiykunata quy galeríamanta siq\'ita chaskinaykipaq</string>
+  <string name="GrantPermissionsBtn">Permisokunata qoy</string>
+</resources>

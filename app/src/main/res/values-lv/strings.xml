@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Valodu tulkotājs</string>
+  <string name="home">Mājas</string>
+  <string name="shareVia">Kopīgot, izmantojot</string>
+  <string name="LanguageTranslator">Valodu tulkotājs</string>
+  <string name="Translate">Tulkot</string>
+  <string name="Conversation">Saruna</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Vārdnīca</string>
+  <string name="SearchWord">Meklēšanas vārds</string>
+  <string name="ShareWithFriends">Dalīties ar draugiem</string>
+  <string name="ChangeLanguage">Mainīt VALODU</string>
+  <string name="PrivacyPolicy">Privātuma politika</string>
+  <string name="Gallery">Galerija</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Vai vēlaties iziet</string>
+  <string name="Cancel">Atcelt</string>
+  <string name="Exit">Izeja</string>
+  <string name="SelectAppLanguage">Atlasiet lietotnes valodu</string>
+  <string name="Ok">Labi</string>
+  <string name="Copy">Kopēt</string>
+  <string name="FullScreen">Pilnekrāna režīms</string>
+  <string name="ClearTitle">Skaidrs</string>
+  <string name="ClearConversationMsg">Vai tiešām vēlaties dzēst sarunu?</string>
+  <string name="Yes">Jā</string>
+  <string name="No">Nē</string>
+  <string name="SelectLanguage">Izvēlēties valodu</string>
+  <string name="Downloading">Notiek lejupielāde</string>
+  <string name="DownloadDialogMsg">Lūdzu, uzgaidiet, kamēr notiek modeļa lejupielāde</string>
+  <string name="Download">Lejupielādēt</string>
+  <string name="DownloadModel">Lejupielādēt modeli</string>
+  <string name="DownloadModelDialogMsg">Pirms šīs valodas atlasīšanas jums vispirms ir jālejupielādē modelis</string>
+  <string name="UseWifiMsg">Jūs izmantojat mobilo tīklu. Lūdzu, izmantojiet Wi-Fi, lai lejupielādētu modeli</string>
+  <string name="Searching">Meklēšana</string>
+  <string name="NotFound">Nav atrasts</string>
+  <string name="Image">Attēls :</string>
+  <string name="PleaseConnectToInternet">Lūdzu, izveidojiet savienojumu ar internetu</string>
+  <string name="NotFoundMsg">Vārds, ko meklējat, mūsu vārdnīcā nav atrasts</string>
+  <string name="NoTextFoundToShare">Nav atrasts teksts, ko kopīgot</string>
+  <string name="NoTranslationFoundToShare">Nav atrasts tulkojums, ko kopīgot</string>
+  <string name="NoTranslationFoundToCopy">Nav atrasts tulkojums, ko kopēt</string>
+  <string name="NoTextFoundToCopy">Nav atrasts teksts, ko kopēt</string>
+  <string name="NoTextToSpeak">Nav teksta, ko runāt</string>
+  <string name="LanguageDetected">Valoda noteikta</string>
+  <string name="OCRImage">OCR attēls</string>
+  <string name="OCRTranslation">OCR tulkošana</string>
+  <string name="CopiedToClipboard">Kopēts starpliktuvē</string>
+  <string name="ChooseLanguageFirst">Pirms turpināt, izvēlieties valodu</string>
+  <string name="EnterTextToTranslate">Ievadiet tulkojamo tekstu</string>
+  <string name="TextFromImage">Teksts no attēla</string>
+  <string name="GettingText">Teksta iegūšana</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Lūdzu, ievadiet kādu vārdu, lai meklētu</string>
+  <string name="Translating">Tulkošana</string>
+  <string name="PermissionsNotGranted">Atļaujas nav piešķirtas</string>
+  <string name="CameraPermissionsMsg">Lūdzu, piešķiriet kamerai atļaujas uzņemt attēlu</string>
+  <string name="StoragePermissionsMsg">Lūdzu, piešķiriet iekšējās atmiņas atļaujas, lai iegūtu attēlu no galerijas</string>
+  <string name="GrantPermissionsBtn">Piešķirt atļaujas</string>
+</resources>

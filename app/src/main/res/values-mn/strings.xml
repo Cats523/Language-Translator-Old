@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Хэлний орчуулагч</string>
+  <string name="home">Гэр</string>
+  <string name="shareVia">Дамжуулан хуваалцах</string>
+  <string name="LanguageTranslator">Хэлний орчуулагч</string>
+  <string name="Translate">Орчуулах</string>
+  <string name="Conversation">Яриа</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Толь бичиг</string>
+  <string name="SearchWord">Хайлтын үг</string>
+  <string name="ShareWithFriends">Найзуудтайгаа хуваалцах</string>
+  <string name="ChangeLanguage">Хэл өөрчлөх</string>
+  <string name="PrivacyPolicy">Нууцлалын бодлого</string>
+  <string name="Gallery">Галерей</string>
+  <string name="Camera">Камер</string>
+  <string name="DoYouWantToExit">Гармаар байна уу</string>
+  <string name="Cancel">Цуцлах</string>
+  <string name="Exit">Гарах</string>
+  <string name="SelectAppLanguage">Програмын хэлийг сонгоно уу</string>
+  <string name="Ok">БОЛЖ БАЙНА УУ</string>
+  <string name="Copy">Хуулбарлах</string>
+  <string name="FullScreen">Дэлгэц дүүрэн</string>
+  <string name="ClearTitle">Тодорхой</string>
+  <string name="ClearConversationMsg">Та харилцан яриаг устгахдаа итгэлтэй байна уу?</string>
+  <string name="Yes">Тиймээ</string>
+  <string name="No">Үгүй</string>
+  <string name="SelectLanguage">Хэл сонгох</string>
+  <string name="Downloading">Татаж байна</string>
+  <string name="DownloadDialogMsg">Таны загварыг татаж авах хүртэл түр хүлээнэ үү</string>
+  <string name="Download">Татаж авах</string>
+  <string name="DownloadModel">Загвар татаж авах</string>
+  <string name="DownloadModelDialogMsg">Та энэ хэлийг сонгохын өмнө эхлээд загварыг татаж авах хэрэгтэй</string>
+  <string name="UseWifiMsg">Та үүрэн сүлжээ ашиглаж байна. Загвар татаж авахын тулд Wifi ашиглана уу</string>
+  <string name="Searching">Хайж байна</string>
+  <string name="NotFound">Олдсонгүй</string>
+  <string name="Image">Зураг:</string>
+  <string name="PleaseConnectToInternet">Интернэтэд холбогдоно уу</string>
+  <string name="NotFoundMsg">Таны хайж буй үг манай толь бичигт олдсонгүй</string>
+  <string name="NoTextFoundToShare">Хуваалцах текст олдсонгүй</string>
+  <string name="NoTranslationFoundToShare">Хуваалцах орчуулга олдсонгүй</string>
+  <string name="NoTranslationFoundToCopy">Хуулах орчуулга олдсонгүй</string>
+  <string name="NoTextFoundToCopy">Хуулах текст олдсонгүй</string>
+  <string name="NoTextToSpeak">Ярих текст алга</string>
+  <string name="LanguageDetected">Хэл илэрсэн</string>
+  <string name="OCRImage">OCR зураг</string>
+  <string name="OCRTranslation">OCR орчуулга</string>
+  <string name="CopiedToClipboard">Түр санах ой руу хуулсан</string>
+  <string name="ChooseLanguageFirst">Цааш үргэлжлүүлэхээсээ өмнө хэлээ сонгоно уу</string>
+  <string name="EnterTextToTranslate">Орчуулах текстээ оруулна уу</string>
+  <string name="TextFromImage">Зургийн текст</string>
+  <string name="GettingText">Текст авч байна</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Хайхын тулд хэдэн үг оруулна уу</string>
+  <string name="Translating">Орчуулж байна</string>
+  <string name="PermissionsNotGranted">Зөвшөөрөл олгоогүй</string>
+  <string name="CameraPermissionsMsg">Зураг авахын тулд камерт зөвшөөрөл өгнө үү</string>
+  <string name="StoragePermissionsMsg">Галерейгаас зураг авахын тулд дотоод санах ойн зөвшөөрлийг өгнө үү</string>
+  <string name="GrantPermissionsBtn">Зөвшөөрөл олгох</string>
+</resources>

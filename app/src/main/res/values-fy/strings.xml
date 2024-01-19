@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Taaloersetter</string>
+  <string name="home">Thús</string>
+  <string name="shareVia">Diele fia</string>
+  <string name="LanguageTranslator">Taaloersetter</string>
+  <string name="Translate">Oersette</string>
+  <string name="Conversation">Petear</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Wurdboek</string>
+  <string name="SearchWord">Sykje wurd</string>
+  <string name="ShareWithFriends">Diele mei freonen</string>
+  <string name="ChangeLanguage">Feroarje Taal</string>
+  <string name="PrivacyPolicy">Privacybelied</string>
+  <string name="Gallery">Galery</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Wolle jo útgean</string>
+  <string name="Cancel">Ofbrekke</string>
+  <string name="Exit">Útgong</string>
+  <string name="SelectAppLanguage">Selektearje App Taal</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopy</string>
+  <string name="FullScreen">Folslein skerm</string>
+  <string name="ClearTitle">Opklearje</string>
+  <string name="ClearConversationMsg">Binne jo wis dat jo it petear wiskje wolle?</string>
+  <string name="Yes">Ja</string>
+  <string name="No">Nee</string>
+  <string name="SelectLanguage">Selektearje Taal</string>
+  <string name="Downloading">Ynladen</string>
+  <string name="DownloadDialogMsg">Wachtsje asjebleaft wylst jo model ynladen is</string>
+  <string name="Download">Download</string>
+  <string name="DownloadModel">Download Model</string>
+  <string name="DownloadModelDialogMsg">Jo moatte it model earst downloade foardat jo dizze taal selektearje</string>
+  <string name="UseWifiMsg">Jo brûke cellular netwurk. Brûk asjebleaft Wifi om it model te downloaden</string>
+  <string name="Searching">It sykjen</string>
+  <string name="NotFound">Net fûn</string>
+  <string name="Image">Ofbylding :</string>
+  <string name="PleaseConnectToInternet">Ferbine asjebleaft mei it ynternet</string>
+  <string name="NotFoundMsg">It wurd dat jo sykje is net fûn yn ús wurdboek</string>
+  <string name="NoTextFoundToShare">Gjin tekst fûn om te dielen</string>
+  <string name="NoTranslationFoundToShare">Gjin oersetting fûn om te dielen</string>
+  <string name="NoTranslationFoundToCopy">Gjin oersetting fûn om te kopiearjen</string>
+  <string name="NoTextFoundToCopy">Gjin tekst fûn om te kopiearjen</string>
+  <string name="NoTextToSpeak">Gjin tekst om te praten</string>
+  <string name="LanguageDetected">Taal ûntdutsen</string>
+  <string name="OCRImage">OCR ôfbylding</string>
+  <string name="OCRTranslation">OCR oersetting</string>
+  <string name="CopiedToClipboard">Kopiearje nei klamboerd</string>
+  <string name="ChooseLanguageFirst">Kies earst Taal foardat jo fierder gean</string>
+  <string name="EnterTextToTranslate">Fier tekst yn om te oersetten</string>
+  <string name="TextFromImage">Tekst fan ôfbylding</string>
+  <string name="GettingText">Tekst krije</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Fier in wurd yn om te sykjen</string>
+  <string name="Translating">Oersette</string>
+  <string name="PermissionsNotGranted">Fergunningen net ferliend</string>
+  <string name="CameraPermissionsMsg">Jou asjebleaft kameratastimmingen om ôfbylding te meitsjen</string>
+  <string name="StoragePermissionsMsg">Jou asjebleaft tagongsrjochten foar ynterne opslach om ôfbylding fan \'e galery te heljen</string>
+  <string name="GrantPermissionsBtn">Tastimming jaan</string>
+</resources>

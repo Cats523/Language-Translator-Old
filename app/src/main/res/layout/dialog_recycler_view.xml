@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.mindorks.editdrawabletext.EditDrawableText
+        android:id="@+id/search_view_on_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/purple_500"
+        android:textCursorDrawable="@color/white"
+        android:tooltipText="Start typing here to search for language"
+        android:drawableEnd="@drawable/ic_baseline_search_24"
+        android:paddingRight="10dp"
+        android:imeOptions="actionSearch"
+        android:hint="@string/SelectLanguage"
+        android:textColorHint="@color/white"
+        android:paddingLeft="10dp"
+        android:textColor="@color/white">
+    </com.mindorks.editdrawabletext.EditDrawableText>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/languagesRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/search_view_on_dialog"/>
+
+
+</RelativeLayout>

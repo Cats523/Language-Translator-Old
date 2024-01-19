@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Dil terjimeçisi</string>
+  <string name="home">Öý</string>
+  <string name="shareVia">Paýlaşyň</string>
+  <string name="LanguageTranslator">Dil terjimeçisi</string>
+  <string name="Translate">Terjime et</string>
+  <string name="Conversation">Söhbet</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">İngilizce sözlük</string>
+  <string name="SearchWord">Gözleg sözi</string>
+  <string name="ShareWithFriends">Dostlaryňyz bilen paýlaşyň</string>
+  <string name="ChangeLanguage">Dil üýtgetmek</string>
+  <string name="PrivacyPolicy">Gizlinlik syýasaty</string>
+  <string name="Gallery">Galereýa</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Çykmak isleýärsiňizmi?</string>
+  <string name="Cancel">Elatyr</string>
+  <string name="Exit">Çyk</string>
+  <string name="SelectAppLanguage">Programma dilini saýlaň</string>
+  <string name="Ok">Bolýar</string>
+  <string name="Copy">Göçüriň</string>
+  <string name="FullScreen">Doly ekran</string>
+  <string name="ClearTitle">Arassala</string>
+  <string name="ClearConversationMsg">Gepleşigi arassalamak isleýändigiňize ynanýarsyňyzmy?</string>
+  <string name="Yes">Hawa</string>
+  <string name="No">.Ok</string>
+  <string name="SelectLanguage">Dil saýlaň</string>
+  <string name="Downloading">Ingüklemek</string>
+  <string name="DownloadDialogMsg">Modeliňiz göçürip alýarka garaşyň</string>
+  <string name="Download">Göçürip al</string>
+  <string name="DownloadModel">Model nusgasyny göçürip alyň</string>
+  <string name="DownloadModelDialogMsg">Bu dili saýlamazdan ozal modeli göçürip almaly</string>
+  <string name="UseWifiMsg">Öýjükli ulgamy ulanýarsyňyz. Modeli göçürip almak üçin Wifi ulanyň</string>
+  <string name="Searching">Gözlemek</string>
+  <string name="NotFound">Tapylmady</string>
+  <string name="Image">Surat:</string>
+  <string name="PleaseConnectToInternet">Internete birikmegiňizi haýyş edýäris</string>
+  <string name="NotFoundMsg">Gözleýän sözüňiz sözlügimizde ýok</string>
+  <string name="NoTextFoundToShare">Paýlaşmak üçin tekst tapylmady</string>
+  <string name="NoTranslationFoundToShare">Paýlaşmak üçin terjime tapylmady</string>
+  <string name="NoTranslationFoundToCopy">Göçürmek üçin terjime tapylmady</string>
+  <string name="NoTextFoundToCopy">Göçürmek üçin tekst tapylmady</string>
+  <string name="NoTextToSpeak">Geplejek tekst ýok</string>
+  <string name="LanguageDetected">Dil tapyldy</string>
+  <string name="OCRImage">OCR suraty</string>
+  <string name="OCRTranslation">OCR terjimesi</string>
+  <string name="CopiedToClipboard">Paneli göçürildi</string>
+  <string name="ChooseLanguageFirst">Dowam etmezden ozal ilki Dili saýlaň</string>
+  <string name="EnterTextToTranslate">Terjime etmek üçin tekst giriziň</string>
+  <string name="TextFromImage">Suratdan tekst</string>
+  <string name="GettingText">Tekst almak</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Gözlemek üçin käbir söz ýazmagyňyzy haýyş edýäris</string>
+  <string name="Translating">Terjime</string>
+  <string name="PermissionsNotGranted">Rugsat berilmedi</string>
+  <string name="CameraPermissionsMsg">Surata almak üçin kamera rugsatlaryny bermegiňizi haýyş edýäris</string>
+  <string name="StoragePermissionsMsg">Galereýadan şekil almak üçin içerki saklamaga rugsat bermegiňizi haýyş edýäris</string>
+  <string name="GrantPermissionsBtn">Rugsatnamalar</string>
+</resources>

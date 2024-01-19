@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Språköversättare</string>
+  <string name="home">Översätt</string>
+  <string name="shareVia">Dela via</string>
+  <string name="LanguageTranslator">Språköversättare</string>
+  <string name="Translate">Översätt</string>
+  <string name="Conversation">Konversation</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Engelsk ordbok</string>
+  <string name="SearchWord">Sökord</string>
+  <string name="ShareWithFriends">Dela med vänner</string>
+  <string name="ChangeLanguage">Ändra språk</string>
+  <string name="PrivacyPolicy">Integritetspolicy</string>
+  <string name="Gallery">Galleri</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Vill du gå ur</string>
+  <string name="Cancel">Annullera</string>
+  <string name="Exit">Utgång</string>
+  <string name="SelectAppLanguage">Välj appspråk</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopiera</string>
+  <string name="FullScreen">Fullskärm</string>
+  <string name="ClearTitle">Klar</string>
+  <string name="ClearConversationMsg">Är du säker på att du vill rensa konversationen?</string>
+  <string name="Yes">Ja</string>
+  <string name="No">Nej</string>
+  <string name="SelectLanguage">Välj språk</string>
+  <string name="Downloading">Laddar ner</string>
+  <string name="DownloadDialogMsg">Vänta medan din modell laddas ner</string>
+  <string name="Download">Ladda ner</string>
+  <string name="DownloadModel">Ladda ner modell</string>
+  <string name="DownloadModelDialogMsg">Du måste ladda ner modellen först innan du väljer detta språk</string>
+  <string name="UseWifiMsg">Du använder mobilnät. Använd Wifi för att ladda ner modellen</string>
+  <string name="Searching">Sökande</string>
+  <string name="NotFound">Hittades inte</string>
+  <string name="Image">Bild :</string>
+  <string name="PleaseConnectToInternet">Anslut till internet</string>
+  <string name="NotFoundMsg">Ordet du letar efter finns inte i vår ordbok</string>
+  <string name="NoTextFoundToShare">Ingen text hittades att dela</string>
+  <string name="NoTranslationFoundToShare">Ingen översättning hittades att dela</string>
+  <string name="NoTranslationFoundToCopy">Ingen översättning hittades att kopiera</string>
+  <string name="NoTextFoundToCopy">Ingen text hittades att kopiera</string>
+  <string name="NoTextToSpeak">Ingen text att tala</string>
+  <string name="LanguageDetected">Språk upptäckt</string>
+  <string name="OCRImage">OCR-bild</string>
+  <string name="OCRTranslation">OCR-översättning</string>
+  <string name="CopiedToClipboard">Kopierade till urklipp</string>
+  <string name="ChooseLanguageFirst">Välj språk först innan du går vidare</string>
+  <string name="EnterTextToTranslate">Skriv in text för att översätta</string>
+  <string name="TextFromImage">Text från bild</string>
+  <string name="GettingText">Får text</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Vänligen ange något ord för att söka</string>
+  <string name="Translating">Översätter</string>
+  <string name="PermissionsNotGranted">Tillstånd inte beviljade</string>
+  <string name="CameraPermissionsMsg">Vänligen ge kamerabehörighet att ta bilder</string>
+  <string name="StoragePermissionsMsg">Vänligen ge intern lagringsbehörighet för att hämta bilder från galleriet</string>
+  <string name="GrantPermissionsBtn">Bevilja behörigheter</string>
+  <string name="ad_is_loading">Annonsen laddas</string>
+  <string name="ooooppss_network_not_available">Ooooppss nätverk är inte tillgängligt.</string>
+  <string name="internet_warning_message">Oj, internet är inte ansluten. Anslut till internet för att använda ordboken.</string>
+
+</resources>

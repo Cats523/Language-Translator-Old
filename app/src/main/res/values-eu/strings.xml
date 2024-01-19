@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Hizkuntza itzultzailea</string>
+  <string name="home">Hasiera</string>
+  <string name="shareVia">Partekatu bidez</string>
+  <string name="LanguageTranslator">Hizkuntza itzultzailea</string>
+  <string name="Translate">Itzuli</string>
+  <string name="Conversation">Elkarrizketa</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Hiztegia</string>
+  <string name="SearchWord">Bilatu hitza</string>
+  <string name="ShareWithFriends">Partekatu lagunekin</string>
+  <string name="ChangeLanguage">Hizkuntza aldatu</string>
+  <string name="PrivacyPolicy">Pribatutasun-politika</string>
+  <string name="Gallery">Galeria</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Irten nahi al duzu</string>
+  <string name="Cancel">Utzi</string>
+  <string name="Exit">Irten</string>
+  <string name="SelectAppLanguage">Hautatu Aplikazioaren hizkuntza</string>
+  <string name="Ok">Ados</string>
+  <string name="Copy">Kopiatu</string>
+  <string name="FullScreen">Pantaila osoa</string>
+  <string name="ClearTitle">Garbi</string>
+  <string name="ClearConversationMsg">Ziur elkarrizketa garbitu nahi duzula?</string>
+  <string name="Yes">Bai</string>
+  <string name="No">Ez</string>
+  <string name="SelectLanguage">Hautatu Hizkuntza</string>
+  <string name="Downloading">Deskargatzen</string>
+  <string name="DownloadDialogMsg">Mesedez, itxaron zure modeloa deskargatzen ari den bitartean</string>
+  <string name="Download">Deskargatu</string>
+  <string name="DownloadModel">Deskargatu eredua</string>
+  <string name="DownloadModelDialogMsg">Eredua deskargatu behar duzu hizkuntza hau hautatu aurretik</string>
+  <string name="UseWifiMsg">Sare mugikorra erabiltzen ari zara. Mesedez, erabili Wifi eredua deskargatzeko</string>
+  <string name="Searching">Bilatzen</string>
+  <string name="NotFound">Ez da aurkitu</string>
+  <string name="Image">Irudia:</string>
+  <string name="PleaseConnectToInternet">Konektatu Internetera</string>
+  <string name="NotFoundMsg">Bilatzen ari zaren hitza ez da gure hiztegian aurkitzen</string>
+  <string name="NoTextFoundToShare">Ez da aurkitu testurik partekatzeko</string>
+  <string name="NoTranslationFoundToShare">Ez da itzulpenik aurkitu partekatzeko</string>
+  <string name="NoTranslationFoundToCopy">Ez da kopiatzeko itzulpenik aurkitu</string>
+  <string name="NoTextFoundToCopy">Ez da kopiatzeko testurik aurkitu</string>
+  <string name="NoTextToSpeak">Ez dago hitz egiteko testurik</string>
+  <string name="LanguageDetected">Hizkuntza detektatua</string>
+  <string name="OCRImage">OCR Irudia</string>
+  <string name="OCRTranslation">OCR Itzulpena</string>
+  <string name="CopiedToClipboard">Arbelean kopiatu da</string>
+  <string name="ChooseLanguageFirst">Aukeratu Hizkuntza lehenik aurrera jarraitu baino lehen</string>
+  <string name="EnterTextToTranslate">Idatzi testua itzultzeko</string>
+  <string name="TextFromImage">Irudiko testua</string>
+  <string name="GettingText">Testua jasotzea</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Mesedez, idatzi hitz batzuk bilatzeko</string>
+  <string name="Translating">Itzultzen</string>
+  <string name="PermissionsNotGranted">Baimenak ez dira eman</string>
+  <string name="CameraPermissionsMsg">Mesedez, eman kameraren baimenak irudia ateratzeko</string>
+  <string name="StoragePermissionsMsg">Mesedez, eman barne biltegiratze-baimenak galeriako irudiak ateratzeko</string>
+  <string name="GrantPermissionsBtn">Eman Baimenak</string>
+</resources>

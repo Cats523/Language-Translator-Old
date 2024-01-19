@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">ນັກແປພາສາ</string>
+  <string name="home">ບ້ານ</string>
+  <string name="shareVia">ແບ່ງປັນຜ່ານ</string>
+  <string name="LanguageTranslator">ນັກແປພາສາ</string>
+  <string name="Translate">ແປ</string>
+  <string name="Conversation">ການສົນທະນາ</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">ວັດ​ຈະ​ນາ​ນຸ​ກົມ</string>
+  <string name="SearchWord">ຊອກຫາຄໍາ</string>
+  <string name="ShareWithFriends">ແບ່ງປັນກັບຫມູ່ເພື່ອນ</string>
+  <string name="ChangeLanguage">ປ່ຽນ​ພາ​ສາ</string>
+  <string name="PrivacyPolicy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</string>
+  <string name="Gallery">ຄັງຮູບ</string>
+  <string name="Camera">ກ້ອງ​ຖ່າຍ​ຮູບ</string>
+  <string name="DoYouWantToExit">ທ່ານຕ້ອງການອອກບໍ</string>
+  <string name="Cancel">ຍົກເລີກ</string>
+  <string name="Exit">ອອກໄປ</string>
+  <string name="SelectAppLanguage">ເລືອກ App Language</string>
+  <string name="Ok">ຕົກ​ລົງ</string>
+  <string name="Copy">ສຳເນົາ</string>
+  <string name="FullScreen">ເຕັມ​ຈໍ</string>
+  <string name="ClearTitle">ຈະແຈ້ງ</string>
+  <string name="ClearConversationMsg">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບລ້າງການສົນທະນາ?</string>
+  <string name="Yes">ແມ່ນແລ້ວ</string>
+  <string name="No">ບໍ່</string>
+  <string name="SelectLanguage">ເລືອກພາສາ</string>
+  <string name="Downloading">ກຳລັງດາວໂຫຼດ</string>
+  <string name="DownloadDialogMsg">ກະລຸນາລໍຖ້າໃນຂະນະທີ່ຕົວແບບຂອງທ່ານກຳລັງດາວໂຫຼດ</string>
+  <string name="Download">ດາວໂຫຼດ</string>
+  <string name="DownloadModel">ດາວໂຫລດຕົວແບບ</string>
+  <string name="DownloadModelDialogMsg">ທ່ານຈໍາເປັນຕ້ອງໄດ້ດາວໂຫລດຮູບແບບທໍາອິດກ່ອນທີ່ທ່ານຈະເລືອກພາສານີ້</string>
+  <string name="UseWifiMsg">ທ່ານກຳລັງໃຊ້ເຄືອຂ່າຍມືຖື. ກະລຸນາໃຊ້ Wifi ເພື່ອດາວໂຫລດຕົວແບບ</string>
+  <string name="Searching">ກຳລັງຊອກຫາ</string>
+  <string name="NotFound">ບໍ່​ພົບ</string>
+  <string name="Image">ຮູບພາບ:</string>
+  <string name="PleaseConnectToInternet">ກະລຸນາເຊື່ອມຕໍ່ອິນເຕີເນັດ</string>
+  <string name="NotFoundMsg">ຄຳສັບທີ່ທ່ານຊອກຫານັ້ນບໍ່ພົບຢູ່ໃນວັດຈະນານຸກົມຂອງພວກເຮົາ</string>
+  <string name="NoTextFoundToShare">ບໍ່ພົບຂໍ້ຄວາມທີ່ຈະແບ່ງປັນ</string>
+  <string name="NoTranslationFoundToShare">ບໍ່ພົບການແປເພື່ອແບ່ງປັນ</string>
+  <string name="NoTranslationFoundToCopy">ບໍ່ພົບການແປໃຫ້ສຳເນົາ</string>
+  <string name="NoTextFoundToCopy">ບໍ່ພົບຂໍ້ຄວາມທີ່ຈະສຳເນົາ</string>
+  <string name="NoTextToSpeak">ບໍ່ມີຂໍ້ຄວາມທີ່ຈະເວົ້າ</string>
+  <string name="LanguageDetected">ກວດພົບພາສາ</string>
+  <string name="OCRImage">OCR ຮູບພາບ</string>
+  <string name="OCRTranslation">ການແປ OCR</string>
+  <string name="CopiedToClipboard">ສຳເນົາໃສ່ຄລິບບອດແລ້ວ</string>
+  <string name="ChooseLanguageFirst">ເລືອກພາສາທໍາອິດກ່ອນທີ່ທ່ານຈະດໍາເນີນການຕໍ່ໄປ</string>
+  <string name="EnterTextToTranslate">ໃສ່ຂໍ້ຄວາມເພື່ອແປ</string>
+  <string name="TextFromImage">ຂໍ້ຄວາມຈາກຮູບພາບ</string>
+  <string name="GettingText">ກຳລັງຮັບຂໍ້ຄວາມ</string>
+  <string name="PleaseEnterWordToSearchInDictionary">ກະລຸນາໃສ່ບາງຄໍາເພື່ອຊອກຫາ</string>
+  <string name="Translating">ການແປ</string>
+  <string name="PermissionsNotGranted">ບໍ່ໄດ້ຮັບອະນຸຍາດ</string>
+  <string name="CameraPermissionsMsg">ກະລຸນາໃຫ້ການອະນຸຍາດກ້ອງຖ່າຍຮູບເພື່ອຖ່າຍຮູບ</string>
+  <string name="StoragePermissionsMsg">ກະລຸນາໃຫ້ການອະນຸຍາດບ່ອນຈັດເກັບຂໍ້ມູນພາຍໃນເພື່ອເອົາຮູບພາບຈາກຄັງຮູບ</string>
+  <string name="GrantPermissionsBtn">ໃຫ້ການອະນຸຍາດ</string>
+</resources>

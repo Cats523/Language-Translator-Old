@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Språkoversetter</string>
+  <string name="home">Hjem</string>
+  <string name="shareVia">Del via</string>
+  <string name="LanguageTranslator">Språkoversetter</string>
+  <string name="Translate">Oversette</string>
+  <string name="Conversation">Samtale</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Ordbok</string>
+  <string name="SearchWord">Søkeord</string>
+  <string name="ShareWithFriends">Del med venner</string>
+  <string name="ChangeLanguage">Skifte språk</string>
+  <string name="PrivacyPolicy">Personvernerklæring</string>
+  <string name="Gallery">Galleri</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Vil du avslutte</string>
+  <string name="Cancel">Avbryt</string>
+  <string name="Exit">Exit</string>
+  <string name="SelectAppLanguage">Velg appspråk</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopiere</string>
+  <string name="FullScreen">Full skjerm</string>
+  <string name="ClearTitle">Klar</string>
+  <string name="ClearConversationMsg">Er du sikker på at du vil slette samtalen?</string>
+  <string name="Yes">Ja</string>
+  <string name="No">Nei</string>
+  <string name="SelectLanguage">Velg språk</string>
+  <string name="Downloading">Laster ned</string>
+  <string name="DownloadDialogMsg">Vent mens modellen din laster ned</string>
+  <string name="Download">Nedlasting</string>
+  <string name="DownloadModel">Last ned modell</string>
+  <string name="DownloadModelDialogMsg">Du må laste ned modellen først før du velger dette språket</string>
+  <string name="UseWifiMsg">Du bruker mobilnettverk. Bruk Wifi for å laste ned modellen</string>
+  <string name="Searching">Søker</string>
+  <string name="NotFound">Ikke funnet</string>
+  <string name="Image">Bilde :</string>
+  <string name="PleaseConnectToInternet">Koble til internett</string>
+  <string name="NotFoundMsg">Ordet du leter etter finnes ikke i vår ordbok</string>
+  <string name="NoTextFoundToShare">Fant ingen tekst å dele</string>
+  <string name="NoTranslationFoundToShare">Fant ingen oversettelse å dele</string>
+  <string name="NoTranslationFoundToCopy">Fant ingen oversettelse å kopiere</string>
+  <string name="NoTextFoundToCopy">Fant ingen tekst å kopiere</string>
+  <string name="NoTextToSpeak">Ingen tekst å snakke</string>
+  <string name="LanguageDetected">Språk oppdaget</string>
+  <string name="OCRImage">OCR-bilde</string>
+  <string name="OCRTranslation">OCR-oversettelse</string>
+  <string name="CopiedToClipboard">Kopiert til utklippstavlen</string>
+  <string name="ChooseLanguageFirst">Velg språk først før du fortsetter</string>
+  <string name="EnterTextToTranslate">Skriv inn tekst for å oversette</string>
+  <string name="TextFromImage">Tekst fra bilde</string>
+  <string name="GettingText">Får tekst</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Skriv inn et ord for å søke</string>
+  <string name="Translating">Oversettelse</string>
+  <string name="PermissionsNotGranted">Tillatelser ikke gitt</string>
+  <string name="CameraPermissionsMsg">Gi kameraet tillatelse til å ta bilder</string>
+  <string name="StoragePermissionsMsg">Vennligst gi intern lagringstillatelse for å hente bilder fra galleriet</string>
+  <string name="GrantPermissionsBtn">Gi tillatelser</string>
+</resources>

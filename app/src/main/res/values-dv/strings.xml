@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">ބަސް ތަރުޖަމާނު</string>
+  <string name="home">ގެ</string>
+  <string name="shareVia">ޝެއާ ވިއާ...</string>
+  <string name="LanguageTranslator">ބަސް ތަރުޖަމާނު</string>
+  <string name="Translate">ތަރުޖަމާކުރުން</string>
+  <string name="Conversation">ވާހަކަ</string>
+  <string name="OCR">އޯސީއާރު</string>
+  <string name="Dictionary">ބަސްފޮތް</string>
+  <string name="SearchWord">ސަރޗް ވޯޑް</string>
+  <string name="ShareWithFriends">ރައްޓެހިންނާ ހިއްސާ ކުރާށެވެ</string>
+  <string name="ChangeLanguage">ބަސް ބަދަލުކުރުން</string>
+  <string name="PrivacyPolicy">ޕްރައިވެސީ ޕޮލިސީ</string>
+  <string name="Gallery">ގެލެރީ</string>
+  <string name="Camera">ކެމެރާ</string>
+  <string name="DoYouWantToExit">ނިކުންނަން ބޭނުން ހެއްޔެވެ</string>
+  <string name="Cancel">ކެންސަލް</string>
+  <string name="Exit">ނިކުންނަ</string>
+  <string name="SelectAppLanguage">އެޕް ލެންގުއޭޖް ހޮވާށެވެ</string>
+  <string name="Ok">އެންމެ ރަނގަޅު</string>
+  <string name="Copy">ކޮޕީ</string>
+  <string name="FullScreen">ފުލް ސްކްރީން</string>
+  <string name="ClearTitle">ސާފުކޮށް</string>
+  <string name="ClearConversationMsg">ވާހަކަ ސާފުކުރަން ބޭނުންވާކަން ޔަގީން ހެއްޔެވެ؟</string>
+  <string name="Yes">އާނ</string>
+  <string name="No">ނޫން</string>
+  <string name="SelectLanguage">ބަސް ހޮވާށެވެ</string>
+  <string name="Downloading">ޑައުންލޯޑް ކުރަނީ</string>
+  <string name="DownloadDialogMsg">ތިޔަބޭފުޅުންގެ މޮޑެލް ޑައުންލޯޑް ކުރެވެމުންދާއިރު މަޑުކޮށްލައްވާށެވެ</string>
+  <string name="Download">ޑައުންލޯޑް</string>
+  <string name="DownloadModel">ޑައުންލޯޑް މޮޑެލް</string>
+  <string name="DownloadModelDialogMsg">މި ބަސް ހޮވުމުގެ ކުރިން ފުރަތަމަ މޮޑެލް ޑައުންލޯޑް ކުރަން ޖެހެއެވެ</string>
+  <string name="UseWifiMsg">ތިޔަ ބޭނުން ކުރަނީ ސެލްއުލަރ ނެޓްވޯކެވެ. މޮޑެލް ޑައުންލޯޑް ކުރުމަށް ވައިފައި ބޭނުން ކުރައްވާށެވެ</string>
+  <string name="Searching">ހޯދަމުން</string>
+  <string name="NotFound">ނުފެނޭ</string>
+  <string name="Image">ފޮޓޯ :</string>
+  <string name="PleaseConnectToInternet">އިންޓަނެޓާ ގުޅުއްވުން އެދެމެވެ</string>
+  <string name="NotFoundMsg">ތިޔަ ހޯދަމުންދާ ލަފުޒު އަޅުގަނޑުމެންގެ ބަސްފޮތުން ނުފެނެއެވެ</string>
+  <string name="NoTextFoundToShare">ހިއްސާ ކުރަން އެއްވެސް ޓެކްސްޓެއް ނުފެނެއެވެ</string>
+  <string name="NoTranslationFoundToShare">ހިއްސާ ކުރަން ތަރުޖަމާއެއް ނުފެނެއެވެ</string>
+  <string name="NoTranslationFoundToCopy">ކޮޕީ ކުރަން ތަރުޖަމާއެއް ނުފެނެއެވެ</string>
+  <string name="NoTextFoundToCopy">ކޮޕީ ކުރަން އެއްވެސް ލިޔުމެއް ނުފެނެއެވެ</string>
+  <string name="NoTextToSpeak">ވާހަކަ ދައްކާނެ ޓެކްސްޓެއް ނެތެވެ</string>
+  <string name="LanguageDetected">ބަސް ފާހަގަކުރެވިއްޖެއެވެ</string>
+  <string name="OCRImage">އޯސީއާރު އިމޭޖް</string>
+  <string name="OCRTranslation">އޯސީއާރު ތަރުޖަމާ</string>
+  <string name="CopiedToClipboard">ކްލިޕްބޯޑަށް ކޮޕީކޮށްފައިވެއެވެ</string>
+  <string name="ChooseLanguageFirst">އިތުރަށް ކުރިއަށް ދިއުމުގެ ކުރިން ފުރަތަމަ ބަސް ހޮވާށެވެ</string>
+  <string name="EnterTextToTranslate">ތަރުޖަމާ ކުރުމަށް ޓެކްސްޓް ލިޔެލާށެވެ</string>
+  <string name="TextFromImage">ތަސްވީރުން ޓެކްސްޓް</string>
+  <string name="GettingText">ޓެކްސްޓް ލިބުން</string>
+  <string name="PleaseEnterWordToSearchInDictionary">ހޯދުމަށް ކޮންމެވެސް ލަފުޒެއް ޖައްސަވާށެވެ</string>
+  <string name="Translating">ތަރުޖަމާކުރުން</string>
+  <string name="PermissionsNotGranted">ހުއްދަތައް ނުދީ</string>
+  <string name="CameraPermissionsMsg">އިމޭޖް ނެގުމަށް ކެމެރާގެ ހުއްދަ ދެއްވުން އެދެމެވެ</string>
+  <string name="StoragePermissionsMsg">ގެލެރީން އިމޭޖް ހޯދުމަށް އިންޓަރނަލް ސްޓޯރޭޖް ހުއްދަ ދެއްވުން އެދެމެވެ</string>
+  <string name="GrantPermissionsBtn">ހުއްދަ ދިނުން</string>
+</resources>

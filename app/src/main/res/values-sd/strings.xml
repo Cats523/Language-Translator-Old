@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">ٻولي مترجم</string>
+  <string name="home">گهر</string>
+  <string name="shareVia">ذريعي حصيداري ڪريو</string>
+  <string name="LanguageTranslator">ٻولي مترجم</string>
+  <string name="Translate">ترجمو</string>
+  <string name="Conversation">ڳالهه ٻولهه</string>
+  <string name="OCR">او سي آر</string>
+  <string name="Dictionary">لغت</string>
+  <string name="SearchWord">ڳولا لفظ</string>
+  <string name="ShareWithFriends">دوستن سان شيئر ڪريو</string>
+  <string name="ChangeLanguage">ٻولي تبديل ڪريو</string>
+  <string name="PrivacyPolicy">رازداري پاليسي</string>
+  <string name="Gallery">گيلري</string>
+  <string name="Camera">ڪئميرا</string>
+  <string name="DoYouWantToExit">ڇا توھان نڪرڻ چاھيو ٿا</string>
+  <string name="Cancel">منسوخ ڪريو</string>
+  <string name="Exit">نڪرڻ</string>
+  <string name="SelectAppLanguage">ايپ جي ٻولي چونڊيو</string>
+  <string name="Ok">ٺيڪ</string>
+  <string name="Copy">ڪاپي</string>
+  <string name="FullScreen">مڪمل اسڪرين</string>
+  <string name="ClearTitle">پڌرو</string>
+  <string name="ClearConversationMsg">ڇا توهان پڪ سان گفتگو کي صاف ڪرڻ چاهيو ٿا؟</string>
+  <string name="Yes">ها</string>
+  <string name="No">نه</string>
+  <string name="SelectLanguage">ٻولي چونڊيو</string>
+  <string name="Downloading">ڊائون لوڊ ڪندي</string>
+  <string name="DownloadDialogMsg">مھرباني ڪري انتظار ڪريو جڏھن توھان جو ماڊل ڊائون لوڊ ٿي رھيو آھي</string>
+  <string name="Download">ڊائون لوڊ ڪريو</string>
+  <string name="DownloadModel">ڊائون لوڊ ماڊل</string>
+  <string name="DownloadModelDialogMsg">توھان کي ضرورت آھي ته ھن ٻولي کي چونڊڻ کان پھريائين ماڊل کي ڊائون لوڊ ڪريو</string>
+  <string name="UseWifiMsg">توھان استعمال ڪري رھيا آھيو سيلولر نيٽ ورڪ. مھرباني ڪري ماڊل ڊائون لوڊ ڪرڻ لاءِ وائي فائي استعمال ڪريو</string>
+  <string name="Searching">ڳولهي رهيو آهي</string>
+  <string name="NotFound">نه مليو</string>
+  <string name="Image">تصوير:</string>
+  <string name="PleaseConnectToInternet">مهرباني ڪري انٽرنيٽ سان ڳنڍيو</string>
+  <string name="NotFoundMsg">جيڪو لفظ توهان ڳولي رهيا آهيو اهو اسان جي ڊڪشنري ۾ نه مليو آهي</string>
+  <string name="NoTextFoundToShare">شيئر ڪرڻ لاءِ ڪوبه متن نه مليو</string>
+  <string name="NoTranslationFoundToShare">شيئر ڪرڻ لاءِ ڪوبه ترجمو نه مليو</string>
+  <string name="NoTranslationFoundToCopy">نقل ڪرڻ لاءِ ڪوبه ترجمو نه مليو</string>
+  <string name="NoTextFoundToCopy">ڪاپي ڪرڻ لاءِ ڪوبه متن نه مليو</string>
+  <string name="NoTextToSpeak">ڳالهائڻ لاءِ ڪوبه متن نه آهي</string>
+  <string name="LanguageDetected">ٻولي معلوم ڪئي وئي</string>
+  <string name="OCRImage">OCR تصوير</string>
+  <string name="OCRTranslation">OCR ترجمو</string>
+  <string name="CopiedToClipboard">ڪلپ بورڊ تي نقل ڪيو ويو</string>
+  <string name="ChooseLanguageFirst">توھان اڳتي وڌڻ کان پھريان ٻولي چونڊيو</string>
+  <string name="EnterTextToTranslate">ترجمو ڪرڻ لاءِ متن داخل ڪريو</string>
+  <string name="TextFromImage">تصوير مان متن</string>
+  <string name="GettingText">متن حاصل ڪرڻ</string>
+  <string name="PleaseEnterWordToSearchInDictionary">مھرباني ڪري ڪجھ لفظ ڳولھيو</string>
+  <string name="Translating">ترجمو ڪرڻ</string>
+  <string name="PermissionsNotGranted">اجازت نه ڏني وئي</string>
+  <string name="CameraPermissionsMsg">مهرباني ڪري تصوير کي پڪڙڻ لاءِ ڪئميرا جي اجازت ڏيو</string>
+  <string name="StoragePermissionsMsg">مھرباني ڪري گيلري مان تصوير حاصل ڪرڻ لاءِ اندروني اسٽوريج جي اجازت ڏيو</string>
+  <string name="GrantPermissionsBtn">اجازتون ڏيو</string>
+</resources>

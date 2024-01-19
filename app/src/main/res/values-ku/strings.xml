@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Wergêr Ziman</string>
+  <string name="home">Xane</string>
+  <string name="shareVia">Share bi rêya</string>
+  <string name="LanguageTranslator">Wergêr Ziman</string>
+  <string name="Translate">Wergerandin</string>
+  <string name="Conversation">Kêfî</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Ferheng</string>
+  <string name="SearchWord">Peyva lêgerînê</string>
+  <string name="ShareWithFriends">Bi Hevalan re parve bikin</string>
+  <string name="ChangeLanguage">Ziman biguherînin</string>
+  <string name="PrivacyPolicy">Privacy Policy</string>
+  <string name="Gallery">Galerya</string>
+  <string name="Camera">Kamîra</string>
+  <string name="DoYouWantToExit">Ma hûn dixwazin derkevin</string>
+  <string name="Cancel">Bişûndekirin</string>
+  <string name="Exit">Derî</string>
+  <string name="SelectAppLanguage">Ziman App Hilbijêre</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopî</string>
+  <string name="FullScreen">Full Screen</string>
+  <string name="ClearTitle">Zelal</string>
+  <string name="ClearConversationMsg">Ma hûn guman dikin ku hûn dixwazin danûstandinê paqij bikin?</string>
+  <string name="Yes">Erê</string>
+  <string name="No">Na</string>
+  <string name="SelectLanguage">Ziman hilbijêrin</string>
+  <string name="Downloading">Daxistin</string>
+  <string name="DownloadDialogMsg">Ji kerema xwe dema ku modela we tê dakêşandin bisekinin</string>
+  <string name="Download">Download</string>
+  <string name="DownloadModel">Modela Daxistin</string>
+  <string name="DownloadModelDialogMsg">Berî ku hûn vî zimanî hilbijêrin, divê hûn pêşî modelê dakêşin</string>
+  <string name="UseWifiMsg">Hûn tora hucreyê bikar tînin. Ji kerema xwe Wifi bikar bînin da ku modelê dakêşin</string>
+  <string name="Searching">Lêgerîn</string>
+  <string name="NotFound">Peyda nebû</string>
+  <string name="Image">Wêne:</string>
+  <string name="PleaseConnectToInternet">Ji kerema xwe ve girêdayî înternetê</string>
+  <string name="NotFoundMsg">Peyva ku hûn lê digerin di ferhenga me de nayê dîtin</string>
+  <string name="NoTextFoundToShare">Nivîsarek ji bo parvekirinê nehat dîtin</string>
+  <string name="NoTranslationFoundToShare">Wergerek ji bo parvekirinê nehat dîtin</string>
+  <string name="NoTranslationFoundToCopy">Wergera ji bo kopîkirinê nehat dîtin</string>
+  <string name="NoTextFoundToCopy">Nivîsarek ji bo kopîkirinê nehat dîtin</string>
+  <string name="NoTextToSpeak">Nivîsarek ji bo axaftinê tune</string>
+  <string name="LanguageDetected">Ziman Hatiye Tesbîtkirin</string>
+  <string name="OCRImage">Wêne OCR</string>
+  <string name="OCRTranslation">Wergera OCR</string>
+  <string name="CopiedToClipboard">Li clipboardê hate kopî kirin</string>
+  <string name="ChooseLanguageFirst">Pêşî Ziman Hilbijêre Berî ku hûn bêtir bidomînin</string>
+  <string name="EnterTextToTranslate">Ji bo wergerandinê nivîsê binivîse</string>
+  <string name="TextFromImage">Nivîsar ji wêneyê</string>
+  <string name="GettingText">Nivîsar distîne</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Ji kerema xwe hin peyvan têkevin lêgerînê</string>
+  <string name="Translating">Wergerandin</string>
+  <string name="PermissionsNotGranted">Destûr nehatine dayîn</string>
+  <string name="CameraPermissionsMsg">Ji kerema xwe ji bo kişandina wêneyê destûrên kamerayê bidin</string>
+  <string name="StoragePermissionsMsg">Ji kerema xwe destûrên hilanîna navxweyî bidin ku wêneyê ji galeriyê bistînin</string>
+  <string name="GrantPermissionsBtn">Destûran bidin</string>
+</resources>

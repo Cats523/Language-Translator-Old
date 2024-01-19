@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Muhundzuluxeri wa Ririmi</string>
+  <string name="home">Kaya</string>
+  <string name="shareVia">Share via</string>
+  <string name="LanguageTranslator">Muhundzuluxeri wa Ririmi</string>
+  <string name="Translate">Hundzuluxa</string>
+  <string name="Conversation">Mbhurisano</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Dikixinari</string>
+  <string name="SearchWord">Rito ro lavisisa</string>
+  <string name="ShareWithFriends">Hlanganisa na Vanghana</string>
+  <string name="ChangeLanguage">Cinca Ririmi</string>
+  <string name="PrivacyPolicy">Pholisi ya Vuhlayiseki bya Swihundla</string>
+  <string name="Gallery">Gallery ya swifaniso</string>
+  <string name="Camera">Khamera</string>
+  <string name="DoYouWantToExit">Xana u lava ku huma</string>
+  <string name="Cancel">Khansela</string>
+  <string name="Exit">Huma</string>
+  <string name="SelectAppLanguage">Hlawula Ririmi ra App</string>
+  <string name="Ok">LULAMILE</string>
+  <string name="Copy">Kopa</string>
+  <string name="FullScreen">Xikirini lexi heleleke</string>
+  <string name="ClearTitle">Rivaleni</string>
+  <string name="ClearConversationMsg">Xana wa tiyiseka leswaku u lava ku basisa bulo?</string>
+  <string name="Yes">Ina</string>
+  <string name="No">E-e</string>
+  <string name="SelectLanguage">Hlawula Ririmi</string>
+  <string name="Downloading">Ku dawuniloda</string>
+  <string name="DownloadDialogMsg">Hi kombela mi yima loko model ya n\'wina yi ri karhi yi downloada</string>
+  <string name="Download">Downloda</string>
+  <string name="DownloadModel">Download Model</string>
+  <string name="DownloadModelDialogMsg">U fanele u rhanga u kopa modele u nga si hlawula ririmi leri</string>
+  <string name="UseWifiMsg">U tirhisa netiweke ya tisele. Hi kombela mi tirhisa Wifi ku download model</string>
+  <string name="Searching">Ku lavisisa</string>
+  <string name="NotFound">A Swi Kumiwanga</string>
+  <string name="Image">Xivumbeko :</string>
+  <string name="PleaseConnectToInternet">Hi kombela u tihlanganisa na internet</string>
+  <string name="NotFoundMsg">Rito leri u ri lavaka a ri kumeki eka xihlamusela-marito xa hina</string>
+  <string name="NoTextFoundToShare">Ku hava tsalwa leri kumiweke ku avelana</string>
+  <string name="NoTranslationFoundToShare">Ku hava vuhundzuluxeri lebyi kumiweke ku avelana</string>
+  <string name="NoTranslationFoundToCopy">Ku hava vuhundzuluxeri lebyi kumiweke leswaku byi kopiwa</string>
+  <string name="NoTextFoundToCopy">Ku hava tsalwa leri kumiweke leswaku ri kopiwa</string>
+  <string name="NoTextToSpeak">Ku hava tsalwa ro vulavula</string>
+  <string name="LanguageDetected">Ririmi Ri Kumiwe</string>
+  <string name="OCRImage">Xifaniso xa OCR</string>
+  <string name="OCRTranslation">Vuhundzuluxeri bya OCR</string>
+  <string name="CopiedToClipboard">Ku kopiwile eka clipboard</string>
+  <string name="ChooseLanguageFirst">Hlawula Ririmi ku sungula u nga si ya emahlweni</string>
+  <string name="EnterTextToTranslate">Nghenisa tsalwa leswaku u hundzuluxela</string>
+  <string name="TextFromImage">Tsalwa leri humaka eka xifaniso</string>
+  <string name="GettingText">Ku kuma tsalwa</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Hi kombela u nghenisa rito rin’wana ro lavisisa</string>
+  <string name="Translating">Ku hundzuluxela</string>
+  <string name="PermissionsNotGranted">Mpfumelelo a wu nyikiwanga</string>
+  <string name="CameraPermissionsMsg">Hi kombela u nyika mpfumelelo wa khamera ku teka xifaniso</string>
+  <string name="StoragePermissionsMsg">Hi kombela u nyika mpfumelelo wa vuhlayiselo bya le ndzeni ku kuma xifaniso ku suka eka galari</string>
+  <string name="GrantPermissionsBtn">Nyika Mpfumelelo</string>
+</resources>

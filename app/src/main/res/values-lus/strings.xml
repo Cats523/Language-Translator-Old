@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Ṭawng Lehlintu</string>
+  <string name="home">In</string>
+  <string name="shareVia">Share via</string>
+  <string name="LanguageTranslator">Ṭawng Lehlintu</string>
+  <string name="Translate">Letling</string>
+  <string name="Conversation">Inbiakna</string>
+  <string name="OCR">OCR a ni</string>
+  <string name="Dictionary">Tawng lehlinna lehkhabu</string>
+  <string name="SearchWord">Thumal zawng rawh</string>
+  <string name="ShareWithFriends">Thiante hnenah share ve rawh</string>
+  <string name="ChangeLanguage">Ṭawng thlak danglam</string>
+  <string name="PrivacyPolicy">Thuruk humhalh dan tur</string>
+  <string name="Gallery">Gallery ah a awm a</string>
+  <string name="Camera">Camera hmanga siam a ni</string>
+  <string name="DoYouWantToExit">I chhuah duh em</string>
+  <string name="Cancel">Titawp</string>
+  <string name="Exit">Chhuak</string>
+  <string name="SelectAppLanguage">App Language tih kha thlang rawh</string>
+  <string name="Ok">A THA E</string>
+  <string name="Copy">Copy rawh</string>
+  <string name="FullScreen">Full Screen ah a awm</string>
+  <string name="ClearTitle">Fiah</string>
+  <string name="ClearConversationMsg">Inbiakna chu tihfai i duh tih i chiang em?</string>
+  <string name="Yes">Awle</string>
+  <string name="No">Aih</string>
+  <string name="SelectLanguage">Ṭawng thlang rawh</string>
+  <string name="Downloading">Download mek a ni</string>
+  <string name="DownloadDialogMsg">I model download lai hian lo nghak rawh</string>
+  <string name="Download">Internet atanga thil lachhawng</string>
+  <string name="DownloadModel">Model download rawh</string>
+  <string name="DownloadModelDialogMsg">He tawng i thlan hmain model hi i download hmasa tur a ni</string>
+  <string name="UseWifiMsg">Cellular network i hmang a ni. Khawngaihin Wifi hmangin model download rawh</string>
+  <string name="Searching">A zawng chhuak ta</string>
+  <string name="NotFound">Hmuh Loh</string>
+  <string name="Image">Thlalak :</string>
+  <string name="PleaseConnectToInternet">Khawngaihin internet connect rawh</string>
+  <string name="NotFoundMsg">I thumal zawn chu kan dictionary-ah hmuh tur a awm lo</string>
+  <string name="NoTextFoundToShare">Share tur text hmuh tur a awm lo</string>
+  <string name="NoTranslationFoundToShare">Share tur lehlin hmuh tur a awm lo</string>
+  <string name="NoTranslationFoundToCopy">Copy tur lehlin hmuh tur a awm lo</string>
+  <string name="NoTextFoundToCopy">Copy tur text hmuh tur a awm lo</string>
+  <string name="NoTextToSpeak">Thusawi tur text a awm lo</string>
+  <string name="LanguageDetected">Ṭawng Hmuhchhuah a ni</string>
+  <string name="OCRImage">OCR Hmanlai thil hlui</string>
+  <string name="OCRTranslation">OCR Lehlin a ni</string>
+  <string name="CopiedToClipboard">Clipboard ah copy a ni</string>
+  <string name="ChooseLanguageFirst">I kal zel hmain Language thlang hmasa phawt ang che</string>
+  <string name="EnterTextToTranslate">Lehlin tur text ziak lut rawh</string>
+  <string name="TextFromImage">Hmanlai thlalak atanga text</string>
+  <string name="GettingText">Text dawng</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Search tur thumal engemaw zat i ziak lut dawn nia</string>
+  <string name="Translating">Lehlin a ni</string>
+  <string name="PermissionsNotGranted">Phalna pek a ni lo</string>
+  <string name="CameraPermissionsMsg">Image lak theihna tur camera phalna pe rawh</string>
+  <string name="StoragePermissionsMsg">Gallery atanga image lak theih nan internal storage permission pe rawh</string>
+  <string name="GrantPermissionsBtn">Phalna pe rawh</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="@string/Copy"
+        android:id="@+id/copyMenuItem"
+        android:icon="@drawable/ic_baseline_content_copy_24"
+        android:iconTint="@color/black"/>
+
+
+    <item
+        android:title="@string/FullScreen"
+        android:id="@+id/fullScreenMenuItem"
+        android:icon="@drawable/full_screen"
+        android:iconTint="@color/black"/>
+
+</menu>

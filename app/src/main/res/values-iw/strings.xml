@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">מתרגם שפה</string>
+  <string name="home">בית</string>
+  <string name="shareVia">שתף באמצעות</string>
+  <string name="LanguageTranslator">מתרגם שפה</string>
+  <string name="Translate">לתרגם</string>
+  <string name="Conversation">שִׂיחָה</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">מילון</string>
+  <string name="SearchWord">מילת חיפוש</string>
+  <string name="ShareWithFriends">לשתף עם חברים</string>
+  <string name="ChangeLanguage">שנה שפה</string>
+  <string name="PrivacyPolicy">מדיניות הפרטיות</string>
+  <string name="Gallery">גלריה</string>
+  <string name="Camera">מַצלֵמָה</string>
+  <string name="DoYouWantToExit">האם אתה רוצה לצאת</string>
+  <string name="Cancel">לְבַטֵל</string>
+  <string name="Exit">יְצִיאָה</string>
+  <string name="SelectAppLanguage">בחר שפת אפליקציה</string>
+  <string name="Ok">בסדר</string>
+  <string name="Copy">עותק</string>
+  <string name="FullScreen">מסך מלא</string>
+  <string name="ClearTitle">ברור</string>
+  <string name="ClearConversationMsg">האם אתה בטוח שברצונך לנקות את השיחה?</string>
+  <string name="Yes">כן</string>
+  <string name="No">לא</string>
+  <string name="SelectLanguage">בחר שפה</string>
+  <string name="Downloading">מוריד</string>
+  <string name="DownloadDialogMsg">המתן בזמן שהדגם שלך מוריד</string>
+  <string name="Download">הורד</string>
+  <string name="DownloadModel">הורד דגם</string>
+  <string name="DownloadModelDialogMsg">תחילה עליך להוריד את הדגם לפני שתבחר בשפה זו</string>
+  <string name="UseWifiMsg">אתה משתמש ברשת סלולרית. אנא השתמש ב-Wi-Fi כדי להוריד את הדגם</string>
+  <string name="Searching">מחפש</string>
+  <string name="NotFound">לא נמצא</string>
+  <string name="Image">תמונה :</string>
+  <string name="PleaseConnectToInternet">אנא התחבר לאינטרנט</string>
+  <string name="NotFoundMsg">המילה שאתה מחפש לא נמצאת במילון שלנו</string>
+  <string name="NoTextFoundToShare">לא נמצא טקסט לשיתוף</string>
+  <string name="NoTranslationFoundToShare">לא נמצא תרגום לשיתוף</string>
+  <string name="NoTranslationFoundToCopy">לא נמצא תרגום להעתקה</string>
+  <string name="NoTextFoundToCopy">לא נמצא טקסט להעתקה</string>
+  <string name="NoTextToSpeak">אין טקסט לדבר</string>
+  <string name="LanguageDetected">זוהתה שפה</string>
+  <string name="OCRImage">תמונת OCR</string>
+  <string name="OCRTranslation">תרגום OCR</string>
+  <string name="CopiedToClipboard">הועתק ללוח</string>
+  <string name="ChooseLanguageFirst">תחילה בחר שפה לפני שתמשיך הלאה</string>
+  <string name="EnterTextToTranslate">הזן טקסט לתרגום</string>
+  <string name="TextFromImage">טקסט מתוך תמונה</string>
+  <string name="GettingText">מקבל טקסט</string>
+  <string name="PleaseEnterWordToSearchInDictionary">אנא הזן מילה כלשהי לחיפוש</string>
+  <string name="Translating">תִרגוּם</string>
+  <string name="PermissionsNotGranted">הרשאות לא ניתנו</string>
+  <string name="CameraPermissionsMsg">אנא הענק הרשאות למצלמה כדי לצלם תמונה</string>
+  <string name="StoragePermissionsMsg">אנא הענק הרשאות אחסון פנימי כדי לקבל תמונה מהגלריה</string>
+  <string name="GrantPermissionsBtn">הענק הרשאות</string>
+</resources>

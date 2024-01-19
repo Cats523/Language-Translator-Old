@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Aistritheoir Teanga</string>
+  <string name="home">Baile</string>
+  <string name="shareVia">Roinn trí</string>
+  <string name="LanguageTranslator">Aistritheoir Teanga</string>
+  <string name="Translate">Aistrigh</string>
+  <string name="Conversation">Comhrá</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Foclóir</string>
+  <string name="SearchWord">Focal cuardaigh</string>
+  <string name="ShareWithFriends">Roinn le Cairde</string>
+  <string name="ChangeLanguage">Athrú Teanga</string>
+  <string name="PrivacyPolicy">Beartas Príobháideachais</string>
+  <string name="Gallery">Gailearaí</string>
+  <string name="Camera">Ceamara</string>
+  <string name="DoYouWantToExit">Ar mhaith leat scoir</string>
+  <string name="Cancel">Cealaigh</string>
+  <string name="Exit">An slí amach</string>
+  <string name="SelectAppLanguage">Roghnaigh Teanga App</string>
+  <string name="Ok">Ceart go leor</string>
+  <string name="Copy">Cóip</string>
+  <string name="FullScreen">Scáileán iomlán</string>
+  <string name="ClearTitle">Glan</string>
+  <string name="ClearConversationMsg">An bhfuil tú cinnte gur mhaith leat an comhrá a ghlanadh?</string>
+  <string name="Yes">Tá</string>
+  <string name="No">Níl</string>
+  <string name="SelectLanguage">Roghnaigh Teanga</string>
+  <string name="Downloading">Ag íosluchtú</string>
+  <string name="DownloadDialogMsg">Fan le do thoil agus do mhúnla á íoslódáil</string>
+  <string name="Download">Íosluchtaigh</string>
+  <string name="DownloadModel">Íoslódáil an múnla</string>
+  <string name="DownloadModelDialogMsg">Ní mór duit an tsamhail a íoslódáil ar dtús sula roghnaíonn tú an teanga seo</string>
+  <string name="UseWifiMsg">Tá tú ag úsáid líonra cheallacha. Bain úsáid as Wifi chun an tsamhail a íoslódáil</string>
+  <string name="Searching">Cuardach</string>
+  <string name="NotFound">Gan Aimsiú</string>
+  <string name="Image">Íomha :</string>
+  <string name="PleaseConnectToInternet">Ceangail leis an idirlíon le do thoil</string>
+  <string name="NotFoundMsg">Níl an focal atá uait le fáil inár bhfoclóir</string>
+  <string name="NoTextFoundToShare">Níor aimsíodh aon téacs le roinnt</string>
+  <string name="NoTranslationFoundToShare">Níor aimsíodh aon aistriúchán le roinnt</string>
+  <string name="NoTranslationFoundToCopy">Níor aimsíodh aon aistriúchán le cóipeáil</string>
+  <string name="NoTextFoundToCopy">Níor aimsíodh aon téacs le cóipeáil</string>
+  <string name="NoTextToSpeak">Gan téacs le labhairt</string>
+  <string name="LanguageDetected">Teanga Braite</string>
+  <string name="OCRImage">Íomhá OCR</string>
+  <string name="OCRTranslation">Aistriúchán OCR</string>
+  <string name="CopiedToClipboard">Cóipeáladh chuig an ngearrthaisce</string>
+  <string name="ChooseLanguageFirst">Roghnaigh Teanga ar dtús sula dtéann tú ar aghaidh níos faide</string>
+  <string name="EnterTextToTranslate">Cuir isteach téacs lena aistriú</string>
+  <string name="TextFromImage">Téacs ón íomhá</string>
+  <string name="GettingText">Téacs a fháil</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Cuir isteach focal éigin le cuardach</string>
+  <string name="Translating">Ag aistriú</string>
+  <string name="PermissionsNotGranted">Ní thugtar ceadanna</string>
+  <string name="CameraPermissionsMsg">Tabhair cead ceamara chun íomhá a ghabháil</string>
+  <string name="StoragePermissionsMsg">Tabhair cead stórála inmheánach chun íomhá a fháil ón ngailearaí</string>
+  <string name="GrantPermissionsBtn">Ceadanna Deonaithe</string>
+</resources>

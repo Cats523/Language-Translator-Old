@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Tradutor de idiomas</string>
+  <string name="home">Casa</string>
+  <string name="shareVia">Compartir vía</string>
+  <string name="LanguageTranslator">Tradutor de idiomas</string>
+  <string name="Translate">Traducir</string>
+  <string name="Conversation">Conversa</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Dicionario</string>
+  <string name="SearchWord">Busca palabra</string>
+  <string name="ShareWithFriends">Comparte cos amigos</string>
+  <string name="ChangeLanguage">Cambiar Idioma</string>
+  <string name="PrivacyPolicy">Política de Privacidade</string>
+  <string name="Gallery">Galería</string>
+  <string name="Camera">Cámara</string>
+  <string name="DoYouWantToExit">Queres saír</string>
+  <string name="Cancel">Cancelar</string>
+  <string name="Exit">Saír</string>
+  <string name="SelectAppLanguage">Seleccione o idioma da aplicación</string>
+  <string name="Ok">Ok</string>
+  <string name="Copy">Copiar</string>
+  <string name="FullScreen">Pantalla completa</string>
+  <string name="ClearTitle">Limpar</string>
+  <string name="ClearConversationMsg">Estás seguro de que queres borrar a conversa?</string>
+  <string name="Yes">Si</string>
+  <string name="No">Non</string>
+  <string name="SelectLanguage">Seleccione Idioma</string>
+  <string name="Downloading">Descargando</string>
+  <string name="DownloadDialogMsg">Agarde mentres se descarga o modelo</string>
+  <string name="Download">Descargar</string>
+  <string name="DownloadModel">Descargar modelo</string>
+  <string name="DownloadModelDialogMsg">Debes descargar o modelo primeiro antes de seleccionar este idioma</string>
+  <string name="UseWifiMsg">Estás a usar unha rede móbil. Usa Wifi para descargar o modelo</string>
+  <string name="Searching">Buscando</string>
+  <string name="NotFound">Non atopado</string>
+  <string name="Image">Imaxe:</string>
+  <string name="PleaseConnectToInternet">Conéctate a internet</string>
+  <string name="NotFoundMsg">A palabra que buscas non se atopa no noso dicionario</string>
+  <string name="NoTextFoundToShare">Non se atopou ningún texto para compartir</string>
+  <string name="NoTranslationFoundToShare">Non se atopou ningunha tradución para compartir</string>
+  <string name="NoTranslationFoundToCopy">Non se atopou ningunha tradución para copiar</string>
+  <string name="NoTextFoundToCopy">Non se atopou ningún texto para copiar</string>
+  <string name="NoTextToSpeak">Non hai texto para falar</string>
+  <string name="LanguageDetected">Idioma detectado</string>
+  <string name="OCRImage">Imaxe OCR</string>
+  <string name="OCRTranslation">Tradución OCR</string>
+  <string name="CopiedToClipboard">Copiouse no portapapeis</string>
+  <string name="ChooseLanguageFirst">Escolla primeiro idioma antes de continuar</string>
+  <string name="EnterTextToTranslate">Introduce texto para traducir</string>
+  <string name="TextFromImage">Texto da imaxe</string>
+  <string name="GettingText">Obtención de texto</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Introduce algunha palabra para buscar</string>
+  <string name="Translating">Traducindo</string>
+  <string name="PermissionsNotGranted">Permisos non concedidos</string>
+  <string name="CameraPermissionsMsg">Concede permisos á cámara para capturar imaxes</string>
+  <string name="StoragePermissionsMsg">Concede permisos de almacenamento interno para obter imaxes da galería</string>
+  <string name="GrantPermissionsBtn">Conceder permisos</string>
+  <string name="internet_warning_message">Ups, Internet no conectado. Conéctese a Internet para el uso del diccionario.</string>
+  <string name="ooooppss_network_not_available">Ooooppss Red no disponible</string>
+  <string name="ad_is_loading">Anuncio está cargando</string>
+
+</resources>

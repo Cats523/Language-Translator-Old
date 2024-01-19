@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Mfasiri wa Lugha</string>
+  <string name="home">Nyumbani</string>
+  <string name="shareVia">Shiriki kupitia</string>
+  <string name="LanguageTranslator">Mfasiri wa Lugha</string>
+  <string name="Translate">Tafsiri</string>
+  <string name="Conversation">Mazungumzo</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Kamusi</string>
+  <string name="SearchWord">Tafuta neno</string>
+  <string name="ShareWithFriends">Shiriki na Marafiki</string>
+  <string name="ChangeLanguage">Badilisha Lugha</string>
+  <string name="PrivacyPolicy">Sera ya Faragha</string>
+  <string name="Gallery">Matunzio</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Je, unataka kutoka</string>
+  <string name="Cancel">Ghairi</string>
+  <string name="Exit">Utgång</string>
+  <string name="SelectAppLanguage">Chagua Lugha ya Programu</string>
+  <string name="Ok">Sawa</string>
+  <string name="Copy">Nakili</string>
+  <string name="FullScreen">Skrini Kamili</string>
+  <string name="ClearTitle">Wazi</string>
+  <string name="ClearConversationMsg">Je, una uhakika unataka kufuta mazungumzo?</string>
+  <string name="Yes">Ndiyo</string>
+  <string name="No">Hapana</string>
+  <string name="SelectLanguage">Chagua Lugha</string>
+  <string name="Downloading">Inapakua</string>
+  <string name="DownloadDialogMsg">Tafadhali subiri wakati muundo wako unapakua</string>
+  <string name="Download">Pakua</string>
+  <string name="DownloadModel">Pakua Mfano</string>
+  <string name="DownloadModelDialogMsg">Unahitaji kupakua muundo kwanza kabla ya kuchagua lugha hii</string>
+  <string name="UseWifiMsg">Unatumia mtandao wa simu za mkononi. Tafadhali tumia Wifi ili kupakua muundo</string>
+  <string name="Searching">Inatafuta</string>
+  <string name="NotFound">Haipatikani</string>
+  <string name="Image">Picha:</string>
+  <string name="PleaseConnectToInternet">Tafadhali unganisha kwenye intaneti</string>
+  <string name="NotFoundMsg">Neno unalotafuta halipatikani katika kamusi yetu</string>
+  <string name="NoTextFoundToShare">Hakuna maandishi ya kushiriki</string>
+  <string name="NoTranslationFoundToShare">Hakuna tafsiri iliyopatikana kushiriki</string>
+  <string name="NoTranslationFoundToCopy">Hakuna tafsiri iliyopatikana ya kunakili</string>
+  <string name="NoTextFoundToCopy">Hakuna maandishi yaliyopatikana ya kunakili</string>
+  <string name="NoTextToSpeak">Hakuna maandishi ya kuzungumza</string>
+  <string name="LanguageDetected">Lugha Imegunduliwa</string>
+  <string name="OCRImage">Picha ya OCR</string>
+  <string name="OCRTranslation">Tafsiri ya OCR</string>
+  <string name="CopiedToClipboard">Imenakiliwa kwenye ubao wa kunakili</string>
+  <string name="ChooseLanguageFirst">Chagua Lugha kwanza kabla ya kuendelea zaidi</string>
+  <string name="EnterTextToTranslate">Weka maandishi ili kutafsiri</string>
+  <string name="TextFromImage">Maandishi kutoka kwa picha</string>
+  <string name="GettingText">Kupata maandishi</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Tafadhali weka neno ili kutafuta</string>
+  <string name="Translating">Kutafsiri</string>
+  <string name="PermissionsNotGranted">Ruhusa hazijatolewa</string>
+  <string name="CameraPermissionsMsg">Tafadhali toa ruhusa kwa kamera ili kupiga picha</string>
+  <string name="StoragePermissionsMsg">Tafadhali toa vibali vya hifadhi ya ndani ili kupata picha kutoka kwa ghala</string>
+  <string name="GrantPermissionsBtn">Ruhusa za Ruzuku</string>
+</resources>

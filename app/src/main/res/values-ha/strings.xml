@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Mai Fassarar Harshe</string>
+  <string name="home">Gida</string>
+  <string name="shareVia">Raba ta hanyar</string>
+  <string name="LanguageTranslator">Mai Fassarar Harshe</string>
+  <string name="Translate">Fassara</string>
+  <string name="Conversation">Tattaunawa</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Kamus</string>
+  <string name="SearchWord">Bincika kalma</string>
+  <string name="ShareWithFriends">Raba tare da Abokai</string>
+  <string name="ChangeLanguage">Canja Harshe</string>
+  <string name="PrivacyPolicy">Takardar kebantawa</string>
+  <string name="Gallery">Gallery</string>
+  <string name="Camera">Kamara</string>
+  <string name="DoYouWantToExit">Kuna so ku fita</string>
+  <string name="Cancel">Soke</string>
+  <string name="Exit">Fita</string>
+  <string name="SelectAppLanguage">Zaɓi Harshen App</string>
+  <string name="Ok">KO</string>
+  <string name="Copy">Kwafi</string>
+  <string name="FullScreen">Cikakken kariya</string>
+  <string name="ClearTitle">Share</string>
+  <string name="ClearConversationMsg">Shin kun tabbata kuna son share tattaunawar?</string>
+  <string name="Yes">Ee</string>
+  <string name="No">A\'a</string>
+  <string name="SelectLanguage">Zaɓi Harshe</string>
+  <string name="Downloading">Ana saukewa</string>
+  <string name="DownloadDialogMsg">Da fatan za a jira yayin da samfurin ku ke saukewa</string>
+  <string name="Download">Zazzagewa</string>
+  <string name="DownloadModel">Zazzage Model</string>
+  <string name="DownloadModelDialogMsg">Kuna buƙatar fara zazzage samfurin kafin ku zaɓi wannan yaren</string>
+  <string name="UseWifiMsg">Kuna amfani da hanyar sadarwar salula. Da fatan za a yi amfani da Wifi don zazzage samfurin</string>
+  <string name="Searching">Neman</string>
+  <string name="NotFound">Ba a Samu ba</string>
+  <string name="Image">Hoto:</string>
+  <string name="PleaseConnectToInternet">Da fatan za a haɗa zuwa intanit</string>
+  <string name="NotFoundMsg">Ba a samun kalmar da kuke nema a cikin ƙamus ɗin mu</string>
+  <string name="NoTextFoundToShare">Ba a sami rubutu don rabawa ba</string>
+  <string name="NoTranslationFoundToShare">Babu fassarar da aka samo don rabawa</string>
+  <string name="NoTranslationFoundToCopy">Babu fassarar da aka samu don kwafa</string>
+  <string name="NoTextFoundToCopy">Ba a sami rubutu don kwafa ba</string>
+  <string name="NoTextToSpeak">Babu rubutu don magana</string>
+  <string name="LanguageDetected">An Gano Harshe</string>
+  <string name="OCRImage">Hoton OCR</string>
+  <string name="OCRTranslation">Fassarar OCR</string>
+  <string name="CopiedToClipboard">An kwafi zuwa allo</string>
+  <string name="ChooseLanguageFirst">Zaɓi Harshe da farko kafin ku ci gaba</string>
+  <string name="EnterTextToTranslate">Shigar da rubutu don fassara</string>
+  <string name="TextFromImage">Rubutu daga hoto</string>
+  <string name="GettingText">Samun rubutu</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Da fatan za a shigar da wata kalma don bincika</string>
+  <string name="Translating">Fassara</string>
+  <string name="PermissionsNotGranted">Ba a ba da izini ba</string>
+  <string name="CameraPermissionsMsg">Da fatan za a ba da izinin kyamara don ɗaukar hoto</string>
+  <string name="StoragePermissionsMsg">Da fatan za a ba da izinin ajiya na ciki don samun hoto daga gallery</string>
+  <string name="GrantPermissionsBtn">Bada Izinin</string>
+</resources>

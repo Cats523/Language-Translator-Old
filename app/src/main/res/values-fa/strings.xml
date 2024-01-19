@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">مترجم زبان</string>
+  <string name="app_title">مترجم زبان</string>
+  <string name="home">ترجمه کردن</string>
+  <string name="shareVia">اشتراک گذاری از طریق</string>
+  <string name="LanguageTranslator">مترجم زبان</string>
+  <string name="Translate">ترجمه کردن</string>
+  <string name="Conversation">گفتگو</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">فرهنگ لغت انگلیسی</string>
+  <string name="SearchWord">کلمه جستجو</string>
+  <string name="ShareWithFriends">با دوستان به اشتراک گذاشتن</string>
+  <string name="ChangeLanguage">تغییر زبان</string>
+  <string name="PrivacyPolicy">سیاست حفظ حریم خصوصی</string>
+  <string name="Gallery">آلبوم عکس</string>
+  <string name="Camera">دوربین</string>
+  <string name="DoYouWantToExit">آیا میخواهید خارج شوید</string>
+  <string name="Cancel">لغو کنید</string>
+  <string name="Exit">خارج شوید</string>
+  <string name="SelectAppLanguage">زبان برنامه را انتخاب کنید</string>
+  <string name="Ok">خوب</string>
+  <string name="Copy">کپی 🀄</string>
+  <string name="FullScreen">تمام صفحه</string>
+  <string name="ClearTitle">پاک کردن</string>
+  <string name="ClearConversationMsg">آیا مطمئن هستید که می خواهید مکالمه را پاک کنید؟</string>
+  <string name="Yes">آره</string>
+  <string name="No">خیر</string>
+  <string name="SelectLanguage">زبان را انتخاب کنید</string>
+  <string name="Downloading">در حال دانلود</string>
+  <string name="DownloadDialogMsg">لطفاً صبر کنید تا مدل شما در حال بارگیری باشد</string>
+  <string name="Download">دانلود</string>
+  <string name="DownloadModel">دانلود مدل</string>
+  <string name="DownloadModelDialogMsg">قبل از انتخاب این زبان، ابتدا باید مدل را دانلود کنید</string>
+  <string name="UseWifiMsg">شما از شبکه تلفن همراه استفاده می کنید. لطفا برای دانلود مدل از وای فای استفاده کنید</string>
+  <string name="Searching">جستجوکردن</string>
+  <string name="NotFound">پیدا نشد</string>
+  <string name="Image">تصویر:</string>
+  <string name="PleaseConnectToInternet">لطفا به اینترنت وصل شوید</string>
+  <string name="NotFoundMsg">کلمه ای که به دنبال آن هستید در فرهنگ لغت ما یافت نمی شود</string>
+  <string name="NoTextFoundToShare">متنی برای اشتراک‌گذاری یافت نشد</string>
+  <string name="NoTranslationFoundToShare">ترجمه ای برای اشتراک گذاری یافت نشد</string>
+  <string name="NoTranslationFoundToCopy">ترجمه ای برای کپی یافت نشد</string>
+  <string name="NoTextFoundToCopy">متنی برای کپی یافت نشد</string>
+  <string name="NoTextToSpeak">متنی برای صحبت وجود ندارد</string>
+  <string name="LanguageDetected">زبان شناسایی شد</string>
+  <string name="OCRImage">تصویر OCR</string>
+  <string name="OCRTranslation">ترجمه OCR</string>
+  <string name="CopiedToClipboard">در کلیپ بورد کپی شد</string>
+  <string name="ChooseLanguageFirst">قبل از اینکه ادامه دهید ابتدا زبان را انتخاب کنید</string>
+  <string name="EnterTextToTranslate">متنی را برای ترجمه وارد کنید</string>
+  <string name="TextFromImage">متن از تصویر</string>
+  <string name="GettingText">دریافت متن</string>
+  <string name="PleaseEnterWordToSearchInDictionary">لطفا یک کلمه برای جستجو وارد کنید</string>
+  <string name="Translating">در حال ترجمه</string>
+  <string name="PermissionsNotGranted">مجوزها داده نشده است</string>
+  <string name="CameraPermissionsMsg">لطفاً به دوربین برای گرفتن تصویر مجوز بدهید</string>
+  <string name="StoragePermissionsMsg">لطفاً برای دریافت تصویر از گالری مجوزهای حافظه داخلی بدهید</string>
+  <string name="GrantPermissionsBtn">اعطای مجوزها</string>
+  <string name="ooooppss_network_not_available">اوه، شبکه در دسترس نیست</string>
+  <string name="ad_is_loading">تبلیغ در حال بارگیری است</string>
+  <string name="internet_warning_message">اوه، اینترنت متصل نیست. لطفاً برای استفاده از دیکشنری به اینترنت متصل شوید.</string>
+
+
+</resources>

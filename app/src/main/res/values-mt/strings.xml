@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Traduttur tal-Lingwa</string>
+  <string name="home">Dar</string>
+  <string name="shareVia">Share via</string>
+  <string name="LanguageTranslator">Traduttur tal-Lingwa</string>
+  <string name="Translate">Ittraduċi</string>
+  <string name="Conversation">Konversazzjoni</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Dizzjunarju</string>
+  <string name="SearchWord">Fittex kelma</string>
+  <string name="ShareWithFriends">Aqsam mal-Ħbieb</string>
+  <string name="ChangeLanguage">Bidla Lingwa</string>
+  <string name="PrivacyPolicy">Regoli tal-privatezza</string>
+  <string name="Gallery">Gallerija</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Tixtieq toħroġ</string>
+  <string name="Cancel">Ikkanċella</string>
+  <string name="Exit">Ħruġ</string>
+  <string name="SelectAppLanguage">Agħżel App Language</string>
+  <string name="Ok">Kollox sew</string>
+  <string name="Copy">Kopja</string>
+  <string name="FullScreen">Sħiħ Screen</string>
+  <string name="ClearTitle">Ċara</string>
+  <string name="ClearConversationMsg">Int żgur li trid tnaddaf il-konversazzjoni?</string>
+  <string name="Yes">Iva</string>
+  <string name="No">Nru</string>
+  <string name="SelectLanguage">Agħżel Lingwa</string>
+  <string name="Downloading">Tniżżil</string>
+  <string name="DownloadDialogMsg">Jekk jogħġbok stenna waqt li l-mudell tiegħek qed tniżżel</string>
+  <string name="Download">Niżżel</string>
+  <string name="DownloadModel">Niżżel il-Mudell</string>
+  <string name="DownloadModelDialogMsg">L-ewwel trid tniżżel il-mudell qabel ma tagħżel din il-lingwa</string>
+  <string name="UseWifiMsg">Qed tuża netwerk ċellulari. Jekk jogħġbok uża Wifi biex tniżżel il-mudell</string>
+  <string name="Searching">Tiftix</string>
+  <string name="NotFound">Ma nstabx</string>
+  <string name="Image">Immaġni:</string>
+  <string name="PleaseConnectToInternet">Jekk jogħġbok qabbad mal-internet</string>
+  <string name="NotFoundMsg">Il-kelma li qed tfittex ma tinsabx fid-dizzjunarju tagħna</string>
+  <string name="NoTextFoundToShare">Ma nstab l-ebda test biex jaqsam</string>
+  <string name="NoTranslationFoundToShare">L-ebda traduzzjoni ma nstabet biex taqsam</string>
+  <string name="NoTranslationFoundToCopy">L-ebda traduzzjoni ma nstabet biex tikkopja</string>
+  <string name="NoTextFoundToCopy">Ma nstab l-ebda test biex tikkopja</string>
+  <string name="NoTextToSpeak">Ebda test biex titkellem</string>
+  <string name="LanguageDetected">Lingwa Individwata</string>
+  <string name="OCRImage">Immaġni OCR</string>
+  <string name="OCRTranslation">Traduzzjoni OCR</string>
+  <string name="CopiedToClipboard">Ikkopjati fil-clipboard</string>
+  <string name="ChooseLanguageFirst">Agħżel Lingwa l-ewwel qabel ma tkompli</string>
+  <string name="EnterTextToTranslate">Daħħal it-test biex tittraduċi</string>
+  <string name="TextFromImage">Test mill-immaġni</string>
+  <string name="GettingText">Getting test</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Jekk jogħġbok daħħal xi kelma biex tfittex</string>
+  <string name="Translating">It-traduzzjoni</string>
+  <string name="PermissionsNotGranted">Permessi mhux mogħtija</string>
+  <string name="CameraPermissionsMsg">Jekk jogħġbok agħti l-permessi tal-kamera biex taqbad immaġini</string>
+  <string name="StoragePermissionsMsg">Jekk jogħġbok agħti permessi għall-ħażna interna biex tikseb immaġni mill-gallerija</string>
+  <string name="GrantPermissionsBtn">Agħti Permessi</string>
+</resources>

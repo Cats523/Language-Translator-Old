@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Tus txhais lus</string>
+  <string name="home">Tsev</string>
+  <string name="shareVia">Share ntawm</string>
+  <string name="LanguageTranslator">Tus txhais lus</string>
+  <string name="Translate">Txhais</string>
+  <string name="Conversation">Kev sib tham</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Phau ntawv txhais lus</string>
+  <string name="SearchWord">Nrhiav lo lus</string>
+  <string name="ShareWithFriends">Qhia nrog phooj ywg</string>
+  <string name="ChangeLanguage">Hloov lus</string>
+  <string name="PrivacyPolicy">Txoj Cai Tswjfwm Ntiag Tug</string>
+  <string name="Gallery">Gallery</string>
+  <string name="Camera">Lub koob yees duab</string>
+  <string name="DoYouWantToExit">Koj puas xav tawm</string>
+  <string name="Cancel">Tso tseg</string>
+  <string name="Exit">Tawm</string>
+  <string name="SelectAppLanguage">Xaiv App Language</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Luam</string>
+  <string name="FullScreen">Full Screen</string>
+  <string name="ClearTitle">Ntshiab</string>
+  <string name="ClearConversationMsg">Koj puas paub tseeb tias koj xav tshem qhov kev sib tham?</string>
+  <string name="Yes">Yog lawm</string>
+  <string name="No">Tsis muaj</string>
+  <string name="SelectLanguage">Xaiv hom lus</string>
+  <string name="Downloading">Downloading</string>
+  <string name="DownloadDialogMsg">Thov tos thaum koj tus qauv rub tawm</string>
+  <string name="Download">Download tau</string>
+  <string name="DownloadModel">Download Qauv</string>
+  <string name="DownloadModelDialogMsg">Koj yuav tsum download tau tus qauv ua ntej koj xaiv hom lus no</string>
+  <string name="UseWifiMsg">Koj siv cellular network. Thov siv Wifi los rub tus qauv</string>
+  <string name="Searching">Nrhiav</string>
+  <string name="NotFound">Tsis pom</string>
+  <string name="Image">Duab:</string>
+  <string name="PleaseConnectToInternet">Thov txuas rau hauv internet</string>
+  <string name="NotFoundMsg">Lo lus koj tab tom nrhiav tsis pom hauv peb phau ntawv txhais lus</string>
+  <string name="NoTextFoundToShare">Tsis muaj ntawv pom los qhia</string>
+  <string name="NoTranslationFoundToShare">Tsis pom muaj txhais lus los qhia</string>
+  <string name="NoTranslationFoundToCopy">Tsis pom muaj kev txhais kom luam tawm</string>
+  <string name="NoTextFoundToCopy">Tsis pom cov ntawv luam tawm</string>
+  <string name="NoTextToSpeak">Tsis muaj ntawv nyeem</string>
+  <string name="LanguageDetected">Lus Nug</string>
+  <string name="OCRImage">OCR Duab</string>
+  <string name="OCRTranslation">Kev txhais lus OCR</string>
+  <string name="CopiedToClipboard">Luam rau daim ntawv teev cia</string>
+  <string name="ChooseLanguageFirst">Xaiv hom lus ua ntej ua ntej koj mus ntxiv</string>
+  <string name="EnterTextToTranslate">Sau ntawv los txhais</string>
+  <string name="TextFromImage">Cov ntawv los ntawm duab</string>
+  <string name="GettingText">Tau txais ntawv nyeem</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Thov sau qee lo lus los tshawb nrhiav</string>
+  <string name="Translating">Txhais lus</string>
+  <string name="PermissionsNotGranted">Kev tso cai tsis tau tso cai</string>
+  <string name="CameraPermissionsMsg">Thov tso cai rau lub koob yees duab thaij duab</string>
+  <string name="StoragePermissionsMsg">Thov tso cai cia sab hauv kom tau cov duab los ntawm cov duab</string>
+  <string name="GrantPermissionsBtn">Muab Kev Tso Cai</string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Traductor de lenguaje</string>
+  <string name="app_title">Traductor de lenguaje</string>
+  <string name="home">Traducir</string>
+  <string name="shareVia">Compartir via</string>
+  <string name="LanguageTranslator">Traductor de lenguaje</string>
+  <string name="Translate">Traducir</string>
+  <string name="Conversation">Conversación</string>
+  <string name="OCR">LOC</string>
+  <string name="Dictionary">Diccionario de inglés</string>
+  <string name="SearchWord">Buscar palabra</string>
+  <string name="ShareWithFriends">Compartir con amigos</string>
+  <string name="ChangeLanguage">Cambiar idioma</string>
+  <string name="PrivacyPolicy">Política de privacidad</string>
+  <string name="Gallery">Galería</string>
+  <string name="Camera">Cámara</string>
+  <string name="DoYouWantToExit">Quieres salir</string>
+  <string name="Cancel">Cancelar</string>
+  <string name="Exit">Salida</string>
+  <string name="SelectAppLanguage">Seleccione el idioma de la aplicación</string>
+  <string name="Ok">DE ACUERDO</string>
+  <string name="Copy">Copiar</string>
+  <string name="FullScreen">Pantalla completa</string>
+  <string name="ClearTitle">Claro</string>
+  <string name="ClearConversationMsg">¿Seguro que quieres borrar la conversación?</string>
+  <string name="Yes">Sí</string>
+  <string name="No">No</string>
+  <string name="SelectLanguage">Seleccione el idioma</string>
+  <string name="Downloading">Descargando</string>
+  <string name="DownloadDialogMsg">Espere mientras se descarga su modelo</string>
+  <string name="Download">Descargar</string>
+  <string name="DownloadModel">Descargar Modelo</string>
+  <string name="DownloadModelDialogMsg">Primero debe descargar el modelo antes de seleccionar este idioma</string>
+  <string name="UseWifiMsg">Está utilizando una red celular. Utilice Wifi para descargar el modelo.</string>
+  <string name="Searching">Buscando</string>
+  <string name="NotFound">Extraviado</string>
+  <string name="Image">Imagen :</string>
+  <string name="PleaseConnectToInternet">Por favor conéctese a internet</string>
+  <string name="NotFoundMsg">La palabra que busca no se encuentra en nuestro diccionario</string>
+  <string name="NoTextFoundToShare">No se encontró texto para compartir</string>
+  <string name="NoTranslationFoundToShare">No se encontró ninguna traducción para compartir</string>
+  <string name="NoTranslationFoundToCopy">No se encontró ninguna traducción para copiar</string>
+  <string name="NoTextFoundToCopy">No se encontró texto para copiar</string>
+  <string name="NoTextToSpeak">Sin texto para hablar</string>
+  <string name="LanguageDetected">Idioma detectado</string>
+  <string name="OCRImage">Imagen OCR</string>
+  <string name="OCRTranslation">Traducción OCR</string>
+  <string name="CopiedToClipboard">Copiado al portapapeles</string>
+  <string name="ChooseLanguageFirst">Elija el idioma primero antes de continuar</string>
+  <string name="EnterTextToTranslate">Introduce el texto a traducir</string>
+  <string name="TextFromImage">Texto de la imagen</string>
+  <string name="GettingText">Obtener texto</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Por favor ingrese alguna palabra para buscar</string>
+  <string name="Translating">Traductorio</string>
+  <string name="PermissionsNotGranted">Permisos no concedidos</string>
+  <string name="CameraPermissionsMsg">Conceda permisos de cámara para capturar la imagen.</string>
+  <string name="StoragePermissionsMsg">Otorgue permisos de almacenamiento interno para obtener imágenes de la galería</string>
+  <string name="GrantPermissionsBtn">Conceder permisos</string>
+  <string name="ad_is_loading">El anuncio se está cargando</string>
+  <string name="ooooppss_network_not_available">Ooooppss la red no está disponible.</string>
+</resources>

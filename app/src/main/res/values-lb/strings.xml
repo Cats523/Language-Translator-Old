@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Sprooch Iwwersetzer</string>
+  <string name="home">Doheem</string>
+  <string name="shareVia">Deelen iwwer</string>
+  <string name="LanguageTranslator">Sprooch Iwwersetzer</string>
+  <string name="Translate">Iwwersetzen</string>
+  <string name="Conversation">Gespréich</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Wierderbuch</string>
+  <string name="SearchWord">Sich Wuert</string>
+  <string name="ShareWithFriends">Deelen mat Frënn</string>
+  <string name="ChangeLanguage">Sprooch änneren</string>
+  <string name="PrivacyPolicy">Privatsphär Politik</string>
+  <string name="Gallery">Galerie</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Wëllt Dir erausgoen</string>
+  <string name="Cancel">Ofbriechen</string>
+  <string name="Exit">Sortie</string>
+  <string name="SelectAppLanguage">Wielt App Sprooch</string>
+  <string name="Ok">Ok</string>
+  <string name="Copy">Kopie</string>
+  <string name="FullScreen">Voll Écran</string>
+  <string name="ClearTitle">Kloer</string>
+  <string name="ClearConversationMsg">Sidd Dir sécher datt Dir d\'Gespréich wëllt läschen?</string>
+  <string name="Yes">Jo</string>
+  <string name="No">Nee</string>
+  <string name="SelectLanguage">Wielt Sprooch</string>
+  <string name="Downloading">Eroflueden</string>
+  <string name="DownloadDialogMsg">Waart w.e.g. wann Äre Modell erofgelueden ass</string>
+  <string name="Download">Download</string>
+  <string name="DownloadModel">Download Modell</string>
+  <string name="DownloadModelDialogMsg">Dir musst de Modell als éischt eroflueden ier Dir dës Sprooch auswielt</string>
+  <string name="UseWifiMsg">Dir benotzt Handysnetz. Benotzt w.e.g. Wifi fir de Modell erofzelueden</string>
+  <string name="Searching">Sichen</string>
+  <string name="NotFound">Net fonnt</string>
+  <string name="Image">Bild:</string>
+  <string name="PleaseConnectToInternet">W.e.g. Verbindung mam Internet</string>
+  <string name="NotFoundMsg">D\'Wuert dat Dir sicht ass net an eisem Wierderbuch fonnt</string>
+  <string name="NoTextFoundToShare">Keen Text fonnt fir ze deelen</string>
+  <string name="NoTranslationFoundToShare">Keng Iwwersetzung fonnt fir ze deelen</string>
+  <string name="NoTranslationFoundToCopy">Keng Iwwersetzung fonnt fir ze kopéieren</string>
+  <string name="NoTextFoundToCopy">Keen Text fonnt fir ze kopéieren</string>
+  <string name="NoTextToSpeak">Keen Text ze schwätzen</string>
+  <string name="LanguageDetected">Sprooch entdeckt</string>
+  <string name="OCRImage">OCR Bild</string>
+  <string name="OCRTranslation">OCR Iwwersetzung</string>
+  <string name="CopiedToClipboard">Kopéiert op Clipboard</string>
+  <string name="ChooseLanguageFirst">Wielt éischt Sprooch ier Dir weider geet</string>
+  <string name="EnterTextToTranslate">Gitt Text fir ze iwwersetzen</string>
+  <string name="TextFromImage">Text vum Bild</string>
+  <string name="GettingText">Kréien Text</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Gitt w.e.g. e Wuert fir ze sichen</string>
+  <string name="Translating">Iwwersetzen</string>
+  <string name="PermissionsNotGranted">Permissiounen net ginn</string>
+  <string name="CameraPermissionsMsg">Gitt w.e.g. Kamera Permissiounen fir Bild ze maachen</string>
+  <string name="StoragePermissionsMsg">Gitt w.e.g. intern Späichere Permissiounen fir Bild aus der Galerie ze kréien</string>
+  <string name="GrantPermissionsBtn">Gitt Permissiounen</string>
+</resources>

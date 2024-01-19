@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioGroup
+            android:id="@+id/radioGroupSelectedAppLanguage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <RadioButton
+
+                android:id="@+id/radioBtnSelectedAppLanguage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:buttonTint="@color/purple_500"/>
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/app_language_name"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_height="wrap_content"
+            android:text="Language Name"
+            android:layout_margin="10dp"/>
+
+    </LinearLayout>
+</layout>

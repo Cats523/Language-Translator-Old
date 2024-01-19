@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">ভাষা অনুবাদক</string>
+  <string name="home">গৃহ</string>
+  <string name="shareVia">ৰ জৰিয়তে শ্বেয়াৰ কৰক</string>
+  <string name="LanguageTranslator">ভাষা অনুবাদক</string>
+  <string name="Translate">অনুবাদ কৰা</string>
+  <string name="Conversation">কথা-বাৰ্তা</string>
+  <string name="OCR">অ’চিআৰ</string>
+  <string name="Dictionary">অভিধান</string>
+  <string name="SearchWord">সন্ধান শব্দ</string>
+  <string name="ShareWithFriends">বন্ধুসকলৰ লগত শ্বেয়াৰ কৰক</string>
+  <string name="ChangeLanguage">ভাষা সলনি কৰক</string>
+  <string name="PrivacyPolicy">গোপনীয়তা নীতি</string>
+  <string name="Gallery">গেলেৰী</string>
+  <string name="Camera">কেমেৰা</string>
+  <string name="DoYouWantToExit">আপুনি বাহিৰলৈ ওলাই যাব বিচাৰে নেকি</string>
+  <string name="Cancel">বাতিল কৰক</string>
+  <string name="Exit">প্ৰস্থান</string>
+  <string name="SelectAppLanguage">এপ ভাষা নিৰ্বাচন কৰক</string>
+  <string name="Ok">ঠিক আছে</string>
+  <string name="Copy">কপি কৰক</string>
+  <string name="FullScreen">সম্পূৰ্ণ পৰ্দা</string>
+  <string name="ClearTitle">পৰিষ্কাৰ</string>
+  <string name="ClearConversationMsg">আপুনি নিশ্চিত নেকি যে আপুনি কথা-বতৰাটো পৰিষ্কাৰ কৰিব বিচাৰে?</string>
+  <string name="Yes">হয়</string>
+  <string name="No">নহয়</string>
+  <string name="SelectLanguage">ভাষা নিৰ্বাচন কৰক</string>
+  <string name="Downloading">ডাউনলোড কৰা হৈছে</string>
+  <string name="DownloadDialogMsg">আপোনাৰ মডেল ডাউনলোড হোৱাৰ সময়ত অনুগ্ৰহ কৰি অপেক্ষা কৰক</string>
+  <string name="Download">ডাউনল’ড</string>
+  <string name="DownloadModel">ডাউনলোড মডেল</string>
+  <string name="DownloadModelDialogMsg">এই ভাষা নিৰ্বাচন কৰাৰ আগতে আপুনি প্ৰথমে মডেলটো ডাউনলোড কৰিব লাগিব</string>
+  <string name="UseWifiMsg">আপুনি চেলুলাৰ নেটৱৰ্ক ব্যৱহাৰ কৰিছে। মডেলটো ডাউনলোড কৰিবলৈ Wifi ব্যৱহাৰ কৰক</string>
+  <string name="Searching">সন্ধান কৰি আছে</string>
+  <string name="NotFound">পোৱা নাযায়</string>
+  <string name="Image">ছৱি :</string>
+  <string name="PleaseConnectToInternet">অনুগ্ৰহ কৰি ইণ্টাৰনেটৰ সৈতে সংযোগ স্থাপন কৰক</string>
+  <string name="NotFoundMsg">আপুনি বিচৰা শব্দটো আমাৰ অভিধানত পোৱা নাযায়</string>
+  <string name="NoTextFoundToShare">শ্বেয়াৰ কৰিবলৈ কোনো টেক্সট পোৱা নগ\'ল</string>
+  <string name="NoTranslationFoundToShare">শ্বেয়াৰ কৰিবলৈ কোনো অনুবাদ পোৱা নগ\'ল</string>
+  <string name="NoTranslationFoundToCopy">কপি কৰিবলৈ কোনো অনুবাদ পোৱা নগ\'ল</string>
+  <string name="NoTextFoundToCopy">কপি কৰিবলৈ কোনো লিখনী পোৱা নগ\'ল</string>
+  <string name="NoTextToSpeak">ক’বলৈ কোনো টেক্সট নাই</string>
+  <string name="LanguageDetected">ভাষা ধৰা পৰিছে</string>
+  <string name="OCRImage">OCR ইমেজ</string>
+  <string name="OCRTranslation">অ\'চিআৰ অনুবাদ</string>
+  <string name="CopiedToClipboard">ক্লিপবোৰ্ডলৈ কপি কৰা হৈছে</string>
+  <string name="ChooseLanguageFirst">আপুনি আৰু আগবাঢ়ি যোৱাৰ আগতে প্ৰথমে ভাষা বাছক</string>
+  <string name="EnterTextToTranslate">অনুবাদ কৰিবলৈ লিখনী সুমুৱাওক</string>
+  <string name="TextFromImage">ছবিৰ পৰা লিখা</string>
+  <string name="GettingText">টেক্সট পোৱা</string>
+  <string name="PleaseEnterWordToSearchInDictionary">সন্ধান কৰিবলৈ কিছু শব্দ দিয়ক</string>
+  <string name="Translating">অনুবাদ কৰা</string>
+  <string name="PermissionsNotGranted">অনুমতি প্ৰদান কৰা হোৱা নাই</string>
+  <string name="CameraPermissionsMsg">অনুগ্ৰহ কৰি ছবি ধৰিবলৈ কেমেৰাৰ অনুমতি দিয়ক</string>
+  <string name="StoragePermissionsMsg">অনুগ্ৰহ কৰি গেলেৰীৰ পৰা ছবি পাবলৈ আভ্যন্তৰীণ সংৰক্ষণৰ অনুমতি প্ৰদান কৰক</string>
+  <string name="GrantPermissionsBtn">অনুমতি প্ৰদান কৰক</string>
+</resources>

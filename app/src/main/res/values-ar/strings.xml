@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">مترجم لغة</string>
+  <string name="app_title">مترجم لغة</string>
+  <string name="home">يترجم</string>
+  <string name="shareVia">شارك عبر</string>
+  <string name="LanguageTranslator">مترجم لغة</string>
+  <string name="Translate">يترجم</string>
+  <string name="Conversation">محادثة</string>
+  <string name="OCR">التعرف الضوئي على الحروف</string>
+  <string name="Dictionary">قاموس الإنجليزية</string>
+  <string name="SearchWord">كلمة البحث</string>
+  <string name="ShareWithFriends">شارك مع الاصدقاء</string>
+  <string name="ChangeLanguage">تغيير اللغة</string>
+  <string name="PrivacyPolicy">سياسة الخصوصية</string>
+  <string name="Gallery">صالة عرض</string>
+  <string name="Camera">آلة تصوير</string>
+  <string name="DoYouWantToExit">هل تريد الخروج</string>
+  <string name="Cancel">يلغي</string>
+  <string name="Exit">مخرج</string>
+  <string name="SelectAppLanguage">حدد لغة التطبيق</string>
+  <string name="Ok">نعم</string>
+  <string name="Copy">ينسخ</string>
+  <string name="FullScreen">تكبير الشاشة</string>
+  <string name="ClearTitle">واضح</string>
+  <string name="ClearConversationMsg">هل أنت متأكد أنك تريد مسح المحادثة؟</string>
+  <string name="Yes">نعم</string>
+  <string name="No">لا</string>
+  <string name="SelectLanguage">اختار اللغة</string>
+  <string name="Downloading">جارى التحميل</string>
+  <string name="DownloadDialogMsg">يرجى الانتظار أثناء تنزيل النموذج الخاص بك</string>
+  <string name="Download">تحميل</string>
+  <string name="DownloadModel">تحميل النموذج</string>
+  <string name="DownloadModelDialogMsg">تحتاج إلى تنزيل النموذج أولاً قبل تحديد هذه اللغة</string>
+  <string name="UseWifiMsg">أنت تستخدم شبكة خلوية. الرجاء استخدام Wifi لتنزيل النموذج</string>
+  <string name="Searching">يبحث</string>
+  <string name="NotFound">غير معثور عليه</string>
+  <string name="Image">صورة :</string>
+  <string name="PleaseConnectToInternet">الرجاء الاتصال بالإنترنت</string>
+  <string name="NotFoundMsg">الكلمة التي تبحث عنها غير موجودة في قاموسنا</string>
+  <string name="NoTextFoundToShare">لم يتم العثور على نص للمشاركة</string>
+  <string name="NoTranslationFoundToShare">لم يتم العثور على ترجمة للمشاركة</string>
+  <string name="NoTranslationFoundToCopy">لا توجد ترجمة لنسخها</string>
+  <string name="NoTextFoundToCopy">لم يتم العثور على نص لنسخه</string>
+  <string name="NoTextToSpeak">لا يوجد نص للتحدث</string>
+  <string name="LanguageDetected">تم اكتشاف اللغة</string>
+  <string name="OCRImage">صورة التعرف الضوئي على الحروف</string>
+  <string name="OCRTranslation">ترجمة التعرف الضوئي على الحروف</string>
+  <string name="CopiedToClipboard">نسخ إلى الحافظة</string>
+  <string name="ChooseLanguageFirst">اختر اللغة أولاً قبل المضي قدمًا</string>
+  <string name="EnterTextToTranslate">أدخل نصًا لترجمته</string>
+  <string name="TextFromImage">نص من الصورة</string>
+  <string name="GettingText">إحضار النص</string>
+  <string name="PleaseEnterWordToSearchInDictionary">الرجاء إدخال كلمة للبحث</string>
+  <string name="Translating">جار الترجمة</string>
+  <string name="PermissionsNotGranted">لم يتم منح الأذونات</string>
+  <string name="CameraPermissionsMsg">يرجى منح أذونات الكاميرا لالتقاط الصورة</string>
+  <string name="StoragePermissionsMsg">يرجى منح أذونات التخزين الداخلية للحصول على صورة من المعرض</string>
+  <string name="GrantPermissionsBtn">منح الأذونات</string>
+  <string name="ooooppss_network_not_available">أوه، الشبكة غير متاحة</string>
+  <string name="ad_is_loading">الإعلان قيد التحميل</string>
+  <string name="internet_warning_message">أوبس، لا يوجد اتصال بالإنترنت. يرجى الاتصال بالإنترنت لاستخدام القاموس.</string>
+
+
+</resources>

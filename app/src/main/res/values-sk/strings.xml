@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Jazykový prekladač</string>
+  <string name="home">Domov</string>
+  <string name="shareVia">Zdieľať cez</string>
+  <string name="LanguageTranslator">Jazykový prekladač</string>
+  <string name="Translate">Preložiť</string>
+  <string name="Conversation">Konverzácia</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Slovník</string>
+  <string name="SearchWord">Hľadané slovo</string>
+  <string name="ShareWithFriends">Zdielať s priateľmi</string>
+  <string name="ChangeLanguage">Zmeniť jazyk</string>
+  <string name="PrivacyPolicy">Zásady ochrany osobných údajov</string>
+  <string name="Gallery">Galéria</string>
+  <string name="Camera">Fotoaparát</string>
+  <string name="DoYouWantToExit">Chcete odísť</string>
+  <string name="Cancel">Zrušiť</string>
+  <string name="Exit">VÝCHOD</string>
+  <string name="SelectAppLanguage">Vyberte Jazyk aplikácie</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopírovať</string>
+  <string name="FullScreen">Celá obrazovka</string>
+  <string name="ClearTitle">Jasný</string>
+  <string name="ClearConversationMsg">Naozaj chcete vymazať konverzáciu?</string>
+  <string name="Yes">Áno</string>
+  <string name="No">Nie</string>
+  <string name="SelectLanguage">Zvoľ jazyk</string>
+  <string name="Downloading">Sťahovanie</string>
+  <string name="DownloadDialogMsg">Počkajte, kým sa váš model stiahne</string>
+  <string name="Download">Stiahnuť ▼</string>
+  <string name="DownloadModel">Stiahnite si model</string>
+  <string name="DownloadModelDialogMsg">Pred výberom tohto jazyka si musíte najprv stiahnuť model</string>
+  <string name="UseWifiMsg">Používate mobilnú sieť. Na stiahnutie modelu použite Wifi</string>
+  <string name="Searching">Hľadá sa</string>
+  <string name="NotFound">Nenájdené</string>
+  <string name="Image">Obrázok :</string>
+  <string name="PleaseConnectToInternet">Pripojte sa k internetu</string>
+  <string name="NotFoundMsg">Slovo, ktoré hľadáte, sa v našom slovníku nenachádza</string>
+  <string name="NoTextFoundToShare">Nebol nájdený žiadny text na zdieľanie</string>
+  <string name="NoTranslationFoundToShare">Nenašiel sa žiadny preklad na zdieľanie</string>
+  <string name="NoTranslationFoundToCopy">Nenašiel sa žiadny preklad na kopírovanie</string>
+  <string name="NoTextFoundToCopy">Nenašiel sa žiadny text na kopírovanie</string>
+  <string name="NoTextToSpeak">Žiadny text na vyslovenie</string>
+  <string name="LanguageDetected">Jazyk bol zistený</string>
+  <string name="OCRImage">Obrázok OCR</string>
+  <string name="OCRTranslation">OCR preklad</string>
+  <string name="CopiedToClipboard">Skopírované do schránky</string>
+  <string name="ChooseLanguageFirst">Predtým, ako budete pokračovať ďalej, vyberte Jazyk</string>
+  <string name="EnterTextToTranslate">Zadajte text na preklad</string>
+  <string name="TextFromImage">Text z obrázku</string>
+  <string name="GettingText">Načítava sa text</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Zadajte nejaké slovo na vyhľadávanie</string>
+  <string name="Translating">Preklad</string>
+  <string name="PermissionsNotGranted">Povolenia neboli udelené</string>
+  <string name="CameraPermissionsMsg">Udeľte fotoaparátu povolenia na snímanie obrázka</string>
+  <string name="StoragePermissionsMsg">Ak chcete získať obrázok z galérie, udeľte povolenia na interné úložisko</string>
+  <string name="GrantPermissionsBtn">Udeliť povolenia</string>
+</resources>

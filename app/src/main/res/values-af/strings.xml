@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Taalvertaler</string>
+  <string name="app_title">Taalvertaler</string>
+  <string name="home">Vertaal</string>
+  <string name="shareVia">Deel via</string>
+  <string name="LanguageTranslator">Taalvertaler</string>
+  <string name="Translate">Vertaal</string>
+  <string name="Conversation">Gesprek</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">English Dictionary</string>
+  <string name="SearchWord">Soek woord</string>
+  <string name="ShareWithFriends">Deel met vriende</string>
+  <string name="ChangeLanguage">Verander taal</string>
+  <string name="PrivacyPolicy">Privaatheidsbeleid</string>
+  <string name="Gallery">Galery</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Wil jy uitgaan</string>
+  <string name="Cancel">Kanselleer</string>
+  <string name="Exit">Verlaat</string>
+  <string name="SelectAppLanguage">Kies App Taal</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopieer</string>
+  <string name="FullScreen">Volskerm</string>
+  <string name="ClearTitle">Duidelik</string>
+  <string name="ClearConversationMsg">Is jy seker jy wil die gesprek uitvee?</string>
+  <string name="Yes">Ja</string>
+  <string name="No">Geen</string>
+  <string name="SelectLanguage">Kies taal</string>
+  <string name="Downloading">Laai tans af</string>
+  <string name="DownloadDialogMsg">Wag asseblief terwyl jou model besig is om af te laai</string>
+  <string name="Download">Aflaai</string>
+  <string name="DownloadModel">Laai Model af</string>
+  <string name="DownloadModelDialogMsg">Jy moet eers die model aflaai voordat jy hierdie taal kies</string>
+  <string name="UseWifiMsg">Jy gebruik sellulêre netwerk. Gebruik asseblief Wifi om die model af te laai</string>
+  <string name="Searching">Soek tans</string>
+  <string name="NotFound">Nie gevind nie</string>
+  <string name="Image">Beeld:</string>
+  <string name="PleaseConnectToInternet">Koppel asseblief aan die internet</string>
+  <string name="NotFoundMsg">Die woord waarna jy soek word nie in ons woordeboek gevind nie</string>
+  <string name="NoTextFoundToShare">Geen teks gevind om te deel nie</string>
+  <string name="NoTranslationFoundToShare">Geen vertaling gevind om te deel nie</string>
+  <string name="NoTranslationFoundToCopy">Geen vertaling gevind om te kopieer nie</string>
+  <string name="NoTextFoundToCopy">Geen teks gevind om te kopieer nie</string>
+  <string name="NoTextToSpeak">Geen teks om te praat nie</string>
+  <string name="LanguageDetected">Taal bespeur</string>
+  <string name="OCRImage">OCR-beeld</string>
+  <string name="OCRTranslation">OCR vertaling</string>
+  <string name="CopiedToClipboard">Gekopieer na knipbord</string>
+  <string name="ChooseLanguageFirst">Kies eers Taal voordat jy verder gaan</string>
+  <string name="EnterTextToTranslate">Voer teks in om te vertaal</string>
+  <string name="TextFromImage">Teks uit beeld</string>
+  <string name="GettingText">Kry tans teks</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Voer asseblief \'n woord in om te soek</string>
+  <string name="Translating">Vertaal</string>
+  <string name="PermissionsNotGranted">Toestemmings nie verleen nie</string>
+  <string name="CameraPermissionsMsg">Gee asseblief kameratoestemmings om beeld vas te neem</string>
+  <string name="StoragePermissionsMsg">Gee asseblief interne bergingstoestemmings om prent uit die gallery te kry</string>
+  <string name="GrantPermissionsBtn">Gee toestemmings</string>
+  <string name="ooooppss_network_not_available">Ooooppss, network haipatikani</string>
+  <string name="ad_is_loading">Matangazo yanapakia</string>
+  <string name="internet_warning_message">Oops, Internet Not Connected. Please connect to the internet for dictionary usage.</string>
+
+
+</resources>

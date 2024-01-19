@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">د ژبې ژباړونکی</string>
+  <string name="home">کور</string>
+  <string name="shareVia">له لارې شریک کړئ</string>
+  <string name="LanguageTranslator">د ژبې ژباړونکی</string>
+  <string name="Translate">ژباړه</string>
+  <string name="Conversation">خبرې اترې</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">قاموس</string>
+  <string name="SearchWord">د کلمې لټون</string>
+  <string name="ShareWithFriends">له ملګرو سره یې شریک کړئ</string>
+  <string name="ChangeLanguage">ژبه بدله کړه</string>
+  <string name="PrivacyPolicy">د پټتیا تګلاره</string>
+  <string name="Gallery">ګالری</string>
+  <string name="Camera">کیمره</string>
+  <string name="DoYouWantToExit">ایا تاسو غواړئ چې بهر شئ</string>
+  <string name="Cancel">لغوه کړئ</string>
+  <string name="Exit">وتون</string>
+  <string name="SelectAppLanguage">د اپلیکیشن ژبه غوره کړئ</string>
+  <string name="Ok">سمه ده</string>
+  <string name="Copy">کاپي</string>
+  <string name="FullScreen">مکمله صفحه</string>
+  <string name="ClearTitle">روښانه</string>
+  <string name="ClearConversationMsg">ایا تاسو ډاډه یاست چې د خبرو اترو پاکول غواړئ؟</string>
+  <string name="Yes">هو</string>
+  <string name="No">نه</string>
+  <string name="SelectLanguage">ژبه غوره کړئ</string>
+  <string name="Downloading">کښته کول</string>
+  <string name="DownloadDialogMsg">مهرباني وکړئ انتظار وکړئ کله چې ستاسو ماډل ډاونلوډ کیږي</string>
+  <string name="Download">ډاونلوډ کړئ</string>
+  <string name="DownloadModel">موډل ډاونلوډ کړئ</string>
+  <string name="DownloadModelDialogMsg">تاسو اړتیا لرئ مخکې له دې چې تاسو دا ژبه غوره کړئ لومړی ماډل ډاونلوډ کړئ</string>
+  <string name="UseWifiMsg">تاسو د ګرځنده شبکې کاروئ. مهرباني وکړئ د موډل ډاونلوډ کولو لپاره وائی فای وکاروئ</string>
+  <string name="Searching">لټون کول</string>
+  <string name="NotFound">پیدا نشو</string>
+  <string name="Image">انځور:</string>
+  <string name="PleaseConnectToInternet">مهرباني وکړئ انټرنیټ سره وصل شئ</string>
+  <string name="NotFoundMsg">هغه کلمه چې تاسو یې په لټه کې یاست زموږ په لغت کې نه موندل کیږي</string>
+  <string name="NoTextFoundToShare">د شریکولو لپاره هیڅ متن ونه موندل شو</string>
+  <string name="NoTranslationFoundToShare">د شریکولو لپاره هیڅ ژباړه ونه موندل شوه</string>
+  <string name="NoTranslationFoundToCopy">د کاپي کولو لپاره هیڅ ژباړه ونه موندل شوه</string>
+  <string name="NoTextFoundToCopy">د کاپي کولو لپاره هیڅ متن ونه موندل شو</string>
+  <string name="NoTextToSpeak">د خبرو کولو لپاره هیڅ متن نشته</string>
+  <string name="LanguageDetected">ژبه کشف شوه</string>
+  <string name="OCRImage">د OCR انځور</string>
+  <string name="OCRTranslation">د OCR ژباړه</string>
+  <string name="CopiedToClipboard">کلپ بورډ ته کاپي شوی</string>
+  <string name="ChooseLanguageFirst">مخکې لدې چې تاسو نور پرمخ لاړشئ لومړی ژبه غوره کړئ</string>
+  <string name="EnterTextToTranslate">د ژباړې لپاره متن دننه کړئ</string>
+  <string name="TextFromImage">له انځور څخه متن</string>
+  <string name="GettingText">متن ترلاسه کول</string>
+  <string name="PleaseEnterWordToSearchInDictionary">مهرباني وکړئ د لټون لپاره ځینې کلمې دننه کړئ</string>
+  <string name="Translating">ژباړه</string>
+  <string name="PermissionsNotGranted">اجازه نه ورکول کیږي</string>
+  <string name="CameraPermissionsMsg">مهرباني وکړئ د عکس اخیستلو لپاره د کیمرې اجازه ورکړئ</string>
+  <string name="StoragePermissionsMsg">مهرباني وکړئ د ګالري څخه عکس ترلاسه کولو لپاره د داخلي ذخیره کولو اجازه ورکړئ</string>
+  <string name="GrantPermissionsBtn">اجازه ورکړئ</string>
+</resources>

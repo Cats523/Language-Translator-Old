@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Traduttore</string>
+  <string name="app_title">Traduttore</string>
+  <string name="home">Tradurre</string>
+  <string name="shareVia">Condividere tramite</string>
+  <string name="LanguageTranslator">Traduttore</string>
+  <string name="Translate">Tradurre</string>
+  <string name="Conversation">Conversazione</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Dizionario inglese</string>
+  <string name="SearchWord">Parola di ricerca</string>
+  <string name="ShareWithFriends">Condividere con gli amici</string>
+  <string name="ChangeLanguage">Cambia lingua</string>
+  <string name="PrivacyPolicy">Politica sulla riservatezza</string>
+  <string name="Gallery">Galleria</string>
+  <string name="Camera">Telecamera</string>
+  <string name="DoYouWantToExit">Vuoi uscire</string>
+  <string name="Cancel">Annulla</string>
+  <string name="Exit">Uscita</string>
+  <string name="SelectAppLanguage">Seleziona Lingua dell\'app</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Copia</string>
+  <string name="FullScreen">A schermo intero</string>
+  <string name="ClearTitle">Chiaro</string>
+  <string name="ClearConversationMsg">Sei sicuro di voler cancellare la conversazione?</string>
+  <string name="Yes">SÌ</string>
+  <string name="No">NO</string>
+  <string name="SelectLanguage">Seleziona la lingua</string>
+  <string name="Downloading">Download</string>
+  <string name="DownloadDialogMsg">Attendi mentre il tuo modello viene scaricato</string>
+  <string name="Download">Scaricamento</string>
+  <string name="DownloadModel">Scarica il modello</string>
+  <string name="DownloadModelDialogMsg">È necessario scaricare il modello prima di selezionare questa lingua</string>
+  <string name="UseWifiMsg">Stai utilizzando una rete cellulare. Si prega di utilizzare il Wi-Fi per scaricare il modello</string>
+  <string name="Searching">Ricerca</string>
+  <string name="NotFound">Non trovato</string>
+  <string name="Image">Immagine :</string>
+  <string name="PleaseConnectToInternet">Si prega di connettersi a Internet</string>
+  <string name="NotFoundMsg">La parola che stai cercando non è stata trovata nel nostro dizionario</string>
+  <string name="NoTextFoundToShare">Nessun testo trovato da condividere</string>
+  <string name="NoTranslationFoundToShare">Nessuna traduzione trovata da condividere</string>
+  <string name="NoTranslationFoundToCopy">Nessuna traduzione trovata da copiare</string>
+  <string name="NoTextFoundToCopy">Nessun testo trovato da copiare</string>
+  <string name="NoTextToSpeak">Nessun testo da parlare</string>
+  <string name="LanguageDetected">Lingua rilevata</string>
+  <string name="OCRImage">Immagine OCR</string>
+  <string name="OCRTranslation">Traduzione OCR</string>
+  <string name="CopiedToClipboard">Copiato negli appunti</string>
+  <string name="ChooseLanguageFirst">Scegli Lingua prima di procedere ulteriormente</string>
+  <string name="EnterTextToTranslate">Inserisci il testo da tradurre</string>
+  <string name="TextFromImage">Testo dall\'immagine</string>
+  <string name="GettingText">Ottenere testo</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Inserisci una parola per cercare</string>
+  <string name="Translating">Traduzione</string>
+  <string name="PermissionsNotGranted">Autorizzazioni non concesse</string>
+  <string name="CameraPermissionsMsg">Concedi le autorizzazioni della fotocamera per acquisire l\'immagine</string>
+  <string name="StoragePermissionsMsg">Concedi le autorizzazioni di archiviazione interna per ottenere l\'immagine dalla galleria</string>
+  <string name="GrantPermissionsBtn">Concedi autorizzazioni</string>
+  <string name="ooooppss_network_not_available">Ooooppss, rete non disponibile</string>
+  <string name="ad_is_loading">L\'annuncio si sta caricando</string>
+  <string name="internet_warning_message">Ops, Internet non connesso. Si prega di collegarsi a Internet per l\'uso del dizionario.</string>
+
+
+</resources>

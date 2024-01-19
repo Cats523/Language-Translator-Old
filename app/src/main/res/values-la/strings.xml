@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Lingua Translator</string>
+  <string name="home">Home</string>
+  <string name="shareVia">Share via</string>
+  <string name="LanguageTranslator">Lingua Translator</string>
+  <string name="Translate">Translate</string>
+  <string name="Conversation">Colloquium</string>
+  <string name="OCR">PDF</string>
+  <string name="Dictionary">Dictionary</string>
+  <string name="SearchWord">Quaerere verbum</string>
+  <string name="ShareWithFriends">Share cum amici</string>
+  <string name="ChangeLanguage">Mutare Linguam</string>
+  <string name="PrivacyPolicy">Privacy policy</string>
+  <string name="Gallery">Gallery</string>
+  <string name="Camera">Camera</string>
+  <string name="DoYouWantToExit">Visne exire</string>
+  <string name="Cancel">Cancel</string>
+  <string name="Exit">Exitus</string>
+  <string name="SelectAppLanguage">Lego App Lingua</string>
+  <string name="Ok">Bene</string>
+  <string name="Copy">Copy</string>
+  <string name="FullScreen">Plena Screen</string>
+  <string name="ClearTitle">Patet</string>
+  <string name="ClearConversationMsg">Certus esne sermonem purgare vis?</string>
+  <string name="Yes">Ita</string>
+  <string name="No">No</string>
+  <string name="SelectLanguage">Linguae Selectae</string>
+  <string name="Downloading">Downloading</string>
+  <string name="DownloadDialogMsg">Quaeso expectare dum exemplar tuum est downloading</string>
+  <string name="Download">Download</string>
+  <string name="DownloadModel">Download Model</string>
+  <string name="DownloadModelDialogMsg">Exemplar primum debes deponi antequam hanc linguam eligis</string>
+  <string name="UseWifiMsg">Cellularibus ornatum uteris. Quaeso uti Wifi ut download exemplum</string>
+  <string name="Searching">Inquisitionis</string>
+  <string name="NotFound">Non Inventum</string>
+  <string name="Image">Imago :</string>
+  <string name="PleaseConnectToInternet">Quaeso coniungere ad interrete</string>
+  <string name="NotFoundMsg">Verbum quod quaeris non invenitur in dictionario nostro</string>
+  <string name="NoTextFoundToShare">No text found to share</string>
+  <string name="NoTranslationFoundToShare">Nulla translatio ad participes</string>
+  <string name="NoTranslationFoundToCopy">Nulla translatio ad effingendum inventa est</string>
+  <string name="NoTextFoundToCopy">Nullus textus invenitur ad effingo</string>
+  <string name="NoTextToSpeak">Nullus textus loqui</string>
+  <string name="LanguageDetected">Lingua Results</string>
+  <string name="OCRImage">OCR Image</string>
+  <string name="OCRTranslation">PDF Translation</string>
+  <string name="CopiedToClipboard">Clipboard copied</string>
+  <string name="ChooseLanguageFirst">Lingua elige prius quam ulterius procedere</string>
+  <string name="EnterTextToTranslate">Intra textum ad transferendum</string>
+  <string name="TextFromImage">Textum ex imagine</string>
+  <string name="GettingText">Questus text</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Please enter some word to search</string>
+  <string name="Translating">Translatio</string>
+  <string name="PermissionsNotGranted">Permissiones non sunt concessae</string>
+  <string name="CameraPermissionsMsg">Quaeso, concedas camera permissionum imaginem capere</string>
+  <string name="StoragePermissionsMsg">Da quaeso permissiones repono internus ut imaginem ex gallery</string>
+  <string name="GrantPermissionsBtn">Da Permissionibus</string>
+</resources>

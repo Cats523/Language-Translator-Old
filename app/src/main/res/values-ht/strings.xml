@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Lang tradiktè</string>
+  <string name="home">Lakay</string>
+  <string name="shareVia">Pataje via</string>
+  <string name="LanguageTranslator">Lang tradiktè</string>
+  <string name="Translate">Tradui</string>
+  <string name="Conversation">Konvèsasyon</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Diksyonè</string>
+  <string name="SearchWord">Mo rechèch</string>
+  <string name="ShareWithFriends">Pataje ak Zanmi</string>
+  <string name="ChangeLanguage">Chanje Lang</string>
+  <string name="PrivacyPolicy">Règleman sou enfòmasyon prive</string>
+  <string name="Gallery">Galeri</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Ou vle sòti</string>
+  <string name="Cancel">Anile</string>
+  <string name="Exit">Sòti</string>
+  <string name="SelectAppLanguage">Chwazi lang nan aplikasyon an</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopi</string>
+  <string name="FullScreen">Ekran konplè</string>
+  <string name="ClearTitle">Klè</string>
+  <string name="ClearConversationMsg">Èske ou sèten ou vle klè konvèsasyon an?</string>
+  <string name="Yes">Wi</string>
+  <string name="No">Non</string>
+  <string name="SelectLanguage">Chwazi Lang</string>
+  <string name="Downloading">Telechaje</string>
+  <string name="DownloadDialogMsg">Tanpri tann pandan y ap telechaje modèl ou a</string>
+  <string name="Download">Telechaje</string>
+  <string name="DownloadModel">Telechaje Modèl</string>
+  <string name="DownloadModelDialogMsg">Ou bezwen telechaje modèl la an premye anvan ou chwazi lang sa a</string>
+  <string name="UseWifiMsg">W ap itilize rezo selilè. Tanpri itilize Wifi pou telechaje modèl la</string>
+  <string name="Searching">Chèche</string>
+  <string name="NotFound">Pa jwenn</string>
+  <string name="Image">Imaj:</string>
+  <string name="PleaseConnectToInternet">Tanpri konekte ak entènèt</string>
+  <string name="NotFoundMsg">Mo w ap chèche a pa jwenn nan diksyonè nou an</string>
+  <string name="NoTextFoundToShare">Pa jwenn tèks pou pataje</string>
+  <string name="NoTranslationFoundToShare">Pa jwenn tradiksyon pou pataje</string>
+  <string name="NoTranslationFoundToCopy">Pa jwenn tradiksyon pou kopye</string>
+  <string name="NoTextFoundToCopy">Pa jwenn tèks pou kopye</string>
+  <string name="NoTextToSpeak">Pa gen tèks pou pale</string>
+  <string name="LanguageDetected">Lang Detekte</string>
+  <string name="OCRImage">OCR Imaj</string>
+  <string name="OCRTranslation">Tradiksyon OCR</string>
+  <string name="CopiedToClipboard">Kopi nan clipboard</string>
+  <string name="ChooseLanguageFirst">Chwazi Lang an premye anvan ou kontinye pi lwen</string>
+  <string name="EnterTextToTranslate">Antre tèks pou tradui</string>
+  <string name="TextFromImage">Tèks soti nan imaj</string>
+  <string name="GettingText">Jwenn tèks</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Tanpri antre kèk mo pou fè rechèch</string>
+  <string name="Translating">Tradiksyon</string>
+  <string name="PermissionsNotGranted">Otorizasyon yo pa akòde</string>
+  <string name="CameraPermissionsMsg">Tanpri bay kamera otorizasyon pou pran imaj</string>
+  <string name="StoragePermissionsMsg">Tanpri bay otorizasyon depo entèn pou jwenn imaj nan galri</string>
+  <string name="GrantPermissionsBtn">Bay otorizasyon</string>
+</resources>

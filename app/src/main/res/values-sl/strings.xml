@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Jezikovni prevajalec</string>
+  <string name="home">Domov</string>
+  <string name="shareVia">Delite prek</string>
+  <string name="LanguageTranslator">Jezikovni prevajalec</string>
+  <string name="Translate">Prevesti</string>
+  <string name="Conversation">Pogovor</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Slovar</string>
+  <string name="SearchWord">Iskana beseda</string>
+  <string name="ShareWithFriends">Deli s prijatelji</string>
+  <string name="ChangeLanguage">Spremeni jezik</string>
+  <string name="PrivacyPolicy">Politika zasebnosti</string>
+  <string name="Gallery">Galerija</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Ali želite izstopiti</string>
+  <string name="Cancel">Prekliči</string>
+  <string name="Exit">Izhod</string>
+  <string name="SelectAppLanguage">Izberite jezik aplikacije</string>
+  <string name="Ok">V redu</string>
+  <string name="Copy">Kopirati</string>
+  <string name="FullScreen">Celozaslonski način</string>
+  <string name="ClearTitle">Jasno</string>
+  <string name="ClearConversationMsg">Ali ste prepričani, da želite počistiti pogovor?</string>
+  <string name="Yes">Ja</string>
+  <string name="No">Št</string>
+  <string name="SelectLanguage">Izberi jezik</string>
+  <string name="Downloading">Prenašanje</string>
+  <string name="DownloadDialogMsg">Počakajte, da se vaš model nalaga</string>
+  <string name="Download">Prenesi</string>
+  <string name="DownloadModel">Prenesi model</string>
+  <string name="DownloadModelDialogMsg">Preden izberete ta jezik, morate najprej prenesti model</string>
+  <string name="UseWifiMsg">Uporabljate mobilno omrežje. Za prenos modela uporabite Wifi</string>
+  <string name="Searching">Iskanje</string>
+  <string name="NotFound">Ni najdeno</string>
+  <string name="Image">Slika:</string>
+  <string name="PleaseConnectToInternet">Povežite se z internetom</string>
+  <string name="NotFoundMsg">Besede, ki jo iščete, ni v našem slovarju</string>
+  <string name="NoTextFoundToShare">Ni besedila za skupno rabo</string>
+  <string name="NoTranslationFoundToShare">Ni prevoda za skupno rabo</string>
+  <string name="NoTranslationFoundToCopy">Ni prevoda za kopiranje</string>
+  <string name="NoTextFoundToCopy">Ni besedila za kopiranje</string>
+  <string name="NoTextToSpeak">Ni besedila za govor</string>
+  <string name="LanguageDetected">Zaznan jezik</string>
+  <string name="OCRImage">OCR slika</string>
+  <string name="OCRTranslation">OCR prevod</string>
+  <string name="CopiedToClipboard">Kopirano v odložišče</string>
+  <string name="ChooseLanguageFirst">Najprej izberite Jezik, preden nadaljujete</string>
+  <string name="EnterTextToTranslate">Vnesite besedilo za prevod</string>
+  <string name="TextFromImage">Besedilo iz slike</string>
+  <string name="GettingText">Pridobivanje besedila</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Vnesite besedo za iskanje</string>
+  <string name="Translating">Prevajanje</string>
+  <string name="PermissionsNotGranted">Dovoljenja niso podeljena</string>
+  <string name="CameraPermissionsMsg">Dovolite kameri dovoljenja za zajem slike</string>
+  <string name="StoragePermissionsMsg">Dovolite dovoljenja za notranji pomnilnik, da dobite sliko iz galerije</string>
+  <string name="GrantPermissionsBtn">Podeli dovoljenja</string>
+</resources>

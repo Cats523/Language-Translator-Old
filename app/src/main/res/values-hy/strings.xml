@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Լեզուների թարգմանիչ</string>
+  <string name="home">Տուն</string>
+  <string name="shareVia">Կիսվել միջոցով</string>
+  <string name="LanguageTranslator">Լեզուների թարգմանիչ</string>
+  <string name="Translate">Թարգմանել</string>
+  <string name="Conversation">Զրույց</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Բառարան</string>
+  <string name="SearchWord">Որոնման բառ</string>
+  <string name="ShareWithFriends">Կիսվեք ընկերների հետ</string>
+  <string name="ChangeLanguage">Փոխել լեզուն</string>
+  <string name="PrivacyPolicy">Գաղտնիության քաղաքականություն</string>
+  <string name="Gallery">Պատկերասրահ</string>
+  <string name="Camera">Տեսախցիկ</string>
+  <string name="DoYouWantToExit">Ցանկանու՞մ եք դուրս գալ</string>
+  <string name="Cancel">Չեղարկել</string>
+  <string name="Exit">Ելք</string>
+  <string name="SelectAppLanguage">Ընտրեք Հավելվածի լեզուն</string>
+  <string name="Ok">Լավ</string>
+  <string name="Copy">Պատճենել</string>
+  <string name="FullScreen">Ամբողջ էկրանով</string>
+  <string name="ClearTitle">Պարզ</string>
+  <string name="ClearConversationMsg">Իսկապե՞ս ուզում եք մաքրել խոսակցությունը:</string>
+  <string name="Yes">Այո՛</string>
+  <string name="No">Ոչ</string>
+  <string name="SelectLanguage">Ընտրել լեզուն</string>
+  <string name="Downloading">Ներբեռնում</string>
+  <string name="DownloadDialogMsg">Խնդրում ենք սպասել, մինչև ձեր մոդելը ներբեռնվի</string>
+  <string name="Download">Բեռնել</string>
+  <string name="DownloadModel">Ներբեռնեք մոդել</string>
+  <string name="DownloadModelDialogMsg">Նախքան այս լեզուն ընտրելը, նախ պետք է ներբեռնեք մոդելը</string>
+  <string name="UseWifiMsg">Դուք օգտագործում եք բջջային ցանց: Խնդրում ենք օգտագործել Wifi՝ մոդելը ներբեռնելու համար</string>
+  <string name="Searching">Որոնում</string>
+  <string name="NotFound">Չի գտնվել</string>
+  <string name="Image">Պատկեր :</string>
+  <string name="PleaseConnectToInternet">Խնդրում ենք միանալ ինտերնետին</string>
+  <string name="NotFoundMsg">Ձեր փնտրած բառը մեր բառարանում չկա</string>
+  <string name="NoTextFoundToShare">Համօգտագործելու համար տեքստ չի գտնվել</string>
+  <string name="NoTranslationFoundToShare">Համօգտագործելու համար թարգմանություն չի գտնվել</string>
+  <string name="NoTranslationFoundToCopy">Պատճենելու համար թարգմանություն չի գտնվել</string>
+  <string name="NoTextFoundToCopy">Պատճենելու համար տեքստ չի գտնվել</string>
+  <string name="NoTextToSpeak">Խոսելու տեքստ չկա</string>
+  <string name="LanguageDetected">Հայտնաբերվել է լեզուն</string>
+  <string name="OCRImage">OCR պատկեր</string>
+  <string name="OCRTranslation">OCR թարգմանություն</string>
+  <string name="CopiedToClipboard">Պատճենվել է սեղմատախտակում</string>
+  <string name="ChooseLanguageFirst">Ընտրեք Լեզուն, նախքան հետագա շարունակելը</string>
+  <string name="EnterTextToTranslate">Մուտքագրեք տեքստը թարգմանելու համար</string>
+  <string name="TextFromImage">Տեքստ պատկերից</string>
+  <string name="GettingText">Տեքստ ստանալը</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Խնդրում ենք մուտքագրել որևէ բառ որոնման համար</string>
+  <string name="Translating">Թարգմանում է</string>
+  <string name="PermissionsNotGranted">Թույլտվությունները չեն տրամադրվել</string>
+  <string name="CameraPermissionsMsg">Խնդրում ենք տրամադրել տեսախցիկի թույլտվություններ՝ պատկեր նկարահանելու համար</string>
+  <string name="StoragePermissionsMsg">Խնդրում ենք տրամադրել ներքին պահեստավորման թույլտվություններ՝ պատկերասրահից պատկեր ստանալու համար</string>
+  <string name="GrantPermissionsBtn">Տրամադրել թույլտվություններ</string>
+</resources>

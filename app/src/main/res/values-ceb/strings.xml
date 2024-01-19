@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Tighubad sa Pinulongan</string>
+  <string name="home">Balay</string>
+  <string name="shareVia">Ipakigbahin pinaagi sa</string>
+  <string name="LanguageTranslator">Tighubad sa Pinulongan</string>
+  <string name="Translate">Hubad</string>
+  <string name="Conversation">Pag-istoryahanay</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Diksiyonaryo</string>
+  <string name="SearchWord">Pangitag pulong</string>
+  <string name="ShareWithFriends">Ipakigbahin sa mga Higala</string>
+  <string name="ChangeLanguage">Usba ang Pinulongan</string>
+  <string name="PrivacyPolicy">Patakaran sa Pagkapribado</string>
+  <string name="Gallery">Gallery</string>
+  <string name="Camera">Camera</string>
+  <string name="DoYouWantToExit">Gusto ka mugawas</string>
+  <string name="Cancel">Pagkanselar</string>
+  <string name="Exit">Paggawas</string>
+  <string name="SelectAppLanguage">Pilia ang Pinulongan sa App</string>
+  <string name="Ok">OK ra</string>
+  <string name="Copy">Kopyaha</string>
+  <string name="FullScreen">Bug-os nga Screen</string>
+  <string name="ClearTitle">Klaro</string>
+  <string name="ClearConversationMsg">Sigurado ka ba nga gusto nimong hawanan ang panag-istoryahanay?</string>
+  <string name="Yes">Oo</string>
+  <string name="No">Dili</string>
+  <string name="SelectLanguage">Pilia ang Pinulongan</string>
+  <string name="Downloading">Nag-download</string>
+  <string name="DownloadDialogMsg">Palihug paghulat samtang nag-download ang imong modelo</string>
+  <string name="Download">Pag-download</string>
+  <string name="DownloadModel">Pag-download sa Modelo</string>
+  <string name="DownloadModelDialogMsg">Kinahanglan nimo nga i-download una ang modelo sa dili pa nimo pilion kini nga pinulongan</string>
+  <string name="UseWifiMsg">Gigamit nimo ang cellular network. Palihug gamita ang Wifi aron ma-download ang modelo</string>
+  <string name="Searching">Nangita</string>
+  <string name="NotFound">Wala Makita</string>
+  <string name="Image">Hulagway :</string>
+  <string name="PleaseConnectToInternet">Palihug kumonekta sa internet</string>
+  <string name="NotFoundMsg">Ang pulong nga imong gipangita wala makita sa among diksyonaryo</string>
+  <string name="NoTextFoundToShare">Walay teksto nga nakit-an nga ipaambit</string>
+  <string name="NoTranslationFoundToShare">Walay hubad nga nakit-an nga ipaambit</string>
+  <string name="NoTranslationFoundToCopy">Walay hubad nga nakit-an aron kopyahon</string>
+  <string name="NoTextFoundToCopy">Walay teksto nga nakit-an aron kopyahon</string>
+  <string name="NoTextToSpeak">Walay text nga musulti</string>
+  <string name="LanguageDetected">Namatikdan ang Pinulongan</string>
+  <string name="OCRImage">Imahe sa OCR</string>
+  <string name="OCRTranslation">Paghubad sa OCR</string>
+  <string name="CopiedToClipboard">Gikopya sa clipboard</string>
+  <string name="ChooseLanguageFirst">Pilia una ang Pinulongan sa dili ka pa mopadayon</string>
+  <string name="EnterTextToTranslate">Pagsulod ug teksto aron hubaron</string>
+  <string name="TextFromImage">Teksto gikan sa imahe</string>
+  <string name="GettingText">Pagkuha og text</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Palihog pagsulod ug pulong nga pangitaon</string>
+  <string name="Translating">Paghubad</string>
+  <string name="PermissionsNotGranted">Wala gihatag ang mga permiso</string>
+  <string name="CameraPermissionsMsg">Palihug hatagi ang mga pagtugot sa camera aron makuha ang imahe</string>
+  <string name="StoragePermissionsMsg">Palihog hatagi ug internal storage permiso para makakuha ug hulagway gikan sa gallery</string>
+  <string name="GrantPermissionsBtn">Ihatag ang mga Permiso</string>
+</resources>

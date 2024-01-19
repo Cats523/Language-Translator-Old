@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Překladač jazyků</string>
+  <string name="app_title">Překladač jazyků</string>
+  <string name="home">přeložit</string>
+  <string name="shareVia">Sdílet přes</string>
+  <string name="LanguageTranslator">Překladač jazyků</string>
+  <string name="Translate">Přeložit</string>
+  <string name="Conversation">Konverzace</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Anglický slovník</string>
+  <string name="SearchWord">Hledané slovo</string>
+  <string name="ShareWithFriends">Sdílet s přáteli</string>
+  <string name="ChangeLanguage">Změnit jazyk</string>
+  <string name="PrivacyPolicy">Zásady ochrany osobních údajů</string>
+  <string name="Gallery">Galerie</string>
+  <string name="Camera">Fotoaparát</string>
+  <string name="DoYouWantToExit">Chceš odejít</string>
+  <string name="Cancel">Zrušení</string>
+  <string name="Exit">Výstup</string>
+  <string name="SelectAppLanguage">Vyberte Jazyk aplikace</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopírovat</string>
+  <string name="FullScreen">Celá obrazovka</string>
+  <string name="ClearTitle">Průhledná</string>
+  <string name="ClearConversationMsg">Opravdu chcete vymazat konverzaci?</string>
+  <string name="Yes">Ano</string>
+  <string name="No">Ne</string>
+  <string name="SelectLanguage">Zvolte jazyk</string>
+  <string name="Downloading">Stahování</string>
+  <string name="DownloadDialogMsg">Počkejte prosím, než se váš model stáhne</string>
+  <string name="Download">Stažení</string>
+  <string name="DownloadModel">Stáhnout model</string>
+  <string name="DownloadModelDialogMsg">Než zvolíte tento jazyk, musíte si nejprve stáhnout model</string>
+  <string name="UseWifiMsg">Používáte mobilní síť. Ke stažení modelu použijte Wifi</string>
+  <string name="Searching">Hledání</string>
+  <string name="NotFound">Nenalezeno</string>
+  <string name="Image">Obraz :</string>
+  <string name="PleaseConnectToInternet">Připojte se k internetu</string>
+  <string name="NotFoundMsg">Slovo, které hledáte, se v našem slovníku nenachází</string>
+  <string name="NoTextFoundToShare">Nebyl nalezen žádný text ke sdílení</string>
+  <string name="NoTranslationFoundToShare">Nebyl nalezen žádný překlad ke sdílení</string>
+  <string name="NoTranslationFoundToCopy">Nebyl nalezen žádný překlad ke kopírování</string>
+  <string name="NoTextFoundToCopy">Nebyl nalezen žádný text ke kopírování</string>
+  <string name="NoTextToSpeak">Žádný text k mluvení</string>
+  <string name="LanguageDetected">Jazyk zjištěn</string>
+  <string name="OCRImage">Obrázek OCR</string>
+  <string name="OCRTranslation">Překlad OCR</string>
+  <string name="CopiedToClipboard">Zkopírováno do schránky</string>
+  <string name="ChooseLanguageFirst">Než budete pokračovat, vyberte nejprve Jazyk</string>
+  <string name="EnterTextToTranslate">Zadejte text k překladu</string>
+  <string name="TextFromImage">Text z obrázku</string>
+  <string name="GettingText">Získávání textu</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Zadejte nějaké slovo, které chcete vyhledat</string>
+  <string name="Translating">Překládání</string>
+  <string name="PermissionsNotGranted">Oprávnění nebyla udělena</string>
+  <string name="CameraPermissionsMsg">Udělte prosím fotoaparátu oprávnění k pořízení snímku</string>
+  <string name="StoragePermissionsMsg">Chcete-li získat obrázek z galerie, udělte prosím oprávnění k internímu úložišti</string>
+  <string name="GrantPermissionsBtn">Udělení oprávnění</string>
+  <string name="ooooppss_network_not_available">Ooooppss, síť není k dispozici</string>
+  <string name="ad_is_loading">Reklama se načítá</string>
+  <string name="internet_warning_message">Ups, internet není připojen. Připojte se k internetu pro použití slovníku.</string>
+
+</resources>

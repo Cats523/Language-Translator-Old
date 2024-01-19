@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Переводчик языков</string>
+  <string name="home">Переводить</string>
+  <string name="shareVia">Отправить по</string>
+  <string name="LanguageTranslator">Переводчик языков</string>
+  <string name="Translate">Переводить</string>
+  <string name="Conversation">Беседа</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Английский словарь</string>
+  <string name="SearchWord">Поисковое слово</string>
+  <string name="ShareWithFriends">Поделиться с друзьями</string>
+  <string name="ChangeLanguage">Изменение языка</string>
+  <string name="PrivacyPolicy">Политика конфиденциальности</string>
+  <string name="Gallery">Галерея</string>
+  <string name="Camera">Камера</string>
+  <string name="DoYouWantToExit">Вы хотите выйти</string>
+  <string name="Cancel">Отмена</string>
+  <string name="Exit">Выход</string>
+  <string name="SelectAppLanguage">Выберите язык приложения</string>
+  <string name="Ok">ХОРОШО</string>
+  <string name="Copy">Копировать</string>
+  <string name="FullScreen">Полноэкранный</string>
+  <string name="ClearTitle">Прозрачный</string>
+  <string name="ClearConversationMsg">Вы уверены, что хотите очистить чат?</string>
+  <string name="Yes">Да</string>
+  <string name="No">Нет</string>
+  <string name="SelectLanguage">Выберите язык</string>
+  <string name="Downloading">Загрузка</string>
+  <string name="DownloadDialogMsg">Пожалуйста, подождите, пока ваша модель загружается</string>
+  <string name="Download">Скачать</string>
+  <string name="DownloadModel">Скачать модель</string>
+  <string name="DownloadModelDialogMsg">Вам необходимо сначала загрузить модель, прежде чем выбрать этот язык</string>
+  <string name="UseWifiMsg">Вы используете сотовую сеть. Пожалуйста, используйте Wi-Fi для загрузки модели</string>
+  <string name="Searching">Идет поиск</string>
+  <string name="NotFound">Не найдено</string>
+  <string name="Image">Изображение :</string>
+  <string name="PleaseConnectToInternet">Пожалуйста, подключитесь к Интернету</string>
+  <string name="NotFoundMsg">Слово, которое вы ищете, не найдено в нашем словаре</string>
+  <string name="NoTextFoundToShare">Текст для отправки не найден</string>
+  <string name="NoTranslationFoundToShare">Не найден перевод, которым можно поделиться</string>
+  <string name="NoTranslationFoundToCopy">Не найден перевод для копирования</string>
+  <string name="NoTextFoundToCopy">Текст для копирования не найден</string>
+  <string name="NoTextToSpeak">Нет текста для произнесения</string>
+  <string name="LanguageDetected">Язык обнаружен</string>
+  <string name="OCRImage">OCR-изображение</string>
+  <string name="OCRTranslation">OCR-перевод</string>
+  <string name="CopiedToClipboard">Скопировано в буфер обмена</string>
+  <string name="ChooseLanguageFirst">Сначала выберите язык, прежде чем продолжить</string>
+  <string name="EnterTextToTranslate">Введите текст для перевода</string>
+  <string name="TextFromImage">Текст с изображения</string>
+  <string name="GettingText">Получение текста</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Пожалуйста, введите слово для поиска</string>
+  <string name="Translating">Идет перевод</string>
+  <string name="PermissionsNotGranted">Разрешения не предоставлены</string>
+  <string name="CameraPermissionsMsg">Предоставьте камере разрешение на захват изображения</string>
+  <string name="StoragePermissionsMsg">Предоставьте разрешения на внутреннее хранилище, чтобы получить изображение из галереи</string>
+  <string name="GrantPermissionsBtn">Предоставление разрешений</string>
+  <string name="ad_is_loading">Объявление загружается</string>
+  <string name="ooooppss_network_not_available">Оооооо сеть недоступна.</string>
+  <string name="internet_warning_message">Упс, отсутствует подключение к интернету. Пожалуйста, подключитесь к интернету для использования словаря.</string>
+
+</resources>

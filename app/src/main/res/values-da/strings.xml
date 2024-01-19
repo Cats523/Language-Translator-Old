@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Sprogoversætter</string>
+  <string name="app_title">Sprogoversætter</string>
+  <string name="home">Oversætte</string>
+  <string name="shareVia">Del via</string>
+  <string name="LanguageTranslator">Sprogoversætter</string>
+  <string name="Translate">Oversætte</string>
+  <string name="Conversation">Samtale</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Engelsk ordbog</string>
+  <string name="SearchWord">Søgeord</string>
+  <string name="ShareWithFriends">Del med venner</string>
+  <string name="ChangeLanguage">Skift sprog</string>
+  <string name="PrivacyPolicy">Fortrolighedspolitik</string>
+  <string name="Gallery">Galleri</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Vil du afslutte</string>
+  <string name="Cancel">Afbestille</string>
+  <string name="Exit">Afslut</string>
+  <string name="SelectAppLanguage">Vælg App Language</string>
+  <string name="Ok">Okay</string>
+  <string name="Copy">Kopi</string>
+  <string name="FullScreen">Fuld skærm</string>
+  <string name="ClearTitle">Klar</string>
+  <string name="ClearConversationMsg">Er du sikker på, at du vil rydde samtalen?</string>
+  <string name="Yes">Ja</string>
+  <string name="No">Ingen</string>
+  <string name="SelectLanguage">Vælg sprog</string>
+  <string name="Downloading">Downloader</string>
+  <string name="DownloadDialogMsg">Vent venligst, mens din model downloades</string>
+  <string name="Download">Hent</string>
+  <string name="DownloadModel">Download model</string>
+  <string name="DownloadModelDialogMsg">Du skal downloade modellen først, før du vælger dette sprog</string>
+  <string name="UseWifiMsg">Du bruger mobilnetværk. Brug venligst Wifi til at downloade modellen</string>
+  <string name="Searching">Søger</string>
+  <string name="NotFound">Ikke fundet</string>
+  <string name="Image">Billede:</string>
+  <string name="PleaseConnectToInternet">Opret forbindelse til internettet</string>
+  <string name="NotFoundMsg">Ordet du leder efter findes ikke i vores ordbog</string>
+  <string name="NoTextFoundToShare">Der blev ikke fundet nogen tekst at dele</string>
+  <string name="NoTranslationFoundToShare">Der blev ikke fundet nogen oversættelse at dele</string>
+  <string name="NoTranslationFoundToCopy">Ingen oversættelse fundet at kopiere</string>
+  <string name="NoTextFoundToCopy">Ingen tekst fundet at kopiere</string>
+  <string name="NoTextToSpeak">Ingen tekst at tale</string>
+  <string name="LanguageDetected">Sprog registreret</string>
+  <string name="OCRImage">OCR billede</string>
+  <string name="OCRTranslation">OCR-oversættelse</string>
+  <string name="CopiedToClipboard">Kopieret til udklipsholder</string>
+  <string name="ChooseLanguageFirst">Vælg sprog først, før du fortsætter</string>
+  <string name="EnterTextToTranslate">Indtast tekst for at oversætte</string>
+  <string name="TextFromImage">Tekst fra billede</string>
+  <string name="GettingText">Henter tekst</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Indtast venligst et ord for at søge</string>
+  <string name="Translating">Oversættelse</string>
+  <string name="PermissionsNotGranted">Tilladelser ikke givet</string>
+  <string name="CameraPermissionsMsg">Giv venligst kameratilladelse til at tage billeder</string>
+  <string name="StoragePermissionsMsg">Giv venligst intern lagringstilladelse for at hente billede fra galleriet</string>
+  <string name="GrantPermissionsBtn">Giv tilladelser</string>
+  <string name="ooooppss_network_not_available">Ooooppss, netværk ikke tilgængeligt</string>
+  <string name="ad_is_loading">Annoncen indlæses</string>
+  <string name="internet_warning_message">Ups, internet ikke tilsluttet. Opret forbindelse til internettet for at bruge ordbogen.</string>
+
+
+</resources>

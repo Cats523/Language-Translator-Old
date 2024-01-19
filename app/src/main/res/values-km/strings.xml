@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">អ្នកបកប្រែភាសា</string>
+  <string name="home">ផ្ទះ</string>
+  <string name="shareVia">ចែករំលែកតាមរយៈ</string>
+  <string name="LanguageTranslator">អ្នកបកប្រែភាសា</string>
+  <string name="Translate">បកប្រែ</string>
+  <string name="Conversation">ការសន្ទនា</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">វចនានុក្រម</string>
+  <string name="SearchWord">ស្វែងរកពាក្យ</string>
+  <string name="ShareWithFriends">ចែករំលែកជាមួយមិត្តភក្តិ</string>
+  <string name="ChangeLanguage">ប្ដូរ​ភាសា</string>
+  <string name="PrivacyPolicy">គោលការណ៍​ភាព​ឯកជន</string>
+  <string name="Gallery">វិចិត្រសាល</string>
+  <string name="Camera">កាមេរ៉ា</string>
+  <string name="DoYouWantToExit">តើ​អ្នក​ចង់​ចេញ</string>
+  <string name="Cancel">បោះបង់</string>
+  <string name="Exit">ចេញ</string>
+  <string name="SelectAppLanguage">ជ្រើសរើសភាសាកម្មវិធី</string>
+  <string name="Ok">យល់ព្រម</string>
+  <string name="Copy">ចម្លង</string>
+  <string name="FullScreen">ពេញ​អេក្រង់</string>
+  <string name="ClearTitle">ច្បាស់</string>
+  <string name="ClearConversationMsg">តើអ្នកប្រាកដថាចង់លុបការសន្ទនាទេ?</string>
+  <string name="Yes">បាទ</string>
+  <string name="No">ទេ</string>
+  <string name="SelectLanguage">ជ្រើសរើស​ភាសា</string>
+  <string name="Downloading">កំពុងទាញយក</string>
+  <string name="DownloadDialogMsg">សូមរង់ចាំខណៈពេលដែលម៉ូដែលរបស់អ្នកកំពុងទាញយក</string>
+  <string name="Download">ទាញយក</string>
+  <string name="DownloadModel">ទាញយកម៉ូដែល</string>
+  <string name="DownloadModelDialogMsg">អ្នកត្រូវទាញយកគំរូជាមុនសិន មុនពេលអ្នកជ្រើសរើសភាសានេះ។</string>
+  <string name="UseWifiMsg">អ្នកកំពុងប្រើបណ្តាញកោសិកា។ សូមប្រើ Wifi ដើម្បីទាញយកម៉ូដែល</string>
+  <string name="Searching">កំពុងស្វែងរក</string>
+  <string name="NotFound">រក​មិន​ឃើញ</string>
+  <string name="Image">រូបភាព៖</string>
+  <string name="PleaseConnectToInternet">សូមភ្ជាប់អ៊ីនធឺណិត</string>
+  <string name="NotFoundMsg">ពាក្យដែលអ្នកកំពុងស្វែងរកមិនត្រូវបានរកឃើញនៅក្នុងវចនានុក្រមរបស់យើងទេ។</string>
+  <string name="NoTextFoundToShare">រកមិនឃើញអត្ថបទដើម្បីចែករំលែកទេ។</string>
+  <string name="NoTranslationFoundToShare">រកមិនឃើញការបកប្រែដើម្បីចែករំលែកទេ។</string>
+  <string name="NoTranslationFoundToCopy">រកមិនឃើញការបកប្រែដើម្បីចម្លងទេ។</string>
+  <string name="NoTextFoundToCopy">រកមិនឃើញអត្ថបទដើម្បីចម្លងទេ។</string>
+  <string name="NoTextToSpeak">គ្មានអត្ថបទដែលត្រូវនិយាយ</string>
+  <string name="LanguageDetected">ភាសាបានរកឃើញ</string>
+  <string name="OCRImage">រូបភាព OCR</string>
+  <string name="OCRTranslation">ការបកប្រែ OCR</string>
+  <string name="CopiedToClipboard">បានចម្លងទៅក្ដារតម្បៀតខ្ទាស់</string>
+  <string name="ChooseLanguageFirst">ជ្រើសរើសភាសាជាមុនសិន មុនពេលអ្នកបន្តទៅមុខទៀត។</string>
+  <string name="EnterTextToTranslate">បញ្ចូលអត្ថបទដើម្បីបកប្រែ</string>
+  <string name="TextFromImage">អត្ថបទពីរូបភាព</string>
+  <string name="GettingText">ការទទួលបានអត្ថបទ</string>
+  <string name="PleaseEnterWordToSearchInDictionary">សូមបញ្ចូលពាក្យមួយចំនួនដើម្បីស្វែងរក</string>
+  <string name="Translating">ការបកប្រែ</string>
+  <string name="PermissionsNotGranted">ការអនុញ្ញាតមិនត្រូវបានផ្តល់ឱ្យទេ។</string>
+  <string name="CameraPermissionsMsg">សូមផ្តល់ការអនុញ្ញាតកាមេរ៉ាដើម្បីថតរូបភាព</string>
+  <string name="StoragePermissionsMsg">សូមផ្តល់ការអនុញ្ញាតឱ្យផ្ទុកខាងក្នុងដើម្បីទទួលបានរូបភាពពីវិចិត្រសាល</string>
+  <string name="GrantPermissionsBtn">ផ្តល់ការអនុញ្ញាត</string>
+</resources>

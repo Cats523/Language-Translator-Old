@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Kaiwhakamaori Reo</string>
+  <string name="home">Kainga</string>
+  <string name="shareVia">Tiri ma</string>
+  <string name="LanguageTranslator">Kaiwhakamaori Reo</string>
+  <string name="Translate">Whakamaori</string>
+  <string name="Conversation">Kōrerorero</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Papakupu</string>
+  <string name="SearchWord">Rapu kupu</string>
+  <string name="ShareWithFriends">Tiri ki nga hoa</string>
+  <string name="ChangeLanguage">Hurihia te Reo</string>
+  <string name="PrivacyPolicy">Kaupapahere Tūmataiti</string>
+  <string name="Gallery">Taiwhanga</string>
+  <string name="Camera">Kāmera</string>
+  <string name="DoYouWantToExit">Kei te pirangi koe ki te puta</string>
+  <string name="Cancel">Whakakore</string>
+  <string name="Exit">Putaatu</string>
+  <string name="SelectAppLanguage">Tīpakohia te Reo Taupānga</string>
+  <string name="Ok">Pai</string>
+  <string name="Copy">Tārua</string>
+  <string name="FullScreen">Mata Katoa</string>
+  <string name="ClearTitle">Maamaa</string>
+  <string name="ClearConversationMsg">Kei te tino hiahia koe ki te whakakore i te korerorero?</string>
+  <string name="Yes">Ae</string>
+  <string name="No">Kao</string>
+  <string name="SelectLanguage">Tīpakohia te Reo</string>
+  <string name="Downloading">Tikiake ana</string>
+  <string name="DownloadDialogMsg">Tatari koa i te wa e tikiake ana to tauira</string>
+  <string name="Download">Tikiake</string>
+  <string name="DownloadModel">Tikiake Tauira</string>
+  <string name="DownloadModelDialogMsg">Me tango e koe te tauira i mua i to kowhiri i tenei reo</string>
+  <string name="UseWifiMsg">Kei te whakamahi koe i te whatunga pūkoro. Tena koa whakamahi Wifi ki te tango i te tauira</string>
+  <string name="Searching">E rapu ana</string>
+  <string name="NotFound">Kaore i Kitea</string>
+  <string name="Image">Atahanga :</string>
+  <string name="PleaseConnectToInternet">Tūhono koa ki te ipurangi</string>
+  <string name="NotFoundMsg">Ko te kupu e rapu ana koe kaore i kitea i roto i ta maatau papakupu</string>
+  <string name="NoTextFoundToShare">Karekau he kupu i kitea hei tiri</string>
+  <string name="NoTranslationFoundToShare">Kaore i kitea he whakamaoritanga hei tiri</string>
+  <string name="NoTranslationFoundToCopy">Karekau he whakamaoritanga i kitea hei kape</string>
+  <string name="NoTextFoundToCopy">Karekau he kupu i kitea hei kape</string>
+  <string name="NoTextToSpeak">Kaore he kuputuhi hei korero</string>
+  <string name="LanguageDetected">Kua kitea te reo</string>
+  <string name="OCRImage">Whakaahua OCR</string>
+  <string name="OCRTranslation">OCR Translation</string>
+  <string name="CopiedToClipboard">Kua tāruatia ki te papatopenga</string>
+  <string name="ChooseLanguageFirst">Kōwhiria te Reo i mua i to haere whakamua</string>
+  <string name="EnterTextToTranslate">Whakauruhia he kupu hei whakamaori</string>
+  <string name="TextFromImage">Kuputuhi mai i te ahua</string>
+  <string name="GettingText">Te tiki tuhinga</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Whakaurua koa etahi kupu hei rapu</string>
+  <string name="Translating">Whakamaori</string>
+  <string name="PermissionsNotGranted">Kaore nga whakaaetanga i tukuna</string>
+  <string name="CameraPermissionsMsg">Whakaaetia mai te kamera ki te hopu whakaahua</string>
+  <string name="StoragePermissionsMsg">Tena koa tuku whakaaetanga rokiroki o roto ki te tiki whakaahua mai i te taiwhanga</string>
+  <string name="GrantPermissionsBtn">Tuku Whakaaetanga</string>
+</resources>

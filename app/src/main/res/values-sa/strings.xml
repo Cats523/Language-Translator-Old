@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">भाषा अनुवादक</string>
+  <string name="home">गृहम्‌</string>
+  <string name="shareVia">Share via</string>
+  <string name="LanguageTranslator">भाषा अनुवादक</string>
+  <string name="Translate">अनुवदति</string>
+  <string name="Conversation">संवादः</string>
+  <string name="OCR">ओसीआर</string>
+  <string name="Dictionary">शब्दकोश</string>
+  <string name="SearchWord">अन्वेषण शब्द</string>
+  <string name="ShareWithFriends">मित्रैः सह साझां कुर्वन्तु</string>
+  <string name="ChangeLanguage">भाषा परिवर्तयतु</string>
+  <string name="PrivacyPolicy">गोपनीयता नीति</string>
+  <string name="Gallery">गैलरी</string>
+  <string name="Camera">कॅमेरा</string>
+  <string name="DoYouWantToExit">किं त्वं निर्गन्तुं इच्छसि</string>
+  <string name="Cancel">निरसयतु</string>
+  <string name="Exit">निर्गम</string>
+  <string name="SelectAppLanguage">App Language इति चयनं कुर्वन्तु</string>
+  <string name="Ok">अस्तु</string>
+  <string name="Copy">प्रतिलिपि</string>
+  <string name="FullScreen">पूर्णपर्दे</string>
+  <string name="ClearTitle">स्पष्टः</string>
+  <string name="ClearConversationMsg">किं भवन्तः निश्चयेन सम्भाषणं स्वच्छं कर्तुम् इच्छन्ति?</string>
+  <string name="Yes">आम्‌</string>
+  <string name="No">नहि</string>
+  <string name="SelectLanguage">भाषां चिनोतु</string>
+  <string name="Downloading">डाउनलोड् करणम्</string>
+  <string name="DownloadDialogMsg">कृपया भवतः मॉडल् डाउनलोड् भवति यावत् प्रतीक्षां कुर्वन्तु</string>
+  <string name="Download">अवाहरन</string>
+  <string name="DownloadModel">Download Model इति</string>
+  <string name="DownloadModelDialogMsg">एतां भाषां चयनं कर्तुं पूर्वं प्रथमं मॉडलं डाउनलोड् कर्तव्यम्</string>
+  <string name="UseWifiMsg">भवान् सेलुलरजालस्य उपयोगं करोति। कृपया मॉडल् डाउनलोड् कर्तुं Wifi इत्यस्य उपयोगं कुर्वन्तु</string>
+  <string name="Searching">अन्वेषणम्</string>
+  <string name="NotFound">न लभ्यते</string>
+  <string name="Image">छवि :</string>
+  <string name="PleaseConnectToInternet">कृपया अन्तर्जालसङ्गतिं कुर्वन्तु</string>
+  <string name="NotFoundMsg">भवन्तः यत् शब्दं अन्विष्यन्ति तत् अस्माकं शब्दकोशे न प्राप्यते</string>
+  <string name="NoTextFoundToShare">साझां कर्तुं कोऽपि पाठः न लब्धः</string>
+  <string name="NoTranslationFoundToShare">साझां कर्तुं कोऽपि अनुवादः न प्राप्तः</string>
+  <string name="NoTranslationFoundToCopy">प्रतिलिपिं कर्तुं अनुवादः न लब्धः</string>
+  <string name="NoTextFoundToCopy">प्रतिलिपिं कर्तुं कोऽपि पाठः न लब्धः</string>
+  <string name="NoTextToSpeak">न पाठः वक्तुं</string>
+  <string name="LanguageDetected">भाषा ज्ञाता</string>
+  <string name="OCRImage">ओसीआर इमेज</string>
+  <string name="OCRTranslation">ओसीआर अनुवाद</string>
+  <string name="CopiedToClipboard">क्लिप्बोर्ड् मध्ये प्रतिलिपितः</string>
+  <string name="ChooseLanguageFirst">अग्रे गन्तुं पूर्वं प्रथमं Language इति चिनोतु</string>
+  <string name="EnterTextToTranslate">अनुवादार्थं पाठं प्रविशतु</string>
+  <string name="TextFromImage">बिम्बात् पाठः</string>
+  <string name="GettingText">पाठं प्राप्य</string>
+  <string name="PleaseEnterWordToSearchInDictionary">अन्वेषणार्थं किञ्चित् शब्दं प्रविशतु</string>
+  <string name="Translating">अनुवादं कुर्वन्</string>
+  <string name="PermissionsNotGranted">अनुमतिः न प्रदत्ता</string>
+  <string name="CameraPermissionsMsg">कृपया चित्रं गृहीतुं कॅमेरा-अनुमतिम् अयच्छन्तु</string>
+  <string name="StoragePermissionsMsg">कृपया गैलरीतः चित्रं प्राप्तुं आन्तरिकभण्डारणस्य अनुमतिं ददातु</string>
+  <string name="GrantPermissionsBtn">अनुज्ञां प्रदातुं</string>
+</resources>

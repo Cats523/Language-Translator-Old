@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">மொழி மொழிபெயர்ப்பாளர்</string>
+  <string name="app_title">மொழி மொழிபெயர்ப்பாளர்</string>
+  <string name="home">மொழிபெயர்</string>
+  <string name="shareVia">மூலம் பகிரவும்</string>
+  <string name="LanguageTranslator">மொழி மொழிபெயர்ப்பாளர்</string>
+  <string name="Translate">மொழிபெயர்</string>
+  <string name="Conversation">உரையாடல்</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">ஆங்கில அகராதி</string>
+  <string name="SearchWord">தேடல் வார்த்தை</string>
+  <string name="ShareWithFriends">நண்பர்களுடன் பகிருங்கள்</string>
+  <string name="ChangeLanguage">மொழியை மாற்றவும்</string>
+  <string name="PrivacyPolicy">தனியுரிமைக் கொள்கை</string>
+  <string name="Gallery">கேலரி</string>
+  <string name="Camera">புகைப்பட கருவி</string>
+  <string name="DoYouWantToExit">நீங்கள் வெளியேற விரும்புகிறீர்களா</string>
+  <string name="Cancel">ரத்து செய்</string>
+  <string name="Exit">வெளியேறு</string>
+  <string name="SelectAppLanguage">பயன்பாட்டு மொழியைத் தேர்ந்தெடுக்கவும்</string>
+  <string name="Ok">சரி</string>
+  <string name="Copy">நகலெடுக்கவும்</string>
+  <string name="FullScreen">முழு திரை</string>
+  <string name="ClearTitle">தெளிவு</string>
+  <string name="ClearConversationMsg">உரையாடலை நிச்சயமாக அழிக்க விரும்புகிறீர்களா?</string>
+  <string name="Yes">ஆம்</string>
+  <string name="No">இல்லை</string>
+  <string name="SelectLanguage">மொழியை தேர்ந்தெடுங்கள்</string>
+  <string name="Downloading">பதிவிறக்குகிறது</string>
+  <string name="DownloadDialogMsg">உங்கள் மாடல் பதிவிறக்கப்படும் வரை காத்திருக்கவும்</string>
+  <string name="Download">பதிவிறக்க Tamil</string>
+  <string name="DownloadModel">மாதிரியைப் பதிவிறக்கவும்</string>
+  <string name="DownloadModelDialogMsg">இந்த மொழியைத் தேர்ந்தெடுப்பதற்கு முன், நீங்கள் முதலில் மாதிரியைப் பதிவிறக்க வேண்டும்</string>
+  <string name="UseWifiMsg">நீங்கள் செல்லுலார் நெட்வொர்க்கைப் பயன்படுத்துகிறீர்கள். மாதிரியைப் பதிவிறக்க வைஃபையைப் பயன்படுத்தவும்</string>
+  <string name="Searching">தேடி</string>
+  <string name="NotFound">கிடைக்கவில்லை</string>
+  <string name="Image">படம்:</string>
+  <string name="PleaseConnectToInternet">இணையத்துடன் இணைக்கவும்</string>
+  <string name="NotFoundMsg">நீங்கள் தேடும் வார்த்தை எங்கள் அகராதியில் இல்லை</string>
+  <string name="NoTextFoundToShare">பகிர்வதற்கு உரை எதுவும் இல்லை</string>
+  <string name="NoTranslationFoundToShare">பகிர்வதற்கு மொழிபெயர்ப்பு எதுவும் இல்லை</string>
+  <string name="NoTranslationFoundToCopy">நகலெடுக்க எந்த மொழிபெயர்ப்பும் இல்லை</string>
+  <string name="NoTextFoundToCopy">நகலெடுக்க எந்த உரையும் இல்லை</string>
+  <string name="NoTextToSpeak">பேசுவதற்கு உரை இல்லை</string>
+  <string name="LanguageDetected">மொழி கண்டறியப்பட்டது</string>
+  <string name="OCRImage">OCR படம்</string>
+  <string name="OCRTranslation">OCR மொழிபெயர்ப்பு</string>
+  <string name="CopiedToClipboard">கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது</string>
+  <string name="ChooseLanguageFirst">நீங்கள் மேற்கொண்டு தொடரும் முன் முதலில் மொழியைத் தேர்ந்தெடுக்கவும்</string>
+  <string name="EnterTextToTranslate">மொழிபெயர்க்க உரையை உள்ளிடவும்</string>
+  <string name="TextFromImage">படத்திலிருந்து உரை</string>
+  <string name="GettingText">உரை பெறுகிறது</string>
+  <string name="PleaseEnterWordToSearchInDictionary">தேடுவதற்கு ஏதேனும் சொல்லை உள்ளிடவும்</string>
+  <string name="Translating">மொழிபெயர்த்தல்</string>
+  <string name="PermissionsNotGranted">அனுமதிகள் வழங்கப்படவில்லை</string>
+  <string name="CameraPermissionsMsg">படத்தைப் பிடிக்க கேமரா அனுமதிகளை வழங்கவும்</string>
+  <string name="StoragePermissionsMsg">கேலரியில் இருந்து படத்தைப் பெற உள் சேமிப்பக அனுமதிகளை வழங்கவும்</string>
+  <string name="GrantPermissionsBtn">அனுமதிகளை வழங்கவும்</string>
+  <string name="ad_is_loading">விளம்பரம் ஏற்றப்படுகிறது</string>
+  <string name="ooooppss_network_not_available">Ooooppss நெட்வொர்க் கிடைக்கவில்லை.</string>
+  <string name="internet_warning_message">ஓஹ், இணையம் இல்லை. அகராதிகள் பயன்படுத்துவதற்கு இணையத்துக்கு இணைந்தவைகள்.</string>
+
+</resources>

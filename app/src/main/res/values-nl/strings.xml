@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Vertaler</string>
+  <string name="app_title">Vertaler</string>
+  <string name="home">Vertalen</string>
+  <string name="shareVia">Deel via</string>
+  <string name="LanguageTranslator">Vertaler</string>
+  <string name="Translate">Vertalen</string>
+  <string name="Conversation">Gesprek</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Engels woordenboek</string>
+  <string name="SearchWord">Zoek woord</string>
+  <string name="ShareWithFriends">Delen met vrienden</string>
+  <string name="ChangeLanguage">Taal wijzigen</string>
+  <string name="PrivacyPolicy">Privacybeleid</string>
+  <string name="Gallery">Galerij</string>
+  <string name="Camera">Camera</string>
+  <string name="DoYouWantToExit">Wil jij er uit</string>
+  <string name="Cancel">Annuleren</string>
+  <string name="Exit">Uitgang</string>
+  <string name="SelectAppLanguage">Selecteer App-taal</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Kopiëren</string>
+  <string name="FullScreen">Volledig scherm</string>
+  <string name="ClearTitle">Duidelijk</string>
+  <string name="ClearConversationMsg">Weet je zeker dat je het gesprek wilt wissen?</string>
+  <string name="Yes">Ja</string>
+  <string name="No">Nee</string>
+  <string name="SelectLanguage">Selecteer Taal</string>
+  <string name="Downloading">Downloaden</string>
+  <string name="DownloadDialogMsg">Even geduld terwijl uw model wordt gedownload</string>
+  <string name="Download">Downloaden</string>
+  <string name="DownloadModel">Model downloaden</string>
+  <string name="DownloadModelDialogMsg">U moet eerst het model downloaden voordat u deze taal selecteert</string>
+  <string name="UseWifiMsg">U gebruikt een mobiel netwerk. Gebruik wifi om het model te downloaden</string>
+  <string name="Searching">Zoeken</string>
+  <string name="NotFound">Niet gevonden</string>
+  <string name="Image">Afbeelding :</string>
+  <string name="PleaseConnectToInternet">Maak verbinding met internet</string>
+  <string name="NotFoundMsg">Het woord dat je zoekt staat niet in ons woordenboek</string>
+  <string name="NoTextFoundToShare">Geen tekst gevonden om te delen</string>
+  <string name="NoTranslationFoundToShare">Geen vertaling gevonden om te delen</string>
+  <string name="NoTranslationFoundToCopy">Geen vertaling gevonden om te kopiëren</string>
+  <string name="NoTextFoundToCopy">Geen tekst gevonden om te kopiëren</string>
+  <string name="NoTextToSpeak">Geen tekst om te spreken</string>
+  <string name="LanguageDetected">Taal gedetecteerd</string>
+  <string name="OCRImage">OCR-afbeelding</string>
+  <string name="OCRTranslation">OCR-vertaling</string>
+  <string name="CopiedToClipboard">Gekopieerd naar het klembord</string>
+  <string name="ChooseLanguageFirst">Kies eerst Taal voordat u verder gaat</string>
+  <string name="EnterTextToTranslate">Voer tekst in om te vertalen</string>
+  <string name="TextFromImage">Tekst uit afbeelding</string>
+  <string name="GettingText">Tekst ophalen</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Voer een woord in om te zoeken</string>
+  <string name="Translating">Vertalen</string>
+  <string name="PermissionsNotGranted">Machtigingen niet verleend</string>
+  <string name="CameraPermissionsMsg">Geef de camera toestemming om de afbeelding vast te leggen</string>
+  <string name="StoragePermissionsMsg">Geef toestemming voor interne opslag om afbeeldingen uit de galerij te halen</string>
+  <string name="GrantPermissionsBtn">Machtigingen verlenen</string>
+  <string name="ooooppss_network_not_available">Ooooppss, netwerk niet beschikbaar</string>
+  <string name="ad_is_loading">Advertentie wordt geladen</string>
+  <string name="internet_warning_message">Oeps, internet niet verbonden. Maak verbinding met internet voor het gebruik van het woordenboek.</string>
+
+
+</resources>

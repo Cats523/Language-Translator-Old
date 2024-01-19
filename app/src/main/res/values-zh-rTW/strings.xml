@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">語言翻譯</string>
+  <string name="home">家</string>
+  <string name="shareVia">分享方式</string>
+  <string name="LanguageTranslator">語言翻譯</string>
+  <string name="Translate">翻譯</string>
+  <string name="Conversation">對話</string>
+  <string name="OCR">文字識別</string>
+  <string name="Dictionary">字典</string>
+  <string name="SearchWord">搜索詞</string>
+  <string name="ShareWithFriends">和朋友分享</string>
+  <string name="ChangeLanguage">改變語言</string>
+  <string name="PrivacyPolicy">隱私政策</string>
+  <string name="Gallery">畫廊</string>
+  <string name="Camera">相機</string>
+  <string name="DoYouWantToExit">你想出去嗎</string>
+  <string name="Cancel">取消</string>
+  <string name="Exit">出口</string>
+  <string name="SelectAppLanguage">選擇應用程序語言</string>
+  <string name="Ok">好的</string>
+  <string name="Copy">複製</string>
+  <string name="FullScreen">全屏</string>
+  <string name="ClearTitle">清除</string>
+  <string name="ClearConversationMsg">您確定要清除對話嗎？</string>
+  <string name="Yes">是的</string>
+  <string name="No">不</string>
+  <string name="SelectLanguage">選擇語言</string>
+  <string name="Downloading">下載中</string>
+  <string name="DownloadDialogMsg">正在下載您的模型，請稍候</string>
+  <string name="Download">下載</string>
+  <string name="DownloadModel">下載模型</string>
+  <string name="DownloadModelDialogMsg">在選擇此語言之前，您需要先下載模型</string>
+  <string name="UseWifiMsg">您正在使用蜂窩網絡。 請使用Wifi下載模型</string>
+  <string name="Searching">搜索中</string>
+  <string name="NotFound">未找到</string>
+  <string name="Image">圖像 ：</string>
+  <string name="PleaseConnectToInternet">請連接到互聯網</string>
+  <string name="NotFoundMsg">在我們的詞典中找不到您要查找的詞</string>
+  <string name="NoTextFoundToShare">找不到要分享的文字</string>
+  <string name="NoTranslationFoundToShare">找不到要分享的翻譯</string>
+  <string name="NoTranslationFoundToCopy">找不到要復制的翻譯</string>
+  <string name="NoTextFoundToCopy">找不到要復制的文字</string>
+  <string name="NoTextToSpeak">沒有文字可說</string>
+  <string name="LanguageDetected">檢測到語言</string>
+  <string name="OCRImage">OCR圖像</string>
+  <string name="OCRTranslation">OCR 翻譯</string>
+  <string name="CopiedToClipboard">複製到剪貼板</string>
+  <string name="ChooseLanguageFirst">在繼續之前先選擇語言</string>
+  <string name="EnterTextToTranslate">輸入要翻譯的文字</string>
+  <string name="TextFromImage">圖片中的文字</string>
+  <string name="GettingText">獲取文本</string>
+  <string name="PleaseEnterWordToSearchInDictionary">請輸入要搜索的詞</string>
+  <string name="Translating">翻譯</string>
+  <string name="PermissionsNotGranted">未授予權限</string>
+  <string name="CameraPermissionsMsg">請授予相機拍攝圖像的權限</string>
+  <string name="StoragePermissionsMsg">請授予內部存儲權限以從圖庫中獲取圖像</string>
+  <string name="GrantPermissionsBtn">授予權限</string>
+</resources>

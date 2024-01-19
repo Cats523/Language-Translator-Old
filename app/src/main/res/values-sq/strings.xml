@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Përkthyes i gjuhës</string>
+  <string name="home">Shtëpi</string>
+  <string name="shareVia">Shpërndaje nëpërmjet</string>
+  <string name="LanguageTranslator">Përkthyes i gjuhës</string>
+  <string name="Translate">Përkthejeni</string>
+  <string name="Conversation">Bashkëbisedim</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Fjalor</string>
+  <string name="SearchWord">Fjala e kërkimit</string>
+  <string name="ShareWithFriends">Ndaje me miqte</string>
+  <string name="ChangeLanguage">Ndrysho gjuhën</string>
+  <string name="PrivacyPolicy">Politika e privatësisë</string>
+  <string name="Gallery">Galeri</string>
+  <string name="Camera">Kamera</string>
+  <string name="DoYouWantToExit">Dëshironi të dilni</string>
+  <string name="Cancel">Anulo</string>
+  <string name="Exit">Dilni</string>
+  <string name="SelectAppLanguage">Zgjidhni gjuhën e aplikacionit</string>
+  <string name="Ok">Ne rregull</string>
+  <string name="Copy">Kopjo</string>
+  <string name="FullScreen">Ekran i plotë</string>
+  <string name="ClearTitle">Qartë</string>
+  <string name="ClearConversationMsg">Jeni i sigurt që dëshironi të pastroni bisedën?</string>
+  <string name="Yes">Po</string>
+  <string name="No">Nr</string>
+  <string name="SelectLanguage">Zgjidh gjuhen</string>
+  <string name="Downloading">Po shkarkohet</string>
+  <string name="DownloadDialogMsg">Ju lutemi prisni derisa modeli juaj të shkarkohet</string>
+  <string name="Download">Shkarko</string>
+  <string name="DownloadModel">Shkarko Modelin</string>
+  <string name="DownloadModelDialogMsg">Së pari duhet të shkarkoni modelin përpara se të zgjidhni këtë gjuhë</string>
+  <string name="UseWifiMsg">Ju jeni duke përdorur rrjetin celular. Ju lutemi përdorni Wi-Fi për të shkarkuar modelin</string>
+  <string name="Searching">Duke kërkuar</string>
+  <string name="NotFound">Nuk u gjet</string>
+  <string name="Image">Imazhi:</string>
+  <string name="PleaseConnectToInternet">Ju lutemi lidheni me internetin</string>
+  <string name="NotFoundMsg">Fjala që kërkoni nuk gjendet në fjalorin tonë</string>
+  <string name="NoTextFoundToShare">Nuk u gjet asnjë tekst për t\'u ndarë</string>
+  <string name="NoTranslationFoundToShare">Nuk u gjet asnjë përkthim për t\'u ndarë</string>
+  <string name="NoTranslationFoundToCopy">Nuk u gjet asnjë përkthim për t\'u kopjuar</string>
+  <string name="NoTextFoundToCopy">Nuk u gjet asnjë tekst për t\'u kopjuar</string>
+  <string name="NoTextToSpeak">Nuk ka tekst për të folur</string>
+  <string name="LanguageDetected">Gjuha e zbuluar</string>
+  <string name="OCRImage">Imazhi OCR</string>
+  <string name="OCRTranslation">Përkthim OCR</string>
+  <string name="CopiedToClipboard">Kopjuar në kujtesën e fragmenteve</string>
+  <string name="ChooseLanguageFirst">Zgjidhni gjuhën fillimisht përpara se të vazhdoni më tej</string>
+  <string name="EnterTextToTranslate">Fut tekstin për të përkthyer</string>
+  <string name="TextFromImage">Teksti nga imazhi</string>
+  <string name="GettingText">Marrja e tekstit</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Ju lutemi shkruani një fjalë për të kërkuar</string>
+  <string name="Translating">Duke përkthyer</string>
+  <string name="PermissionsNotGranted">Lejet nuk janë dhënë</string>
+  <string name="CameraPermissionsMsg">Jepni lejet e kamerës për të kapur imazhin</string>
+  <string name="StoragePermissionsMsg">Jepni leje për ruajtjen e brendshme për të marrë imazh nga galeria</string>
+  <string name="GrantPermissionsBtn">Jepni leje</string>
+</resources>

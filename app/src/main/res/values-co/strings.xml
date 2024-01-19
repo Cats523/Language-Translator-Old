@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Traduttore di lingua</string>
+  <string name="home">A casa</string>
+  <string name="shareVia">Condividi via</string>
+  <string name="LanguageTranslator">Traduttore di lingua</string>
+  <string name="Translate">Traduce</string>
+  <string name="Conversation">Cunversazione</string>
+  <string name="OCR">OCR</string>
+  <string name="Dictionary">Dizziunariu</string>
+  <string name="SearchWord">Parola di ricerca</string>
+  <string name="ShareWithFriends">Condividi cù l\'Amici</string>
+  <string name="ChangeLanguage">Cambia lingua</string>
+  <string name="PrivacyPolicy">Pulitica di privacy</string>
+  <string name="Gallery">Galeria</string>
+  <string name="Camera">Camera</string>
+  <string name="DoYouWantToExit">Vulete esce</string>
+  <string name="Cancel">Cancella</string>
+  <string name="Exit">Esci</string>
+  <string name="SelectAppLanguage">Selezziunà App Lingua</string>
+  <string name="Ok">OK</string>
+  <string name="Copy">Copia</string>
+  <string name="FullScreen">Pantalla piena</string>
+  <string name="ClearTitle">Chjara</string>
+  <string name="ClearConversationMsg">Sò sicuru chì vulete sguassà a cunversazione?</string>
+  <string name="Yes">Iè</string>
+  <string name="No">Innò</string>
+  <string name="SelectLanguage">Selezziunà a lingua</string>
+  <string name="Downloading">Scaricamentu</string>
+  <string name="DownloadDialogMsg">Per piacè aspettate mentre u vostru mudellu hè scaricatu</string>
+  <string name="Download">Scaricate</string>
+  <string name="DownloadModel">Scaricate u mudellu</string>
+  <string name="DownloadModelDialogMsg">Avete bisognu di scaricà u mudellu prima prima di sceglie sta lingua</string>
+  <string name="UseWifiMsg">Aduprate a rete cellulare. Per piacè utilizate Wifi per scaricà u mudellu</string>
+  <string name="Searching">A ricerca</string>
+  <string name="NotFound">Micca trovu</string>
+  <string name="Image">Image :</string>
+  <string name="PleaseConnectToInternet">Per piacè cunnette à Internet</string>
+  <string name="NotFoundMsg">A parolla chì cercate ùn hè micca truvata in u nostru dizziunariu</string>
+  <string name="NoTextFoundToShare">Nisun testu trovu à sparte</string>
+  <string name="NoTranslationFoundToShare">Nisuna traduzzione truvata per sparte</string>
+  <string name="NoTranslationFoundToCopy">Nisuna traduzzione truvata per copià</string>
+  <string name="NoTextFoundToCopy">Nisun testu trovu da copià</string>
+  <string name="NoTextToSpeak">Nisun testu per parlà</string>
+  <string name="LanguageDetected">Lingua rilevata</string>
+  <string name="OCRImage">Image OCR</string>
+  <string name="OCRTranslation">Traduzione OCR</string>
+  <string name="CopiedToClipboard">Copiatu in u clipboard</string>
+  <string name="ChooseLanguageFirst">Sceglite prima lingua prima di andà in più</string>
+  <string name="EnterTextToTranslate">Inserite u testu à traduce</string>
+  <string name="TextFromImage">Testu da l\'imagine</string>
+  <string name="GettingText">Riceve testu</string>
+  <string name="PleaseEnterWordToSearchInDictionary">Per piacè inserite una parolla per circà</string>
+  <string name="Translating">Traducendu</string>
+  <string name="PermissionsNotGranted">I permessi ùn sò micca cuncessi</string>
+  <string name="CameraPermissionsMsg">Per piacè cuncede permessi di càmera per catturà l\'imaghjini</string>
+  <string name="StoragePermissionsMsg">Per piacè cuncede permessi di almacenamiento internu per uttene l\'imaghjini da a galeria</string>
+  <string name="GrantPermissionsBtn">Concede Permissions</string>
+</resources>

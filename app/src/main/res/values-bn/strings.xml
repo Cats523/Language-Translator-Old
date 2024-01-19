@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+    <string name="app_name">ভাষা অনুবাদক</string>
+    <string name="app_title">ভাষা অনুবাদক</string>
+    <string name="home">অনুবাদ করা</string>
+    <string name="shareVia">এর মাধ্যমে শেয়ার করুন</string>
+    <string name="LanguageTranslator">ভাষা অনুবাদক</string>
+    <string name="Translate">অনুবাদ করা</string>
+    <string name="Conversation">কথোপকথন</string>
+    <string name="OCR">ওসিআর</string>
+    <string name="Dictionary">ইংরেজি অভিধান</string>
+    <string name="SearchWord">শব্দ অনুসন্ধান করুন</string>
+    <string name="ShareWithFriends">বন্ধুদের সাথে ভাগাভাগি করা</string>
+    <string name="ChangeLanguage">ভাষা পরিবর্তন করুন</string>
+    <string name="PrivacyPolicy">গোপনীয়তা নীতি</string>
+    <string name="Gallery">গ্যালারি</string>
+    <string name="Camera">ক্যামেরা</string>
+    <string name="DoYouWantToExit">আপনি প্রস্থান করতে চান</string>
+    <string name="Cancel">বাতিল করুন</string>
+    <string name="Exit">প্রস্থান করুন</string>
+    <string name="SelectAppLanguage">অ্যাপের ভাষা নির্বাচন করুন</string>
+    <string name="Ok">ঠিক আছে</string>
+    <string name="Copy">কপি</string>
+    <string name="FullScreen">পূর্ণ পর্দা</string>
+    <string name="ClearTitle">পরিষ্কার</string>
+    <string name="ClearConversationMsg">আপনি কি নিশ্চিত আপনি কথোপকথন সাফ করতে চান?</string>
+    <string name="Yes">হ্যাঁ</string>
+    <string name="No">না</string>
+    <string name="SelectLanguage">ভাষা নির্বাচন কর</string>
+    <string name="Downloading">ডাউনলোড হচ্ছে</string>
+    <string name="DownloadDialogMsg">আপনার মডেল ডাউনলোড হচ্ছে অপেক্ষা করুন</string>
+    <string name="Download">ডাউনলোড করুন</string>
+    <string name="DownloadModel">মডেল ডাউনলোড করুন</string>
+    <string name="DownloadModelDialogMsg">আপনি এই ভাষা নির্বাচন করার আগে আপনাকে প্রথমে মডেলটি ডাউনলোড করতে হবে৷</string>
+    <string name="UseWifiMsg">আপনি সেলুলার নেটওয়ার্ক ব্যবহার করছেন। মডেল ডাউনলোড করতে ওয়াইফাই ব্যবহার করুন</string>
+    <string name="Searching">অনুসন্ধান করা হচ্ছে</string>
+    <string name="NotFound">পাওয়া যায়নি</string>
+    <string name="Image">ছবি:</string>
+    <string name="PleaseConnectToInternet">অনুগ্রহ করে ইন্টারনেটে সংযোগ করুন</string>
+    <string name="NotFoundMsg">আপনি যে শব্দটি খুঁজছেন তা আমাদের অভিধানে পাওয়া যায় না</string>
+    <string name="NoTextFoundToShare">ভাগ করার জন্য কোনো পাঠ্য পাওয়া যায়নি</string>
+    <string name="NoTranslationFoundToShare">শেয়ার করার জন্য কোন অনুবাদ পাওয়া যায়নি</string>
+    <string name="NoTranslationFoundToCopy">অনুলিপি করার জন্য কোন অনুবাদ পাওয়া যায়নি</string>
+    <string name="NoTextFoundToCopy">অনুলিপি করার জন্য কোন পাঠ্য পাওয়া যায়নি</string>
+    <string name="NoTextToSpeak">কথা বলার কোন টেক্সট নেই</string>
+    <string name="LanguageDetected">ভাষা সনাক্ত করা হয়েছে</string>
+    <string name="OCRImage">ওসিআর ছবি</string>
+    <string name="OCRTranslation">ওসিআর অনুবাদ</string>
+    <string name="CopiedToClipboard">ক্লিপবোর্ডে কপি করা হয়েছে</string>
+    <string name="ChooseLanguageFirst">আপনি আরও এগিয়ে যাওয়ার আগে প্রথমে ভাষা চয়ন করুন৷</string>
+    <string name="EnterTextToTranslate">অনুবাদ করতে পাঠ্য লিখুন</string>
+    <string name="TextFromImage">চিত্র থেকে পাঠ্য</string>
+    <string name="GettingText">পাঠ্য হচ্ছে</string>
+    <string name="PleaseEnterWordToSearchInDictionary">অনুগ্রহ করে অনুসন্ধান করতে কিছু শব্দ লিখুন</string>
+    <string name="Translating">অনুবাদ করছে</string>
+    <string name="PermissionsNotGranted">অনুমতি দেওয়া হয়নি</string>
+    <string name="CameraPermissionsMsg">অনুগ্রহ করে ছবি তোলার জন্য ক্যামেরার অনুমতি দিন</string>
+    <string name="StoragePermissionsMsg">গ্যালারি থেকে ছবি পেতে দয়া করে অভ্যন্তরীণ সঞ্চয়স্থানের অনুমতি দিন</string>
+    <string name="GrantPermissionsBtn">অনুমতি প্রদান করুন</string>
+    <string name="ooooppss_network_not_available">ওহো, নেটওয়ার্ক পাওয়া যায়নি</string>
+    <string name="ad_is_loading">বিজ্ঞাপন লোড হচ্ছে</string>
+    <string name="internet_warning_message">উফ, ইন্টারনেট সংযোগ করা হয়নি। অভিধান ব্যবহারের জন্য ইন্টারনেটে সংযুক্ত হোন।</string>
+
+
+</resources>
